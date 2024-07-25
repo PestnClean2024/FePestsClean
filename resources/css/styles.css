@@ -15,10 +15,10 @@ body {
 
 @font-face {
     font-family: 'Inter';
-    src: url(../fonts/Inter-Regular.ttf) format(truetype);
+    src: url(../../assets/fonts/Inter-Regular.ttf) format(truetype);
 }
 
 @font-face {
     font-family: 'Noto Serif';
-    src: url(../fonts/NotoSerif-Regular.ttf) format(truetype);
+    src: url(../../assets/fonts/NotoSerif-Regular.ttf) format(truetype);
 }

@@ -1,0 +1,95 @@
+.footer-div{
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    Padding:80px 80px 32px 80px;
+    Gap:49px;
+}
+
+.footer-5{
+    position: relative;
+    text-align: left;
+}
+
+.width-img{
+    width: 364px;
+}
+
+.footer-img{
+    width: 299px;
+    height: 61px;
+}
+
+.font{
+    font-weight: bold;
+    color: #005ca9;
+}
+
+hr{
+    width: 89%;
+    border: 1px solid black;
+}
+
+p{
+    font-size: 14px;
+}
+
+.icon{
+    color: #005ca9;
+} 
+
+.footer-a{
+    text-align: center;
+    margin-top: 1rem;
+}
+
+a{
+    text-decoration: none;
+    color: #005ca9;
+    font-size: 14px;
+}
+
+.footer {
+    background-image: url('../../images/Footer/footer-horz.jpg');
+    background-size: cover; 
+    background-position: center; 
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 379px;
+    position: relative;
+
+}
+
+.footer-p-register{
+    font-size: 64px;
+    line-height: 96px;
+    color: #005ca9;
+   
+}
+
+.footer-p-Sign{
+    font-size: 18px;
+    line-height: 27px;
+    margin-top: -3rem;
+}
+
+.footer-log-re{
+    text-align: center;
+    position: absolute;
+    margin-left: 18rem;
+}
+
+.footer-a{
+    color:  #666;
+
+}
+
+input{
+    border: none;
+    background-color: transparent;
+    background: transparent;
+    outline: none;
+}
+
+.input-hr{
+    width: 32%;
+}
