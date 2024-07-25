@@ -55,10 +55,11 @@
 
     <div class="footer-a">
       <a href="#">Copyright © 2024 Petnclean</a> |
-      <a href="#">ông ty TNHH Thương Mại Dịch Vụ Xuất Khẩu Nguyên Duy Privacy Policy</a> |
+      <a href="#">Công ty TNHH Thương Mại Dịch Vụ Xuất Khẩu Nguyên Duy Privacy Policy</a> |
       <a href="#">Terms & Conditions</a>
     </div>
   </footer>
+  <script src="../../../js/jquery.min.js"></script>
+  <script src="../../../../assets/bootstrap/js/bootstrap.min.js"></script>
 </body>
-
 </html>

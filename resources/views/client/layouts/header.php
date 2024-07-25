@@ -15,6 +15,7 @@
     <link rel="stylesheet" href="/resources/css/styles.css">
     <link rel="stylesheet" href="/resources/css/components/header.css">
     <link rel="stylesheet" href="/resources/css/components/footer.css">
+    <link rel="stylesheet" href="/resources/css/components/home.css">
 </head>
 
 <body>
