@@ -11,16 +11,16 @@
         </div>
         <div class="carousel-inner">
             <div class="carousel-item active">
-                <img src="../../images/Home/home-slider-banner2.png" class="d-block w-100" alt="">
+                <img src="../../../../FePestsClean/resources/images/Home/home-slider-banner2.png" class="d-block w-100" alt="">
             </div>
             <div class="carousel-item">
-                <img src="../../images/Home/home-slider-banner1.png" class="d-block w-100" alt="">
+                <img src="../../../../FePestsClean/resources/images/Home/home-slider-banner1.png" class="d-block w-100" alt="">
             </div>
             <div class="carousel-item">
-                <img src="../../images/Home/home-slider-banner3.png" class="d-block w-100" alt="">
+                <img src="../../../../FePestsClean/resources/images/Home/home-slider-banner3.png" class="d-block w-100" alt="">
             </div>
             <div class="carousel-item">
-                <img src="../../images/Home/home-slider-banner4.png" class="d-block w-100" alt="">
+                <img src="../../../../FePestsClean/resources/images/Home/home-slider-banner4.png" class="d-block w-100" alt="">
             </div>
         </div>
         <button class="carousel-control-prev" type="button" data-bs-target="#homeCarouselBanner" data-bs-slide="prev">
