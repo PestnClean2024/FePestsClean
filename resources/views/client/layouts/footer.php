@@ -59,6 +59,9 @@
       <a href="#">Terms & Conditions</a>
     </div>
   </footer>
+
+  <?php include 'layouts/modal.php' ?>
+  
 </body>
 
 </html>
