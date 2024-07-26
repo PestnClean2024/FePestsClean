@@ -1,4 +1,4 @@
-const quantityInput = document.getElementById("quantity");
+const quantityInput = document.getElementById("quantity-input");
 const decreaseButton = document.getElementById("decrease");
 const increaseButton = document.getElementById("increase");
 let quantity = parseInt(quantityInput.value, 10);
@@ -31,5 +31,6 @@ $(document).ready(function () {
   $(".thumb").on("click", function () {
     var src = $(this).attr("src");
     $("#mainImage").attr("src", src);
+    console.log(123);
   });
 });

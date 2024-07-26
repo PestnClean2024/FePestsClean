@@ -1,0 +1,217 @@
+
+  h1{
+    font-family: "Noto Serif";
+  }
+  .wrapper {
+      margin: auto;
+      padding: 0px 80px;
+  }
+  .form-check-input:checked {
+    background-color: #005ca9;
+  }
+  .submit {
+    padding: 10px 40px;
+    color: #fff;
+    background-color: #005ca9;
+    border-color: #005ca9;
+    border: none;
+    border-radius: 15px;
+    font-size: 14px;
+  }
+  a {
+    color: #9fa6ac;
+  }
+  hr{
+    width: 100%;
+  }
+  .user  h1 {
+    color: #005ca9;
+  }
+  .user .icon {
+    color: #6c757d;
+  }
+  .user label {
+    font-size: 16px;
+  }
+  .form-switch .form-check-input {
+    height: 1.3rem !important;
+    width: 3.3rem !important;
+  }
+  /* =============================================User==================================================== */
+  /* -----------------------------------------------User_Aside------------------------------------ */
+  .user .aside {
+    border: 2px solid #e3e3e3;
+    border-radius: 10px;
+    height: 100%;
+  }
+  .user .aside > .aside-main > div > p {
+    font-weight: bold;
+    color: #9fa6ac;
+  }
+  .user .aside > .aside-main > div > p.active {
+    color: #005ca9;
+  }
+  .user .aside > .aside-main > div > p > a {
+    text-decoration: none;
+    font-size: 18px;
+  }
+  .user .aside > .aside-main > div > p.active > a {
+    text-decoration: none;
+    color: #005ca9;
+  }
+  
+  .user .aside > .aside-sub > div {
+    padding-bottom: 20px;
+    font-weight: bold;
+    color: #9fa6ac;
+    display: grid;
+    grid-template-columns: 35px auto;
+  }
+  .user .aside > .aside-sub > div > .icon {
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .user .aside > .aside-sub > div a {
+    text-decoration: none;
+    font-size: 18px;
+  }
+  /* -----------------------------------------------User_Article------------------------------------ */
+  /* ----------------------Article-info--------------------------- */
+  
+  .user .article-info .form {
+    display: grid;
+    grid-auto-rows: minmax(50px, auto);
+  }
+  .user .article-info .form > div {
+    display: grid;
+    grid-template-columns: 1fr 4fr 1fr;
+    margin-bottom: 20px;
+    font-size: 13px;
+    align-items: center;
+    font-weight: bold;
+  }
+  .user .article-info .form > div > label {
+    display: flex;
+  }
+  .user .article-info .form > div > input.form-control {
+    grid-column: 2/4;
+    border-radius: 25px;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 155%;
+  }
+  .user .article-info .form > div > a {
+    color: #005ca9;
+  }
+  .user .article-info .change {
+    color: #005ca9;
+    display: flex;
+    justify-content: end;
+  }
+  /* ----------------------Article-address--------------------------- */
+  /* .user .article-address > .content {
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+  } */
+  .user .article-address .content > .item > div {
+    display: flex;
+    justify-content: space-between;
+  }
+  .user .article-address .content > .item > .item-info {
+    font-weight: bold;
+  }
+  .user .article-address .content > .item > .item-info a {
+    color: #005ca9;
+  }
+  .user .article-address .content > .item > .item-address button {
+    color: #9fa6ac;
+    border-radius: 18px;
+    padding: 2px 20px !important;
+    border-color: #6c757d;
+    border: 1px solid #6c757d;
+    background-color: unset !important;
+    transition: 0.3s all ease;
+  }
+  .user .article-address .content > .item > .item-address button:hover {
+    background-color: #dedede !important;
+    transition: 0.3s all ease;
+  }
+  .user .article-address .content > .item > .item-note span {
+    padding: 2px 20px;
+    border: 1px solid #005ca9;
+    color: #005ca9;
+    border-radius: 18px;
+  }
+  /* ----------------------Article-notify--------------------------- */
+  .user .article-notify .content > div {
+    display: flex;
+    justify-content: space-between;
+  }
+  /* =============================================Order==================================================== */
+  /* -----------------------------------------------User_Aside------------------------------------ */
+  .order-setting .aside {
+    border: 2px solid #e3e3e3;
+    border-radius: 10px;
+    height: 100%;
+  }
+  .order-setting .aside > .aside-main > div > p {
+    font-weight: bold;
+    color: #9fa6ac;
+  }
+  .order-setting .aside > .aside-main > div > p.active {
+    color: #005ca9;
+  }
+  .order-setting .aside > .aside-main > div > p > a {
+    text-decoration: none;
+  }
+  .order-setting .aside > .aside-main > div > p.active > a {
+    text-decoration: none;
+    color: #005ca9;
+  }
+  .order-setting .aside > .aside-sub > div {
+    padding-bottom: 20px;
+    font-weight: bold;
+    color: #9fa6ac;
+    display: grid;
+    grid-template-columns: 35px auto;
+  }
+  .order-setting .aside > .aside-sub > div > .icon {
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .order-setting .aside > .aside-sub > div a {
+    text-decoration: none;
+  }
+  /* -----------------------------------------------Order_Article------------------------------------ */
+  /* ----------------------Article-order--------------------------- */
+  .order-setting .article-order-content .item {
+    display: grid;
+    grid-template-columns: 1fr 2.5fr 1fr 1fr 2.8fr 1fr;
+    margin-bottom: 65px;
+  }
+  .order-setting .article-order-content > * {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 0;
+  }
+  .order-setting .article-order-content .item-name {
+    font-size: 15px;
+    font-weight: bold;
+  }
+  .order-setting .article-order-content .item-size {
+    font-size: 13px;
+    color: #9fa6ac;
+  }
+  /* ----------------------Article-notify--------------------------- */
+  .order-setting .article-notify-content .item {
+    display: grid;
+    grid-template-columns: 1fr auto 2fr;
+    margin-bottom: 65px;
+  }
+  
