@@ -13,6 +13,10 @@ body {
     font-family: 'Inter';
 }
 
+.text-primary {
+    color: var(--Blue-500) !important;
+}
+
 @font-face {
     font-family: 'Inter';
     src: url(../../assets/fonts/Inter-Regular.ttf) format(truetype);

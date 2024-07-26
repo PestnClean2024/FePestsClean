@@ -54,7 +54,7 @@
     <hr>
 
     <div class="footer-a">
-      <a href="#">Copyright © 2024 Petnclean</a> |
+      <a href="#">Copyright © 2024 Petsnclean</a> |
       <a href="#">Công ty TNHH Thương Mại Dịch Vụ Xuất Khẩu Nguyễn Duy </a>
       <span class="mx-2">|</span>
       <a href="#" class="me-2">Privacy Policy</a>
@@ -64,5 +64,7 @@
   <?php include 'layouts/modal.php' ?>
   <script src="../../../js/jquery.min.js"></script>
   <script src="../../../../assets/bootstrap/js/bootstrap.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
+  <script src="../../js/components/details.js"></script>
 </body>
 </html>

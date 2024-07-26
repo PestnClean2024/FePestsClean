@@ -7,6 +7,8 @@
     <title>PestnClean</title>
 
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick-theme.css">
     
     <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.7/dist/umd/popper.min.js"></script>
 
@@ -19,13 +21,14 @@
     <link rel="stylesheet" href="/FePestsClean/resources/css/components/footer.css">
     <link rel="stylesheet" href="/FePestsClean/resources/css/components/serviceCleaning.css">
     <link rel="stylesheet" href="/FePestsClean/resources/css/components/authentication.css">
-    <link rel="stylesheet" href="/resources/css/components/home.css">
+    <link rel="stylesheet" href="/FePestsClean/resources/css/components/home.css">
+    <link rel="stylesheet" href="/FePestsClean/resources/css/components/user.css">
 </head>
 
 <body>
     <nav class="navbar navbar-expand-lg navbar-light bg-light px-5 py-3 navbar-background-color">
         <div class="container-fluid">
-            <a class="navbar-brand" href="#">
+            <a class="navbar-brand" href="index.php">
                 <div class="header-logo">
                     <img src="/FePestsClean/resources/images/Header/header-logo.png" alt="" class="img-fluid">
                 </div>
