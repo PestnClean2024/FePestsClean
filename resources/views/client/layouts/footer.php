@@ -10,7 +10,7 @@
 
     <div class="footer-div">
       <div class="footer-5 width-img">
-        <img src="/resources/images/Footer/Logo.png" alt="" class="footer-img">
+        <img src="/FePestsClean/resources/images/Footer/Logo.png" alt="" class="footer-img">
         <p class="footer-p"><span class="icon"><i class="fa-sharp fa-solid fa-location-dot"></i></span> Lầu 8, 123 Lý Chính Thắng, Phường Võ Thị Sáu, Quận 3, Thành phố Hồ Chí Minh</p>
         <p class="footer-p"><span class="icon"><i class="fa-solid fa-phone"></i></span> 0968 36 36 00</p>
         <p class="footer-p"><span class="icon"><i class="fa-solid fa-envelope"></i></span> sale@petnclean.vn | sale@petnclean.vn</p>
@@ -59,6 +59,7 @@
       <a href="#">Terms & Conditions</a>
     </div>
   </footer>
+  <?php include 'layouts/modal.php' ?>
   <script src="../../../js/jquery.min.js"></script>
   <script src="../../../../assets/bootstrap/js/bootstrap.min.js"></script>
 </body>
