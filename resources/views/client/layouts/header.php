@@ -13,6 +13,7 @@
     <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.7/dist/umd/popper.min.js"></script>
 
     <script src="/FePestsClean/assets/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <script src="../../../../../FePestsClean/resources/js/jquery.min.js"></script>
 
     <link rel="stylesheet" href="/FePestsClean/assets/bootstrap/css/bootstrap.min.css">
     <link rel="stylesheet" href="/FePestsClean/resources/css/reset.css">
