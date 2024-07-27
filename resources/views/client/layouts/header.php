@@ -23,6 +23,7 @@
     <link rel="stylesheet" href="/FePestsClean/resources/css/components/authentication.css">
     <link rel="stylesheet" href="/FePestsClean/resources/css/components/home.css">
     <link rel="stylesheet" href="/FePestsClean/resources/css/components/user.css">
+    <link rel="stylesheet" href="/FePestsClean/resources/css/components/cleaningSolution.css">
 </head>
 
 <body>

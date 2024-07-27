@@ -1,5 +1,5 @@
 /* Header */
-.service-cleaning-header {
+.cleaning-solution-header {
     position: relative;
     display: flex;
     justify-content: center;
@@ -7,10 +7,10 @@
     width: 1512px;
     height: 399.982px;
     flex-direction: column;
-    background-color: var(--Blue-500, #005CA9);
+    background-color: var(--color-Light-Purple-Purple);
 }
 
-.service-cleaning-header .headline {
+.cleaning-solution-header .headline {
     position: absolute;
     text-align: center;
     top: 50%;
@@ -18,7 +18,7 @@
     transform: translate(-50%, -50%);
 }
 
-.service-cleaning-header .headline .title {
+.cleaning-solution-header .headline .title {
     font-family: "Noto Serif";
     font-size: 64px;
     font-style: normal;
@@ -32,85 +32,75 @@
     color: #FFF;;
 }
 
-.service-cleaning-header .headline .btn-header {
+.cleaning-solution-header .headline .btn-header {
     padding: 8px 16px;
     gap: 8px;
     border-radius: 16px;
-    background: var(--Blue-500, #005CA9);
+    background: var(--color-Light-Purple-Purple);
     color: #FFF;
 }
 
-.service-cleaning-header .headline .btn-header:hover {
+.cleaning-solution-header .headline .btn-header:hover {
     padding: 8px 16px;
     border: 1px solid #fff;
 }
 
-/* Abouts */
-.service-cleaning-abouts .content {
-    padding: 0px 80px;
+/* Services */
+.cleaning-solution-services {
+    padding: 40px 80px;
     margin: 80px 0px;
 }
 
-.service-cleaning-abouts .content .row {
+.cleaning-solution-services .service-items {
+    text-align: center;
+    justify-content: center;
     align-items: center;
-    justify-content: space-between;
+    padding: 16px;
+    transition: transform 0.5s;
 }
 
-.service-cleaning-abouts .content .title {
-    color: var(--Blue-500, #005CA9);
-    font-family: "Noto Serif";
-    font-size: 64px;
+.cleaning-solution-services .service-items:hover {
+    transform: scale(1.05);
+    cursor: pointer;
+}
+
+.cleaning-solution-services .service-items .title {
+    color: var(--color-Light-Purple-Purple, #722ED1);
+    text-align: center;
+    font-size: 32px;
     font-style: normal;
-    font-weight: 500;
+    font-weight: 600;
     line-height: 150%;
-    text-transform: uppercase;
+    margin: 16px 0px;
 }
 
-.service-cleaning-abouts .content .description {
+.cleaning-solution-services .service-items .description {
     color: var(--Neutral-950, #0C0D0E);
-    font-family: 'Roboto';
-    font-size: 20px;
+    text-align: center;
+    font-size: 18px;
     font-style: normal;
     font-weight: 400;
-    line-height: 180%;
-    text-align: justify;
+    line-height: 150%;
 }
 
-.service-cleaning-abouts .content .video {
-    display: flex;
-    flex-direction: column;
-    align-items: flex-start;
-    flex: 1 0 0;
-    border-radius: 10px;
-    background: var(--Blue-500, #005CA9);
-    width: 100%;
-    height: 344px;
-}
-
-.service-cleaning-abouts .content .video iframe {
-    width: 100%;
-    height: 100%;
-    border-radius: 10px;
-}
-
-/* Services */
-.service-cleaning-services {
+/* Our services */
+.service-cleaning-our-services {
     padding: 0px 80px;
     margin-bottom: 80px;
 }
 
-.service-cleaning-services .headline .title {
-    color: var(--Blue-500, #005CA9);
+.service-cleaning-our-services .headline .title {
+    color: var(--color-Light-Purple-Purple, #722ED1);
     text-align: center;
     font-family: "Noto Serif";
-    font-size: 64px;
+    font-size: 56px;
     font-style: normal;
     font-weight: 500;
     line-height: 150%;
     text-transform: uppercase;
 }
 
-.service-cleaning-services .headline .subtitle {
+.service-cleaning-our-services .headline .subtitle {
     color: var(--Neutral-500, #868E96);
     text-align: center;
     font-family: 'Inter';
@@ -120,17 +110,17 @@
     line-height: 150%;
 }
 
-.service-cleaning-services .content {
+.service-cleaning-our-services .content {
     margin-top: 80px;
 }
 
-.service-cleaning-services .content .row {
+.service-cleaning-our-services .content .row {
     display: flex;
     align-items: center;
     justify-content: space-between;
 }
 
-.service-cleaning-services .content .card-img {
+.service-cleaning-our-services .content .card-img {
     display: flex;
     width: 100%;
     padding: 24px;
@@ -142,14 +132,14 @@
     position: relative;
 }
 
-.service-cleaning-services .content .card-img .wrapper {
+.service-cleaning-our-services .content .card-img .wrapper {
     position: relative;
     text-align: center;
     color: white;
 }
 
-.service-cleaning-services .content .img1,
-.service-cleaning-services .content .img2 {
+.service-cleaning-our-services .content .img1,
+.service-cleaning-our-services .content .img2 {
     position: relative;
     background-repeat: no-repeat;
     background-size: cover;
@@ -158,8 +148,8 @@
     height: 411px;
 }
 
-.service-cleaning-services .content .img1::before,
-.service-cleaning-services .content .img2::before {
+.service-cleaning-our-services .content .img1::before,
+.service-cleaning-our-services .content .img2::before {
     content: '';
     position: absolute;
     top: 0;
@@ -169,15 +159,15 @@
     background: rgba(36, 36, 36, 0.45); /* Màu overlay lớp mờ */
 }
 
-.service-cleaning-services .content .img1 {
-    background-image: url(../../images/serviceCleaning/ve-sinh-cong-nghiep.png);
+.service-cleaning-our-services .content .img1 {
+    background-image: url(../../images/cleaningSolution/giai-phap-ve-sinh.png);
 }
 
-.service-cleaning-services .content .img2 {
-    background-image: url(../../images/serviceCleaning/ve-sinh-nha-o.png);
+.service-cleaning-our-services .content .img2 {
+    background-image: url(../../images/cleaningSolution/giai-phap-mui-huong.png);
 }
 
-.service-cleaning-services .content .card-img .service-name {
+.service-cleaning-our-services .content .card-img .service-name {
     display: -webkit-box;
     -webkit-box-orient: vertical;
     -webkit-line-clamp: 2;
@@ -196,7 +186,7 @@
     line-height: 150%;
 }
 
-.service-cleaning-services .content .card-img .btn-view-more {
+.service-cleaning-our-services .content .card-img .btn-view-more {
     height: 48px;
     width: max-content;
     padding: 6px 14px;
@@ -207,7 +197,7 @@
     color: #FFF;
 }
 
-.service-cleaning-services .content .card-img .btn-view-more:hover {
+.service-cleaning-our-services .content .card-img .btn-view-more:hover {
     height: 48px;
     width: max-content;
     padding: 6px 14px;
@@ -221,38 +211,32 @@
 
 /* Process */
 .service-cleaning-process {
-    margin-bottom: 80px;
     padding: 0px 80px;
 }
 
 .service-cleaning-process .headline .title {
-    color: var(--Blue-500, #005CA9);
+    color: var(--color-Light-Purple-Purple, #722ED1);
     text-align: center;
     font-family: "Noto Serif";
-    font-size: 64px;
+    font-size: 56px;
     font-style: normal;
     font-weight: 500;
     line-height: 150%;
     text-transform: uppercase;
-    margin-bottom: 80px;
+    margin-bottom: 40px;
 }
 
-/* Special */
+/* Solution */
 .service-cleaning-special {
-    margin-bottom: 80px;
     padding: 0px 80px;
-}
-
-.service-cleaning-special .content .row {
-    justify-content: space-between;
-    margin-bottom: 64px;
+    margin: 80px 0px;
 }
 
 .service-cleaning-special .headline .title {
-    color: var(--Blue-500, #005CA9);
+    color: var(--color-Light-Purple-Purple, #722ED1);
     text-align: center;
     font-family: "Noto Serif";
-    font-size: 64px;
+    font-size: 56px;
     font-style: normal;
     font-weight: 500;
     line-height: 150%;
@@ -261,47 +245,42 @@
 }
 
 .service-cleaning-special .content .row:nth-child(1) .card-item:nth-child(1) {
-    background-image: url(../../images/serviceCleaning/card-background-1.png);
+    background-image: url(../../images/cleaningSolution/card-background-1.png);
     background-repeat: repeat;
 }
 
 .service-cleaning-special .content .row:nth-child(1) .card-item:nth-child(2) {
-    background-image: url(../../images/serviceCleaning/card-background-2.png);
+    background-image: url(../../images/cleaningSolution/card-background-2.png);
     background-repeat: repeat;
 }
 
 .service-cleaning-special .content .row:nth-child(1) .card-item:nth-child(3) {
-    background-image: url(../../images/serviceCleaning/card-background-3.png);
+    background-image: url(../../images/cleaningSolution/card-background-3.png);
+    background-repeat: repeat;
+}
+
+.service-cleaning-special .content .row:nth-child(1) .card-item:nth-child(4) {
+    background-image: url(../../images/cleaningSolution/card-background-4.png);
     background-repeat: repeat;
 }
 
 .service-cleaning-special .content .row:nth-child(2) .card-item:nth-child(1) {
-    background-image: url(../../images/serviceCleaning/card-background-4.png);
+    background-image: url(../../images/cleaningSolution/card-background-5.png);
     background-repeat: repeat;
 }
 
 .service-cleaning-special .content .row:nth-child(2) .card-item:nth-child(2) {
-    background-image: url(../../images/serviceCleaning/card-background-5.png);
+    background-image: url(../../images/cleaningSolution/card-background-6.png);
     background-repeat: repeat;
 }
 
 .service-cleaning-special .content .row:nth-child(2) .card-item:nth-child(3) {
-    background-image: url(../../images/serviceCleaning/card-background-6.png);
+    background-image: url(../../images/cleaningSolution/card-background-7.png);
     background-repeat: repeat;
 }
 
-.service-cleaning-special .content .row:nth-child(3) .card-item:nth-child(1) {
-    background-image: url(../../images/serviceCleaning/card-background-7.png);
-    background-repeat: repeat;
-}
-
-.service-cleaning-special .content .row:nth-child(3) .card-item:nth-child(2) {
-    background-image: url(../../images/serviceCleaning/card-background-8.png);
-    background-repeat: repeat;
-}
-
-.service-cleaning-special .content .row:nth-child(3) .card-item:nth-child(3) {
-    background-image: url(../../images/serviceCleaning/card-background-9.png);
+.service-cleaning-special .content .row:nth-child(2) .card-item:nth-child(4) {
+    background-image: url(../../images/cleaningSolution/card-background-8.png);
     background-repeat: repeat;
 }
 
@@ -319,8 +298,8 @@
 
 .service-cleaning-special .content .card-item {
     display: flex;
-    width: 434px;
-    height: 326px;
+    width: 320px;
+    height: 320px;
     padding: 24px;
     flex-direction: column;
     justify-content: flex-end;
@@ -368,7 +347,84 @@
     line-height: 150%;
 }
 
-.service-cleaning-banner {
-    padding: 0px 80px;
-    margin-bottom: 80px;
+/* Benefits */
+.cleaning-solution-benefits {
+    padding: 80px;
+}
+
+.cleaning-solution-benefits .content .row {
+    align-items: center;
+    justify-content: space-between;
+}
+
+.cleaning-solution-benefits .content .video {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    flex: 1 0 0;
+    border-radius: 10px;
+    background: var(--Blue-500, #005CA9);
+    width: 100%;
+    height: 344px;
+}
+
+.cleaning-solution-benefits .content .video iframe {
+    width: 100%;
+    height: 100%;
+    border-radius: 10px;
+}
+
+.cleaning-solution-benefits .content .title {
+    color: var(--color-Light-Purple-Purple, #722ED1);
+    font-family: "Noto Serif";
+    font-size: 56px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 150%;
+    text-transform: uppercase;
+}
+
+.cleaning-solution-benefits .content .description {
+    color: var(--Neutral-500, #868E96);
+    font-family: 'Roboto';
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 160%;
+    margin: 16px 0px;
+}
+
+.cleaning-solution-benefits .content .btn-contact {
+    display: flex;
+    width: 337px;
+    height: 64px;
+    padding: 8px 16px;
+    justify-content: center;
+    align-items: center;
+    gap: 8px;
+    border-radius: 16px;
+    background: var(--color-Light-Purple-Purple, #722ED1);
+    color: var(--Color, #FFF);
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 150%;
+}
+
+.cleaning-solution-benefits .content .btn-contact:hover {
+    display: flex;
+    width: 337px;
+    height: 64px;
+    padding: 8px 16px;
+    justify-content: center;
+    align-items: center;
+    gap: 8px;
+    border-radius: 16px;
+    background: var(--Color, #FFF);
+    color: var(--color-Light-Purple-Purple, #722ED1);
+    border: 2px solid var(--color-Light-Purple-Purple, #722ED1);
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 150%;
 }

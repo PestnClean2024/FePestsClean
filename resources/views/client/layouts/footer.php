@@ -61,7 +61,7 @@
       <a href="#">Terms & Conditions</a>
     </div>
   </footer>
-  <?php include 'layouts/modal.php' ?>
+  <?php include 'modal.php' ?>
   <script src="../../../js/jquery.min.js"></script>
   <script src="../../../../assets/bootstrap/js/bootstrap.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
