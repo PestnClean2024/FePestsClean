@@ -325,6 +325,7 @@
     line-clamp: 4;
     color: var(--Neutral-500, #868E96);
     text-overflow: ellipsis;
+    text-align: justify;
 
     /* Title/Title Large */
     font-family: Inter;
@@ -376,8 +377,10 @@
     align-self: stretch;
     overflow: hidden;
     color: var(--Neutral-950, #0C0D0E);
-    text-align: center;
+    text-align: justify;
     text-overflow: ellipsis;
+    padding-left: 40px;
+    padding-right: 40px;
 
     /* Body/Body Large */
     font-family: Inter;
@@ -422,7 +425,7 @@
 
     /* Title/Title Large */
     font-family: Inter;
-    font-size: 32px;
+    font-size: 18px;
     font-style: normal;
     font-weight: 600;
     line-height: 150%;
@@ -431,6 +434,10 @@
 
 .nav-tabs .nav-link.active {
     color: var(--Blue-500, #005CA9) !important;
+    border-top: none;
+    border-right: none;
+    border-left: none;
+    border-bottom: 3px solid var(--Blue-500, #005CA9) !important;
 
     /* Title/Title Large */
     font-family: Inter;
