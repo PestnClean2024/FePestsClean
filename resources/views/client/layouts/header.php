@@ -19,13 +19,16 @@
     <link rel="stylesheet" href="/FePestsClean/resources/css/styles.css">
     <link rel="stylesheet" href="/FePestsClean/resources/css/components/header.css">
     <link rel="stylesheet" href="/FePestsClean/resources/css/components/footer.css">
+    <link rel="stylesheet" href="/FePestsClean/resources/css/components/product.css">
     <link rel="stylesheet" href="/FePestsClean/resources/css/components/serviceCleaning.css">
     <link rel="stylesheet" href="/FePestsClean/resources/css/components/authentication.css">
     <link rel="stylesheet" href="/FePestsClean/resources/css/components/home.css">
     <link rel="stylesheet" href="/FePestsClean/resources/css/components/user.css">
+
 </head>
 
 <body>
+
     <nav class="navbar navbar-expand-lg navbar-light bg-light px-5 py-3 navbar-background-color">
         <div class="container-fluid">
             <a class="navbar-brand" href="index.php">
@@ -40,7 +43,7 @@
             <div class="collapse navbar-collapse justify-content-center" id="navbarNavDropdown">
                 <ul class="navbar-nav">
                     <li class="nav-item">
-                        <a class="nav-link active" aria-current="page" href="#">Trang chủ</a>
+                        <a class="nav-link " aria-current="page" href="#">Trang chủ</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="#">Về chúng tôi</a>
@@ -57,7 +60,7 @@
                         </ul>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">Sản phẩm</a>
+                        <a class="nav-link active" href="#">Sản phẩm</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="#">Blog</a>

@@ -1,7 +1,9 @@
 <?php include 'layouts/header.php' ?>
 
-<section class="container-fluid p-0">
-    <!-- Carousel -->
+<?php include 'resources/views/client/product.php' ?>
+<!-- Carousel -->
+<!-- <section class="container-fluid p-0">
+    
     <div id="homeCarouselBanner" class="carousel carousel-dark slide carousel-fade" data-bs-ride="carousel">
         <div class="carousel-indicators">
             <button type="button" data-bs-target="#homeCarouselBanner" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
@@ -54,10 +56,10 @@
             </div>
         </div>
     </div>
-</section>
+</section> -->
 
 <!-- Services -->
-<section class="container-fluid p-0">
+<!-- <section class="container-fluid p-0">
     <div class="services-container">
         <div class="texts-container">
             <h1>Giải pháp dành cho bạn</h1>
@@ -183,10 +185,10 @@
             </div>
         </div>
     </div>
-</section>
+</section> -->
 
 <!-- Reasons -->
-<section class="container-fluid p-0">
+<!-- <section class="container-fluid p-0">
     <div class="reasons-container">
         <h1>Vì sao chọn chúng tôi</h1>
         <div class="reasons-number-title-container">
@@ -225,10 +227,10 @@
             </div>
         </div>
     </div>
-</section>
+</section> -->
 
 <!-- Working picture -->
-<section class="container-fluid p-0">
+<!-- <section class="container-fluid p-0">
     <div class="working-container">
         <h1>HÌNH ẢNH LÀM VIỆC</h1>
         <div class="tab-container">
@@ -275,22 +277,22 @@
             </div>
         </div>
     </div>
-</section>
+</section> -->
 
 <!-- Prices -->
-<section class="container-fluid p-0">
+<!-- <section class="container-fluid p-0">
     <div class="price-container">
         <h1>GIẢI THƯỞNG VÀ CHỨNG NHẬN</h1>
     </div>
-</section>
+</section> -->
 
 <!-- Other Blog -->
-<section class="container-fluid p-0">
+<!-- <section class="container-fluid p-0">
     <div class="other-blog-container">
        <div class="other-blog-title-container">
        <h1>Bài viết tham khảo</h1>
        <a>Xem thêm</a>
        </div>
     </div>
-</section>
+</section> -->
 <?php include 'layouts/footer.php' ?>
