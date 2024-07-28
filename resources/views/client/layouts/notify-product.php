@@ -1,10 +1,10 @@
 <div class="footer">
     <div class="footer-log-re">
-        <p class="footer-p-register text-uppercase"> ĐĂNG KÝ NHẬN THÔNG TIN MUA HÀNG</p>
+        <p class="footer-p-register text-uppercase">ĐĂNG KÝ NHẬN THÔNG TIN MUA HÀNG</p>
         <form id="collect-info">
           <hr class="hr-footer">
           <div class="size">
-
+ 
             <div class="div-form">
               <div class="label-textbox">
                 <div class="label-text">
@@ -21,7 +21,7 @@
 
             <div class="div-top-2">
               <label for="" class="label-input">Số điện thoại</label>
-              <div class="input-group flex-nowrap div-top">
+              <div class="input-group flex-nowrap div-top div-in-la">
                 <span class="input-group-text" id="addon-wrapping">+84 <img src="/FePestsClean/resources/images/Footer/footerIcon-base.png" alt="" class="icon-img"></span>
                 <input type="text" class="form-control" placeholder="Eg: 988 523 146" aria-label="Username" aria-describedby="addon-wrapping">
               </div>
@@ -58,7 +58,7 @@
               </div>
             </div>
            
-            <div  class="div-top">
+            <div  class="div-top div-in-la">
               <input type="checkbox" name="" id="">
               <span>Tôi đã đọc và đồng ý với <a href="#" class="none">điều khoản</a> và <a href="#" class="none">điều kiện</a> của Pestnclean</span>
             </div>
@@ -72,4 +72,4 @@
           </div>
         </form>
     </div>
-</div> 
+</div>

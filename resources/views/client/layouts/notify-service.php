@@ -12,16 +12,16 @@
         <form id="collect-info">
           <hr class="hr-footer">
           <div class="size">
-
+ 
             <div class="div-form">
               <div class="label-textbox">
                 <div class="label-text">
-                  <label for="" class="label-input">Họ tên</label>
+                  <label for="" class="label-name-email">Họ tên</label>
                   <input type="text" placeholder="filled" class="text-input div-top">
                 </div>
 
                 <div class="label-text">
-                  <label for="" class="label-input">Nhập email của bạn</label>
+                  <label for="" class="label-name-email">Nhập email của bạn</label>
                   <input type="text" placeholder="filled" class="text-input div-top">
                 </div>
               </div>
@@ -74,8 +74,8 @@
             <hr class="hr-footer-btn">
 
             <div class="div-ref-con">
-              <button class="button-ref label-input">Làm lại</button>
-              <button class="button-con label-input">Tiếp tục</button>
+              <button class="button-ref ">Làm lại</button>
+              <button class="button-con ">Tiếp tục</button>
             </div>
           </div>
         </form>

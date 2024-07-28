@@ -336,7 +336,7 @@
 
                 <div class="border-div rounded-lg  bg-card">
                     <a href="#">
-                        <img aria-hidden="true" alt="" src="i/FePestsClean/resources/images/product/product-img-horz.png" />
+                        <img aria-hidden="true" alt="" src="/FePestsClean/resources/images/product/product-img-horz.png" />
                         <div class="mt-2">
                             <span class="text-muted">Dung dịch hóa chất</span>
                             <h2 class="font-bold">Hóa chất 3M™ Stainless Steel Cleaner & Polish 621...</h2>

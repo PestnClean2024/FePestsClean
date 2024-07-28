@@ -138,6 +138,13 @@ input{
     color: black;
     width: 1268px;
 }
+.label-name-email{
+    font-weight:600;
+    font-size:16px;
+    line-height:24px;
+    color: black;
+    width: 629px;
+}
 .text-input{
     width: 629px;
     height: 48px;
@@ -190,7 +197,7 @@ input{
     margin-left: 0.5rem;
 }
 .div-ref-con{
-    width: 1268px;
+    width: 21rem;
     margin-left: 58.5rem;
 }
 .div-top{
