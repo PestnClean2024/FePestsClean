@@ -350,8 +350,10 @@
     flex-direction: column;
     align-items: center;
     gap: 24px;
-    flex: 1 0 0;
     align-self: stretch;
+    border-radius: 16px;
+    border: var(--Number-3, 1px) solid var(--Neutral-100, #E4E6E7);
+    background: var(--Color, #FFF);
 }
 
 .reasons-container .reasons-image-and-text-container .image-and-text-group h4 {
