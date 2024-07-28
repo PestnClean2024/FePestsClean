@@ -125,7 +125,7 @@
                                     <a href="">Xoá</a>
                                 </p>
                             </div>
-                            <div class="item-address mb-5">
+                            <div class="item-address">
                                 <label for="">Địa chỉ: ABC Đường ABC, Phường EDF, Thành phố GHJ, Tỉnh LZX</label>
                                 <p>
                                     <button type="submit">Thiết lập mặc định</button>
@@ -141,7 +141,7 @@
                                     <a href="">Xoá</a>
                                 </p>
                             </div>
-                            <div class="item-address mb-5">
+                            <div class="item-address">
                                 <label for="">Địa chỉ: ABC Đường ABC, Phường EDF, Thành phố GHJ, Tỉnh LZX</label>
                                 <p>
                                     <button type="submit">Thiết lập mặc định</button>
@@ -156,7 +156,7 @@
                         <h1>Cài đặt thông báo</h1>
                     </div>
                     <div class="content">
-                        <div class="item mb-5">
+                        <div class="item mb-3">
                             <div>
                                 <h3 class="fw-bold">Email thông báo</h3>
                                 <p>Thông báo và nhắc nhở quan trọng về tài khoản sẽ không thể bị tắt</p>
@@ -165,7 +165,7 @@
                                 <input class="form-check-input" type="checkbox" id="name" checked>
                             </div>
                         </div>
-                        <div class="item mb-5">
+                        <div class="item mb-3">
                             <div>
                                 <h6 class="fw-bold">Cập nhật đơn hàng</h6>
                                 <p>Cập nhật về tình trạng vận chuyển của tất cả các đơn hàng</p>
@@ -174,7 +174,7 @@
                                 <input class="form-check-input" type="checkbox" id="name" checked>
                             </div>
                         </div>
-                        <div class="item mb-5">
+                        <div class="item mb-3">
                             <div>
                                 <h6 class="fw-bold">Khuyến mãi</h6>
                                 <p>Cập nhật về các ưu đãi và khuyến mãi sắp tới</p>
@@ -183,7 +183,7 @@
                                 <input class="form-check-input" type="checkbox" id="name" checked>
                             </div>
                         </div>
-                        <div class="item mb-5">
+                        <div class="item mb-3">
                             <div>
                                 <h6 class="fw-bold">Khảo sát</h6>
                                 <p>Đồng ý nhận khảo sát để cho chúng tôi được lắng nghe bạn</p>
@@ -192,7 +192,7 @@
                                 <input class="form-check-input" type="checkbox" id="name" checked>
                             </div>
                         </div>
-                        <div class="item mb-5">
+                        <div class="item mb-3">
                             <div>
                                 <h3 class="fw-bold">Thông báo SMS</h3>
                                 <p>Thông báo và nhắc nhở quan trọng về tài khoản sẽ không thể bị tắt</p>
@@ -201,7 +201,7 @@
                                 <input class="form-check-input" type="checkbox" id="name" checked>
                             </div>
                         </div>
-                        <div class="item mb-5">
+                        <div class="item mb-3">
                             <div>
                                 <h6 class="fw-bold">Khuyến mãi</h6>
                                 <p>Cập nhật về các ưu đãi và khuyến mãi sắp tới</p>

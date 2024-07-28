@@ -40,30 +40,44 @@
                     <h1>ĐƠN MUA</h1>
                 </div>
                 <div class="article-order-content">
-                    <div class="item">
-                        <img src="../../images/Acount/sp1.png" alt="" width="80px">
-                        <p class="item-name">Hoá chất 3M™ Stainless Steel Cleaner & Polish 621ml (21OZ)</p>
-                        <p class="item-size">Kích thước: M</p>
-                        <p class="item-price">80.000đ</p>
-                        <p class="item-quantity">2</p>
-                        <p class="item-total">160.000đ</p>
-                    </div>
-                    <div class="item">
-                        <img src="../../images/Acount/sp1.png" alt="" width="80px">
-                        <p class="item-name">Hoá chất 3M™ Stainless Steel Cleaner & Polish 621ml (21OZ)</p>
-                        <p class="item-size">Kích thước: M</p>
-                        <p class="item-price">80.000đ</p>
-                        <p class="item-quantity">2</p>
-                        <p class="item-total">160.000đ</p>
-                    </div>
-                    <div class="item">
-                        <img src="../../images/Acount/sp1.png" alt="" width="80px">
-                        <p class="item-name">Hoá chất 3M™ Stainless Steel Cleaner & Polish 621ml (21OZ)</p>
-                        <p class="item-size">Kích thước: M</p>
-                        <p class="item-price">80.000đ</p>
-                        <p class="item-quantity">2</p>
-                        <p class="item-total">160.000đ</p>
-                    </div>
+                    <table class="table table-order">
+                        <thead>
+                            <tr>
+                                <th>Ảnh sản phẩm</th>
+                                <th class="text-center">Tên sản phẩm</th>
+                                <th class="text-center">Kích thước</th>
+                                <th class="text-center">Đơn giá</th>
+                                <th class="text-center">Số lượng</th>
+                                <th class="text-center">Thành tiền</th>
+                            </tr>
+                        </thead>
+                        <tbody class="text-center">
+                            <tr>
+                                <td><img src="../../images/Acount/sp1.png" alt="" width="80px"></td>
+                                <td>Hoá chất 3M™ Stainless Steel Cleaner & Polish 621ml (21OZ)</td>
+                                <td>M</td>
+                                <td>80.000đ</td>
+                                <td>2</td>
+                                <td>160.000đ</td>
+                            </tr>
+                            <tr>
+                                <td><img src="../../images/Acount/sp1.png" alt="" width="80px"></td>
+                                <td >Hoá chất 3M™ Stainless Steel Cleaner & Polish 621ml (21OZ)</td>
+                                <td >M</td>
+                                <td>80.000đ</td>
+                                <td>2</td>
+                                <td>160.000đ</td>
+                            </tr>
+                            <tr>
+                                <td><img src="../../images/Acount/sp1.png" alt="" width="80px"></td>
+                                <td>Hoá chất 3M™ Stainless Steel Cleaner & Polish 621ml (21OZ)</td>
+                                <td>M</td>
+                                <td>80.000đ</td>
+                                <td>2</td>
+                                <td>160.000đ</td>
+                            </tr>
+                        </tbody>
+                    </table>
                 </div>
             </div>
             <div class="article-notify mb-5">

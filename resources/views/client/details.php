@@ -102,7 +102,7 @@
   </div>
 </section>
 <section class="wrapper">
-  <div class="container-fluid">
+  <div class="container-fluid ">
     <ul class="nav nav-fill nav-tabs border-0" role="tablist">
       <li class="nav-item" role="presentation">
         <a class="nav-link active" id="fill-tab-0" data-bs-toggle="tab" href="#info" role="tab" aria-controls="fill-tabpanel-0" aria-selected="true">Thông tin mô tả</a>

@@ -189,27 +189,12 @@
   }
   /* -----------------------------------------------Order_Article------------------------------------ */
   /* ----------------------Article-order--------------------------- */
-  .order-setting .article-order-content .item {
-    display: grid;
-    grid-template-columns: 1fr 2.5fr 1fr 1fr 2.8fr 1fr;
-    margin-bottom: 65px;
-  }
-  .order-setting .article-order-content > * {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    margin-bottom: 0;
-  }
-  .order-setting .article-order-content .item-name {
-    font-size: 15px;
-    font-weight: bold;
-  }
-  .order-setting .article-order-content .item-size {
-    font-size: 13px;
-    color: #9fa6ac;
-  }
+
+
+ 
+  
   /* ----------------------Article-notify--------------------------- */
-  order-setting .aside {
+  .order-setting .aside {
     border: 2px solid #e3e3e3;
     border-radius: 10px;
     height: 100%;
@@ -246,26 +231,7 @@
   }
   /* -----------------------------------------------Order_Article------------------------------------ */
   /* ----------------------Article-order--------------------------- */
-  .order-setting .article-order-content .item {
-    display: grid;
-    grid-template-columns: 1fr 2.5fr 1fr 1fr 2.8fr 1fr;
-    margin-bottom: 65px;
-    justify-items: center;
-  }
-  .order-setting .article-order-content > * {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    margin-bottom: 0;
-  }
-  .order-setting .article-order-content .item-name {
-    font-size: 15px;
-    font-weight: bold;
-  }
-  .order-setting .article-order-content .item-size {
-    font-size: 13px;
-    color: #9fa6ac;
-  }
+  
   /* ----------------------Article-notify--------------------------- */
   .order-setting .article-notify-content .item {
     display: grid;
