@@ -1,7 +1,6 @@
-<<<<<<< HEAD
+
 <?php include 'layouts/header.php' ?>
-=======
->>>>>>> d8e6363a0b7e4a5e630b157b44c49b5c7baedb0b
+
 <section>
 
     <div class="div-product">
@@ -466,11 +465,11 @@
 
             <div class="grid div-gird">
                 <div class="border-div rounded-lg  bg-card">
-<<<<<<< HEAD
+
                     <a href="">
-=======
+
                     <a href="#">
->>>>>>> d8e6363a0b7e4a5e630b157b44c49b5c7baedb0b
+
                         <img aria-hidden="true" alt="" src="/FePestsClean/resources/images/product/product-img-horz.png" />
                         <div class="mt-2">
                             <span class="text-muted1">Dung dịch hóa chất</span>
@@ -691,13 +690,13 @@
 
         </div>
     </div>
-<<<<<<< HEAD
+
 </div>
 </section>
 <?php include 'banner-carousel.php' ?>
 <?php include 'layouts/notify-product.php'; ?>
 <?php include 'layouts/footer.php' ?>
-=======
+
 
     <div class="div-img-banner2">
         <img src="/FePestsClean/resources/images/product/proudct-horz2.png" alt="" class="img-banner2">
@@ -705,4 +704,4 @@
 
 </div>
 <?php include 'resources/views/client/layouts/notify-service.php'; ?>
->>>>>>> d8e6363a0b7e4a5e630b157b44c49b5c7baedb0b
+
