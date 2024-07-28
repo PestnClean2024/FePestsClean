@@ -445,11 +445,11 @@
         </div>
     </div>
 </div>
-<<<<<<< HEAD
+
 </section>
 <?php include 'banner-carousel.php' ?>
 <?php include 'layouts/notify-product.php'; ?>
 <?php include 'layouts/footer.php' ?>
-=======
+
 <?php include 'resources/views/client/layouts/notify-service.php'; ?>
->>>>>>> d8e6363a0b7e4a5e630b157b44c49b5c7baedb0b
+
