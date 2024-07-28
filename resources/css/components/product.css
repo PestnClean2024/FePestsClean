@@ -148,7 +148,8 @@
     
 }
 .color-top{
-    color: #C8CCD0;
+    color: #242424;
+    
 }
 .div-img-3{
     display: flex;
@@ -197,13 +198,15 @@
     background-color: white!important;
     
 }
-.text-muted{
+.text-muted1{
     font-size: 14px;
-    Line-height:21px
+    Line-height:21px;
+    color: black;
 }
 .font-bold{
     font-size: 16px;
     font-weight: 600;
+    color: black;
 }
 .text-color{
     font-size:18px;
@@ -222,6 +225,7 @@
     border: 1px solid #C8CCD0;
     width: 74px;
     height: 35px;
+    color: black;
 }
 
 .div-gird-top{
@@ -311,8 +315,8 @@
 .div-product-a{
     color: black;
 }
-.a-size{
-    width: 11rem;
+.a-size {
+    width: 12rem;
     height: 54px;
 }
 .div-size-desi{
@@ -320,7 +324,7 @@
 }
 .top-left{
     margin-top: 1rem;
-    margin-left: 6.2rem;
+    margin-left: 5.2rem;
 }
 .div-zl-fb-call{
     margin-top: 2rem;

@@ -19,7 +19,7 @@
                 <div class="aside-sub">
                     <div>
                         <div class="icon"><i class="fa-solid fa-clipboard-list"></i></div>
-                        <h7><a href="">Đơn mua</a></h7>
+                        <h7><a href="order.php">Đơn mua</a></h7>
                     </div>
 
                     <div>
@@ -230,4 +230,5 @@
             </div>
         </div>
     </section>
+<?php include 'layouts/notify-service.php' ?>
 <?php include 'layouts/footer.php' ?>

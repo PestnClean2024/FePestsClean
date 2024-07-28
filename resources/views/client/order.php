@@ -40,7 +40,7 @@
                     <h1>ĐƠN MUA</h1>
                 </div>
                 <div class="article-order-content">
-                    <table class="table table-order">
+                <table class="table table-order align-middle">
                         <thead>
                             <tr>
                                 <th>Ảnh sản phẩm</th>
@@ -51,7 +51,7 @@
                                 <th class="text-center">Thành tiền</th>
                             </tr>
                         </thead>
-                        <tbody class="text-center">
+                        <tbody class="text-center align-items-center">
                             <tr>
                                 <td><img src="../../images/Account/sp1.png" alt="" width="80px"></td>
                                 <td>Hoá chất 3M™ Stainless Steel Cleaner & Polish 621ml (21OZ)</td>
