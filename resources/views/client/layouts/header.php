@@ -65,7 +65,7 @@
                     </ul>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="product.php">Sản phẩm</a>
+                    <a class="nav-link" href="/FePestsClean/resources/views/client/product.php">Sản phẩm</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="blog.php">Blog</a>

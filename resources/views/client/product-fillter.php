@@ -463,7 +463,7 @@
 
             <div class="grid div-gird">
                 <div class="border-div rounded-lg  bg-card">
-                    <a href="#">
+                    <a href="">
                         <img aria-hidden="true" alt="" src="/FePestsClean/resources/images/product/product-img-horz.png" />
                         <div class="mt-2">
                             <span class="text-muted1">Dung dịch hóa chất</span>
