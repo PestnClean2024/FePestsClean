@@ -139,5 +139,5 @@
 </section>
 
 <?php include 'banner-carousel.php' ?>
-
+<?php include 'layouts/notify-service.php'; ?>
 <?php include 'layouts/footer.php' ?>
