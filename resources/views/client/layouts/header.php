@@ -27,7 +27,6 @@
     <link rel="stylesheet" href="/FePestsClean/resources/css/components/home.css">
     <link rel="stylesheet" href="/FePestsClean/resources/css/components/service.css">
     <link rel="stylesheet" href="/FePestsClean/resources/css/components/user.css">
-    <link rel="stylesheet" href="/FePestsClean/resources/css/components/blog.css">
 </head>
 
 <body>
@@ -52,25 +51,25 @@
                     <a class="nav-link" href="abouts.php">Về chúng tôi</a>
                 </li>
                 <li class="nav-item dropdown">
-                    <a class="nav-link dropdown-toggle" href="service.php" id="navbarDropdownMenuLink" role="button"
+                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button"
                         data-bs-toggle="dropdown" aria-expanded="false">
                         Dịch vụ
                     </a>
                     <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
                         <li><a class="dropdown-item" href="#">Kiểm soát côn trùng</a></li>
-                        <li><a class="dropdown-item" href="serviceCleaning.php">Dịch vụ vệ sinh</a></li>
-                        <li><a class="dropdown-item" href="cleaningSolution.php">Giải pháp vệ sinh</a></li>
+                        <li><a class="dropdown-item" href="#">Dịch vụ vệ sinh</a></li>
+                        <li><a class="dropdown-item" href="#">Giải pháp vệ sinh</a></li>
                         <li><a class="dropdown-item" href="#">Thi công cảnh quan</a></li>
                     </ul>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="product.php">Sản phẩm</a>
+                    <a class="nav-link" href="#">Sản phẩm</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="blog.php">Blog</a>
+                    <a class="nav-link" href="#">Blog</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="contact.php">Liên hệ</a>
+                    <a class="nav-link" href="#">Liên hệ</a>
                 </li>
             </ul>
             </div>
