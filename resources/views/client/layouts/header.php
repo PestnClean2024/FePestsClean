@@ -20,10 +20,6 @@
     <link rel="stylesheet" href="/FePestsClean/resources/css/styles.css">
     <link rel="stylesheet" href="/FePestsClean/resources/css/components/header.css">
     <link rel="stylesheet" href="/FePestsClean/resources/css/components/footer.css">
-<<<<<<< HEAD
-    <link rel="stylesheet" href="/FePestsClean/resources/css/components/home.css">
-    <link rel="stylesheet" href="/FePestsClean/resources/css/components/serviceCleaning.css">
-=======
     <link rel="stylesheet" href="/FePestsClean/resources/css/components/serviceCleaning.css">
     <link rel="stylesheet" href="/FePestsClean/resources/css/components/authentication.css">
     <link rel="stylesheet" href="/FePestsClean/resources/css/components/home.css">
