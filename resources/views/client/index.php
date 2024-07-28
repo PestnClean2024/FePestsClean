@@ -1,6 +1,6 @@
 <?php include 'layouts/header.php' ?>
-
-<?php include 'resources/views/client/product.php' ?>
+<?php include 'resources/views/client/product-fillter.php' ?>
+<!-- <?php include 'resources/views/client/product.php' ?> -->
 <!-- Carousel -->
 <!-- <section class="container-fluid p-0">
     

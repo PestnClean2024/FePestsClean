@@ -213,4 +213,8 @@ input{
 .footer-p{
     font-size: 18px;
     font-weight: 400;
+    color: black;
+}
+.div-a-footer{
+    color: black;
 }

@@ -1,30 +1,38 @@
-<div>
+<section>
 
     <div class="div-product">
         <div class="div-product-text">
             <p class="p-product">Danh mục sản phẩm</p>
 
-            <div class="product-text display">
-                <span class="text"><a href="#" class="div-product-a">KIỂM SOÁT CÔN TRÙNG</a></span> <span class="color-top bold">
-                <img src="/FePestsClean/resources/images/product/product-chevron-right.png" alt=""></span>
-            </div>
+            <a href="#" class="div-product-a">
+                <div class="product-text display">
+                    <span class="text">KIỂM SOÁT CÔN TRÙNG</span> <span class="color-top bold">
+                    <img src="/FePestsClean/resources/images/product/product-chevron-right.png" alt=""></span>
+                </div>
+            </a>
 
-            <div class="product-text display">
-                <span class="text">
-                    <a href="#" class="div-product-a">VỆ SINH CÔNG NGHIỆP</a>
-                </span> 
-                <span class="color-top"><img src="/FePestsClean/resources/images/product/product-chevron-right.png" alt=""></span>
-            </div>
+            <a href="#" class="div-product-a">
+                <div class="product-text display">
+                    <span class="text">
+                        VỆ SINH CÔNG NGHIỆP
+                    </span> 
+                    <span class="color-top"><img src="/FePestsClean/resources/images/product/product-chevron-right.png" alt=""></span>
+                </div>
+            </a>
 
-            <div class="product-text display">
-                <span class="text"><a href="#" class="div-product-a">GIẢI PHÁP VỆ SINH</a></span> 
-                <span class="color-top"><img src="/FePestsClean/resources/images/product/product-chevron-right.png" alt=""></span>
-            </div>
+            <a href="#" class="div-product-a">
+                <div class="product-text display">
+                    <span class="text">GIẢI PHÁP VỆ SINH</span> 
+                    <span class="color-top"><img src="/FePestsClean/resources/images/product/product-chevron-right.png" alt=""></span>
+                </div>
+            </a>
 
-            <div class="product-text display div-size-desi">
-                <span class="text a-size"><a href="#" class="div-product-a">THIẾT KẾ & THI CÔNG CÂY CẢNH</a></span> 
-                <span class="color-top"><img src="/FePestsClean/resources/images/product/product-chevron-right.png" alt="" class="top-left"></span>
-            </div>
+            <a href="#" class="div-product-a">
+                <div class="product-text display div-size-desi">
+                    <span class="text a-size">THIẾT KẾ & THI CÔNG CÂY CẢNH</span> 
+                    <span class="color-top"><img src="/FePestsClean/resources/images/product/product-chevron-right.png" alt="" class="top-left"></span>
+                </div>
+            </a>
         </div>
  
         <div class="div-banner">
@@ -91,7 +99,7 @@
                     <a href="#">
                         <img aria-hidden="true" alt="" src="/FePestsClean/resources/images/product/product-img-horz.png" />
                         <div class="mt-2">
-                            <span class="text-muted">Dung dịch hóa chất</span>
+                            <span class="text-muted1">Dung dịch hóa chất</span>
                             <h2 class="font-bold">Hóa chất 3M™ Stainless Steel Cleaner & Polish 621...</h2>
                             <p class="text-muted color-top">100.000 ₫ - 150.000 ₫</p>
                             <p class="text-color ">100.000 ₫ - 150.000 ₫</p>
@@ -105,7 +113,7 @@
                     <a href="#">
                         <img aria-hidden="true" alt="" src="/FePestsClean/resources/images/product/product-img-horz.png" />
                         <div class="mt-2">
-                            <span class="text-muted">Dung dịch hóa chất</span>
+                            <span class="text-muted1">Dung dịch hóa chất</span>
                             <h2 class="font-bold">Hóa chất 3M™ Stainless Steel Cleaner & Polish 621...</h2>
                             <p class="text-muted color-top">100.000 ₫ - 150.000 ₫</p>
                             <p class="text-color ">100.000 ₫ - 150.000 ₫</p>
@@ -119,7 +127,7 @@
                     <a href="#">
                         <img aria-hidden="true" alt="" src="/FePestsClean/resources/images/product/product-img-horz.png" />
                         <div class="mt-2">
-                            <span class="text-muted">Dung dịch hóa chất</span>
+                            <span class="text-muted1">Dung dịch hóa chất</span>
                             <h2 class="font-bold">Hóa chất 3M™ Stainless Steel Cleaner & Polish 621...</h2>
                             <p class="text-muted color-top">100.000 ₫ - 150.000 ₫</p>
                             <p class="text-color ">100.000 ₫ - 150.000 ₫</p>
@@ -133,7 +141,7 @@
                     <a href="#">
                         <img aria-hidden="true" alt="" src="/FePestsClean/resources/images/product/product-img-horz.png" />
                         <div class="mt-2">
-                            <span class="text-muted">Dung dịch hóa chất</span>
+                            <span class="text-muted1">Dung dịch hóa chất</span>
                             <h2 class="font-bold">Hóa chất 3M™ Stainless Steel Cleaner & Polish 621...</h2>
                             <p class="text-muted color-top">100.000 ₫ - 150.000 ₫</p>
                             <p class="text-color ">100.000 ₫ - 150.000 ₫</p>
@@ -154,7 +162,7 @@
                     <a href="#">
                         <img aria-hidden="true" alt="" src="/FePestsClean/resources/images/product/product-img-horz.png" />
                         <div class="mt-2">
-                            <span class="text-muted">Dung dịch hóa chất</span>
+                            <span class="text-muted1">Dung dịch hóa chất</span>
                             <h2 class="font-bold">Hóa chất 3M™ Stainless Steel Cleaner & Polish 621...</h2>
                             <p class="text-muted color-top">100.000 ₫ - 150.000 ₫</p>
                             <p class="text-color ">100.000 ₫ - 150.000 ₫</p>
@@ -168,7 +176,7 @@
                     <a href="#">
                         <img aria-hidden="true" alt="" src="/FePestsClean/resources/images/product/product-img-horz.png" />
                         <div class="mt-2">
-                            <span class="text-muted">Dung dịch hóa chất</span>
+                            <span class="text-muted1">Dung dịch hóa chất</span>
                             <h2 class="font-bold">Hóa chất 3M™ Stainless Steel Cleaner & Polish 621...</h2>
                             <p class="text-muted color-top">100.000 ₫ - 150.000 ₫</p>
                             <p class="text-color ">100.000 ₫ - 150.000 ₫</p>
@@ -182,7 +190,7 @@
                     <a href="#">
                         <img aria-hidden="true" alt="" src="/FePestsClean/resources/images/product/product-img-horz.png" />
                         <div class="mt-2">
-                            <span class="text-muted">Dung dịch hóa chất</span>
+                            <span class="text-muted1">Dung dịch hóa chất</span>
                             <h2 class="font-bold">Hóa chất 3M™ Stainless Steel Cleaner & Polish 621...</h2>
                             <p class="text-muted color-top">100.000 ₫ - 150.000 ₫</p>
                             <p class="text-color ">100.000 ₫ - 150.000 ₫</p>
@@ -196,7 +204,7 @@
                     <a href="#">
                         <img aria-hidden="true" alt="" src="/FePestsClean/resources/images/product/product-img-horz.png" />
                         <div class="mt-2">
-                            <span class="text-muted">Dung dịch hóa chất</span>
+                            <span class="text-muted1">Dung dịch hóa chất</span>
                             <h2 class="font-bold">Hóa chất 3M™ Stainless Steel Cleaner & Polish 621...</h2>
                             <p class="text-muted color-top">100.000 ₫ - 150.000 ₫</p>
                             <p class="text-color ">100.000 ₫ - 150.000 ₫</p>
@@ -217,7 +225,7 @@
                     <a href="#">
                         <img aria-hidden="true" alt="" src="/FePestsClean/resources/images/product/product-img-horz.png" />
                         <div class="mt-2">
-                            <span class="text-muted">Dung dịch hóa chất</span>
+                            <span class="text-muted1">Dung dịch hóa chất</span>
                             <h2 class="font-bold">Hóa chất 3M™ Stainless Steel Cleaner & Polish 621...</h2>
                             <p class="text-muted color-top">100.000 ₫ - 150.000 ₫</p>
                             <p class="text-color ">100.000 ₫ - 150.000 ₫</p>
@@ -234,7 +242,7 @@
                     <a href="#">
                         <img aria-hidden="true" alt="" src="/FePestsClean/resources/images/product/product-img-horz.png" />
                         <div class="mt-2">
-                            <span class="text-muted">Dung dịch hóa chất</span>
+                            <span class="text-muted1">Dung dịch hóa chất</span>
                             <h2 class="font-bold">Hóa chất 3M™ Stainless Steel Cleaner & Polish 621...</h2>
                             <p class="text-muted color-top">100.000 ₫ - 150.000 ₫</p>
                             <p class="text-color ">100.000 ₫ - 150.000 ₫</p>
@@ -251,7 +259,7 @@
                     <a href="#">
                         <img aria-hidden="true" alt="" src="/FePestsClean/resources/images/product/product-img-horz.png" />
                         <div class="mt-2">
-                            <span class="text-muted">Dung dịch hóa chất</span>
+                            <span class="text-muted1">Dung dịch hóa chất</span>
                             <h2 class="font-bold">Hóa chất 3M™ Stainless Steel Cleaner & Polish 621...</h2>
                             <p class="text-muted color-top">100.000 ₫ - 150.000 ₫</p>
                             <p class="text-color ">100.000 ₫ - 150.000 ₫</p>
@@ -268,7 +276,7 @@
                     <a href="#">
                         <img aria-hidden="true" alt="" src="/FePestsClean/resources/images/product/product-img-horz.png" />
                         <div class="mt-2">
-                            <span class="text-muted">Dung dịch hóa chất</span>
+                            <span class="text-muted1">Dung dịch hóa chất</span>
                             <h2 class="font-bold">Hóa chất 3M™ Stainless Steel Cleaner & Polish 621...</h2>
                             <p class="text-muted color-top">100.000 ₫ - 150.000 ₫</p>
                             <p class="text-color ">100.000 ₫ - 150.000 ₫</p>
@@ -287,7 +295,7 @@
                     <a href="#">
                         <img aria-hidden="true" alt="" src="/FePestsClean/resources/images/product/product-img-horz.png" />
                         <div class="mt-2">
-                            <span class="text-muted">Dung dịch hóa chất</span>
+                            <span class="text-muted1">Dung dịch hóa chất</span>
                             <h2 class="font-bold">Hóa chất 3M™ Stainless Steel Cleaner & Polish 621...</h2>
                             <p class="text-muted color-top">100.000 ₫ - 150.000 ₫</p>
                             <p class="text-color ">100.000 ₫ - 150.000 ₫</p>
@@ -304,7 +312,7 @@
                     <a href="#">
                         <img aria-hidden="true" alt="" src="/FePestsClean/resources/images/product/product-img-horz.png" />
                         <div class="mt-2">
-                            <span class="text-muted">Dung dịch hóa chất</span>
+                            <span class="text-muted1">Dung dịch hóa chất</span>
                             <h2 class="font-bold">Hóa chất 3M™ Stainless Steel Cleaner & Polish 621...</h2>
                             <p class="text-muted color-top">100.000 ₫ - 150.000 ₫</p>
                             <p class="text-color ">100.000 ₫ - 150.000 ₫</p>
@@ -321,7 +329,7 @@
                     <a href="#">
                         <img aria-hidden="true" alt="" src="/FePestsClean/resources/images/product/product-img-horz.png" />
                         <div class="mt-2">
-                            <span class="text-muted">Dung dịch hóa chất</span>
+                            <span class="text-muted1">Dung dịch hóa chất</span>
                             <h2 class="font-bold">Hóa chất 3M™ Stainless Steel Cleaner & Polish 621...</h2>
                             <p class="text-muted color-top">100.000 ₫ - 150.000 ₫</p>
                             <p class="text-color ">100.000 ₫ - 150.000 ₫</p>
@@ -338,7 +346,7 @@
                     <a href="#">
                         <img aria-hidden="true" alt="" src="/FePestsClean/resources/images/product/product-img-horz.png" />
                         <div class="mt-2">
-                            <span class="text-muted">Dung dịch hóa chất</span>
+                            <span class="text-muted1">Dung dịch hóa chất</span>
                             <h2 class="font-bold">Hóa chất 3M™ Stainless Steel Cleaner & Polish 621...</h2>
                             <p class="text-muted color-top">100.000 ₫ - 150.000 ₫</p>
                             <p class="text-color ">100.000 ₫ - 150.000 ₫</p>
@@ -440,4 +448,4 @@
     </div>
 
 </div>
-
+<?php include 'resources/views/client/layouts/notify-service.php'; ?>
