@@ -1,7 +1,5 @@
-<<<<<<< HEAD
+
 <?php include 'layouts/header.php' ?>
-=======
->>>>>>> d8e6363a0b7e4a5e630b157b44c49b5c7baedb0b
 <section>
 
     <div class="div-product">
