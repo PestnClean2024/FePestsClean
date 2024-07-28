@@ -92,7 +92,11 @@
       <div class="footer-5">
         
         <a href="#">
+<<<<<<< HEAD
           <p class="footer-text font">Hỗ trợ khách hàng</p>
+=======
+          <p class="footer-text font">Hỗ trợ</p>
+>>>>>>> d8e6363a0b7e4a5e630b157b44c49b5c7baedb0b
         </a>
 
         <a href="#">
@@ -143,7 +147,11 @@
       <a href="#" class="blue">Terms & Conditions</a>
     </div>
   </footer>
+<<<<<<< HEAD
   <?php include 'modal.php'; ?>
+=======
+  <?php include 'resources/views/client/layouts/modal.php'; ?>
+>>>>>>> d8e6363a0b7e4a5e630b157b44c49b5c7baedb0b
   <script src="../../../js/jquery.min.js"></script>
   <script src="../../../../assets/bootstrap/js/bootstrap.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>

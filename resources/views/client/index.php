@@ -1,8 +1,17 @@
 <?php include 'layouts/header.php' ?>
+<<<<<<< HEAD
 
 <section class="container-fluid p-0">
     <!-- Carousel -->
     <div id="homeCarouselBanner" class="carousel slide">
+=======
+<?php include 'resources/views/client/product-fillter.php' ?>
+<!-- <?php include 'resources/views/client/product.php' ?> -->
+<!-- Carousel -->
+<!-- <section class="container-fluid p-0">
+    
+    <div id="homeCarouselBanner" class="carousel carousel-dark slide carousel-fade" data-bs-ride="carousel">
+>>>>>>> d8e6363a0b7e4a5e630b157b44c49b5c7baedb0b
         <div class="carousel-indicators">
             <button type="button" data-bs-target="#homeCarouselBanner" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
             <button type="button" data-bs-target="#homeCarouselBanner" data-bs-slide-to="1" aria-label="Slide 2"></button>
