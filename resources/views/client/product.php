@@ -1,5 +1,5 @@
+<?php include 'layouts/header.php' ?>
 <div>
-
     <div class="div-product">
         <div class="div-product-text">
             <p class="p-product">Danh mục sản phẩm</p>
@@ -435,9 +435,7 @@
         </div>
 
     </div>
-    <div class="div-img-banner2">
-        <img src="/FePestsClean/resources/images/product/proudct-horz2.png" alt="" class="img-banner2">
-    </div>
-
 </div>
-
+<?php include 'banner-carousel.php' ?>
+<?php include 'layouts/notify-product.php'; ?>
+<?php include 'layouts/footer.php' ?>
