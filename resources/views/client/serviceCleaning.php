@@ -27,8 +27,8 @@
 
 <section class="service-cleaning-services">
     <div class="headline">
-        <h1 class="title" style="font-size: 56px;">CÁC DỊCH VỤ VỆ SINH CỦA PESTNCLEAN</h1>
-        <p class="subtitle" style="font-size: 24px;">Các dịch vụ vệ sinh chuyên nghiệp của PestnClean, đáp ứng tối ưu yêu cầu của khách hàng trong nhiều lĩnh vực, nâng cao chất lượng môi trường sống và làm việc</p>
+        <h1 class="title">CÁC DỊCH VỤ VỆ SINH CỦA PESTNCLEAN</h1>
+        <p class="subtitle">Các dịch vụ vệ sinh chuyên nghiệp của PestnClean, đáp ứng tối ưu yêu cầu của khách hàng trong nhiều lĩnh vực, nâng cao chất lượng môi trường sống và làm việc</p>
     </div>
     <div class="content">
         <div class="row">
@@ -138,8 +138,6 @@
     </div>
 </section>
 
-<section class="service-cleaning-banner">
-    <img src="../../images/serviceCleaning/services-banner.png" alt="#" class="img-fluid">
-</section>
+<?php include 'banner-carousel.php' ?>
 
 <?php include 'layouts/footer.php' ?>

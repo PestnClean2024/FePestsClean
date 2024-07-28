@@ -77,7 +77,7 @@
     <img src="../../images/cleaningSolution/service-cleaning-process.png" class="img-fluid" alt="">
 </section>
 
-<section class="service-cleaning-special">
+<section class="cleaning-solution-special">
     <div class="headline">
         <h1 class="title">GIẢI PHÁP CHO CÁC NGÀNH HÀNG</h1>
     </div>
@@ -168,29 +168,6 @@
     </div>
 </section>
 
-<section class="ads-banner">
-    <div id="bannerSlider" class="carousel slide" data-ride="carousel">
-        <div class="carousel-inner">
-            <div class="carousel-item active">
-                <img class="d-block w-100" src="../../images/serviceCleaning/services-banner.png" alt="Banner 1">
-            </div>
-            <div class="carousel-item">
-                <img class="d-block w-100" src="../../images/serviceCleaning/services-banner.png" alt="Banner 2">
-            </div>
-            <div class="carousel-item">
-                <img class="d-block w-100" src="../../images/serviceCleaning/services-banner.png" alt="Banner 3">
-            </div>
-        </div>
-        <a class="carousel-control-prev" href="#bannerSlider" role="button" data-slide="prev">
-            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-            <span class="sr-only">Previous</span>
-        </a>
-        <a class="carousel-control-next" href="#bannerSlider" role="button" data-slide="next">
-            <span class="carousel-control-next-icon" aria-hidden="true"></span>
-            <span class="sr-only">Next</span>
-        </a>
-    </div>
-</section>
-
+<?php include 'banner-carousel.php' ?>
 
 <?php include 'layouts/footer.php' ?>

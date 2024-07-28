@@ -117,7 +117,7 @@
 .service-cleaning-our-services .content .row {
     display: flex;
     align-items: center;
-    justify-content: space-between;
+    justify-content: center;
 }
 
 .service-cleaning-our-services .content .card-img {
@@ -161,10 +161,16 @@
 
 .service-cleaning-our-services .content .img1 {
     background-image: url(../../images/cleaningSolution/giai-phap-ve-sinh.png);
+    transition: transform 0.3s ease;
 }
 
 .service-cleaning-our-services .content .img2 {
     background-image: url(../../images/cleaningSolution/giai-phap-mui-huong.png);
+    transition: transform 0.3s ease;
+}
+
+.service-cleaning-our-services .content .card-img:hover {
+    transform: scale(1.05);
 }
 
 .service-cleaning-our-services .content .card-img .service-name {
@@ -227,12 +233,12 @@
 }
 
 /* Solution */
-.service-cleaning-special {
+.cleaning-solution-special {
     padding: 0px 80px;
     margin: 80px 0px;
 }
 
-.service-cleaning-special .headline .title {
+.cleaning-solution-special .headline .title {
     color: var(--color-Light-Purple-Purple, #722ED1);
     text-align: center;
     font-family: "Noto Serif";
@@ -244,47 +250,67 @@
     margin-bottom: 40px;
 }
 
-.service-cleaning-special .content .row:nth-child(1) .card-item:nth-child(1) {
+.cleaning-solution-special .content .row {
+    justify-content: space-between;
+}
+
+.cleaning-solution-special .content .row:nth-child(1) {
+    margin-bottom: 64px;
+}
+
+.cleaning-solution-special .content .row .card-item:hover {
+    transform: scale(1.05);
+}
+
+.cleaning-solution-special .content .row:nth-child(1) .card-item:nth-child(1) {
     background-image: url(../../images/cleaningSolution/card-background-1.png);
     background-repeat: repeat;
+    transition: transform 0.3s ease;
 }
 
-.service-cleaning-special .content .row:nth-child(1) .card-item:nth-child(2) {
+.cleaning-solution-special .content .row:nth-child(1) .card-item:nth-child(2) {
     background-image: url(../../images/cleaningSolution/card-background-2.png);
     background-repeat: repeat;
+    transition: transform 0.3s ease;
 }
 
-.service-cleaning-special .content .row:nth-child(1) .card-item:nth-child(3) {
+.cleaning-solution-special .content .row:nth-child(1) .card-item:nth-child(3) {
     background-image: url(../../images/cleaningSolution/card-background-3.png);
     background-repeat: repeat;
+    transition: transform 0.3s ease;
 }
 
-.service-cleaning-special .content .row:nth-child(1) .card-item:nth-child(4) {
+.cleaning-solution-special .content .row:nth-child(1) .card-item:nth-child(4) {
     background-image: url(../../images/cleaningSolution/card-background-4.png);
     background-repeat: repeat;
+    transition: transform 0.3s ease;
 }
 
-.service-cleaning-special .content .row:nth-child(2) .card-item:nth-child(1) {
+.cleaning-solution-special .content .row:nth-child(2) .card-item:nth-child(1) {
     background-image: url(../../images/cleaningSolution/card-background-5.png);
     background-repeat: repeat;
+    transition: transform 0.3s ease;
 }
 
-.service-cleaning-special .content .row:nth-child(2) .card-item:nth-child(2) {
+.cleaning-solution-special .content .row:nth-child(2) .card-item:nth-child(2) {
     background-image: url(../../images/cleaningSolution/card-background-6.png);
     background-repeat: repeat;
+    transition: transform 0.3s ease;
 }
 
-.service-cleaning-special .content .row:nth-child(2) .card-item:nth-child(3) {
+.cleaning-solution-special .content .row:nth-child(2) .card-item:nth-child(3) {
     background-image: url(../../images/cleaningSolution/card-background-7.png);
     background-repeat: repeat;
+    transition: transform 0.3s ease;
 }
 
-.service-cleaning-special .content .row:nth-child(2) .card-item:nth-child(4) {
+.cleaning-solution-special .content .row:nth-child(2) .card-item:nth-child(4) {
     background-image: url(../../images/cleaningSolution/card-background-8.png);
     background-repeat: repeat;
+    transition: transform 0.3s ease;
 }
 
-.service-cleaning-special .content .card-item::before {
+.cleaning-solution-special .content .card-item::before {
     content: '';
     position: absolute;
     top: 0;
@@ -296,7 +322,7 @@
     border-radius: 15px;
 }
 
-.service-cleaning-special .content .card-item {
+.cleaning-solution-special .content .card-item {
     display: flex;
     width: 320px;
     height: 320px;
@@ -311,12 +337,16 @@
     position: relative;
 }
 
-.service-cleaning-special .content .card-item .wrapper {
+.cleaning-solution-special .content .card-item .wrapper {
     z-index: 1;
+    position: absolute;
+    padding: 24px;
+    left: 0;
+    bottom: 0;
 }
 
 
-.service-cleaning-special .content .card-item .wrapper .title {
+.cleaning-solution-special .content .card-item .wrapper .title {
     height: 120px;
     color: var(--Color, #FFF);
     text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
@@ -333,7 +363,7 @@
 }
 
 
-.service-cleaning-special .content .card-item .wrapper .number {
+.cleaning-solution-special .content .card-item .wrapper .number {
     display: -webkit-box;
     -webkit-box-orient: vertical;
     -webkit-line-clamp: 2;
