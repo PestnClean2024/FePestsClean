@@ -339,4 +339,5 @@
         </div>
     </div>
 </section>
+<?php include 'layouts/notify-service.php' ?>
 <?php include 'layouts/footer.php' ?>
