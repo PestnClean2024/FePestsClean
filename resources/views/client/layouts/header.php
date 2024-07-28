@@ -13,15 +13,21 @@
     <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.7/dist/umd/popper.min.js"></script>
 
     <script src="/FePestsClean/assets/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <script src="../../../../../FePestsClean/resources/js/jquery.min.js"></script>
 
     <link rel="stylesheet" href="/FePestsClean/assets/bootstrap/css/bootstrap.min.css">
     <link rel="stylesheet" href="/FePestsClean/resources/css/reset.css">
     <link rel="stylesheet" href="/FePestsClean/resources/css/styles.css">
     <link rel="stylesheet" href="/FePestsClean/resources/css/components/header.css">
     <link rel="stylesheet" href="/FePestsClean/resources/css/components/footer.css">
+<<<<<<< HEAD
+    <link rel="stylesheet" href="/FePestsClean/resources/css/components/home.css">
+    <link rel="stylesheet" href="/FePestsClean/resources/css/components/serviceCleaning.css">
+=======
     <link rel="stylesheet" href="/FePestsClean/resources/css/components/serviceCleaning.css">
     <link rel="stylesheet" href="/FePestsClean/resources/css/components/authentication.css">
     <link rel="stylesheet" href="/FePestsClean/resources/css/components/home.css">
+    <link rel="stylesheet" href="/FePestsClean/resources/css/components/service.css">
     <link rel="stylesheet" href="/FePestsClean/resources/css/components/user.css">
     <link rel="stylesheet" href="/FePestsClean/resources/css/components/cleaningSolution.css">
 </head>
