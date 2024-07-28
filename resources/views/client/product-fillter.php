@@ -1,6 +1,4 @@
-
 <?php include 'layouts/header.php' ?>
-
 <section>
 
     <div class="div-product">
@@ -465,11 +463,7 @@
 
             <div class="grid div-gird">
                 <div class="border-div rounded-lg  bg-card">
-
-                    <a href="">
-
                     <a href="#">
-
                         <img aria-hidden="true" alt="" src="/FePestsClean/resources/images/product/product-img-horz.png" />
                         <div class="mt-2">
                             <span class="text-muted1">Dung dịch hóa chất</span>
@@ -690,18 +684,8 @@
 
         </div>
     </div>
-
 </div>
 </section>
 <?php include 'banner-carousel.php' ?>
 <?php include 'layouts/notify-product.php'; ?>
 <?php include 'layouts/footer.php' ?>
-
-
-    <div class="div-img-banner2">
-        <img src="/FePestsClean/resources/images/product/proudct-horz2.png" alt="" class="img-banner2">
-    </div>
-
-</div>
-<?php include 'resources/views/client/layouts/notify-service.php'; ?>
-

@@ -1,4 +1,3 @@
-
 <?php include 'layouts/header.php' ?>
 <section>
 
@@ -445,11 +444,7 @@
         </div>
     </div>
 </div>
-
 </section>
 <?php include 'banner-carousel.php' ?>
 <?php include 'layouts/notify-product.php'; ?>
 <?php include 'layouts/footer.php' ?>
-
-<?php include 'resources/views/client/layouts/notify-service.php'; ?>
-
