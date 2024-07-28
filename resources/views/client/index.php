@@ -179,7 +179,7 @@
         <h1>Vì sao chọn chúng tôi</h1>
         <div class="reasons-number-title-container">
             <div class="number-and-year-group">
-                <h1>5+</h1>
+                <h1>8+</h1>
                 <p>Năm hoạt động</p>
             </div>
             <div class="number-and-year-group">
@@ -290,7 +290,7 @@
     <div class="other-blog-container">
         <div class="other-blog-title-container">
             <h1>Bài viết tham khảo</h1>
-            <a>Xem thêm</a>
+            <a href="#">Xem thêm</a>
         </div>
         <div id="carouselListCard" class="carousel slide" data-bs-ride="carousel">
             <div class="carousel-inner home-other-blogs">
@@ -300,21 +300,21 @@
                             <img src="../../../../FePestsClean/resources/images/Home/blog-image.png" alt="...">
                             <div class="card-item-content">
                                 <h5>Bảng giá vệ sinh công nghiệp PestnClean</h5>
-                                <a>Xem thêm</a>
+                                <a href="#">Xem thêm</a>
                             </div>
                         </div>
                         <div class="blog-card-item">
                             <img src="../../../../FePestsClean/resources/images/Home/blog-image2.png" alt="...">
                             <div class="card-item-content">
                                 <h5>6 Cách khử mùi hôi nhà vệ sinh mới nhất 2024</h5>
-                                <a>Xem thêm</a>
+                                <a href="#">Xem thêm</a>
                             </div>
                         </div>
                         <div class="blog-card-item">
                             <img src="../../../../FePestsClean/resources/images/Home/blog-image3.png" alt="...">
                             <div class="card-item-content">
                                 <h5>3 cách tạo mùi thơm cho xe ô tô bạn nên biết</h5>
-                                <a>Xem thêm</a>
+                                <a href="#">Xem thêm</a>
                             </div>
                         </div>
                     </div>

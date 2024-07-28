@@ -27,6 +27,7 @@
     <link rel="stylesheet" href="/FePestsClean/resources/css/components/home.css">
     <link rel="stylesheet" href="/FePestsClean/resources/css/components/service.css">
     <link rel="stylesheet" href="/FePestsClean/resources/css/components/user.css">
+    <link rel="stylesheet" href="/FePestsClean/resources/css/components/blog.css">
 </head>
 
 <body>
