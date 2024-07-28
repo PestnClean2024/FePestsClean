@@ -76,7 +76,7 @@
                     <option value="mercedes">Mercedes</option>
                     <option value="audi">Audi</option>
                 </select>
-                <button class="product-btn-img"><a href="#"><img src="/FePestsClean/resources/images/product/product-Vector.png" alt=""></a></button>
+                <button class="product-btn-img"><a href="product-fillter.php"><img src="/FePestsClean/resources/images/product/product-Vector.png" alt=""></a></button>
             </div>
             <div class="product-cell-add">
                 <p class="span-cell">ĐANG GIẢM GIÁ</p> 
