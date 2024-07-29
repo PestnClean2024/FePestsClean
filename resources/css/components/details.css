@@ -16,8 +16,9 @@ hr,ul,ol,li {
     display: grid;
     grid-template-columns: 4fr 5fr;
     gap: 24px;
-    margin-bottom: 70px;
+    margin: 80px 0px;
   }
+
   .detail-info .product-main .main-img {
     position: relative;
     overflow: hidden;
@@ -28,7 +29,7 @@ hr,ul,ol,li {
   }
   .detail-info .product-main .sale > img {
     position: absolute;
-    width: 40%;
+    width: 35%;
     top: 0;
   }
   .detail-info .main-img > .new {
@@ -37,15 +38,15 @@ hr,ul,ol,li {
     display: flex;
     justify-content: center;
     width: 50%;
-    right: -40px;
-    top: 160px;
+    right: -10%;
+    top: 25%;
     transform: rotate(45deg);
     border: 1px solid #21a612;
     background-color: #21a612;
     color: #ffffff;
     font-size: 25px;
     font-weight: bold;
-    font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+    text-align: center;
   }
   
   .detail-info .sub-img {
@@ -249,47 +250,61 @@ hr,ul,ol,li {
     transition: 0.3s all ease;
   }
   /* ---------------------Product-category------------------------- */
-  .detail-info .category {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    justify-content: center;
-    justify-items: center;
-    align-items: center;
+  .tab-category .nav-tabs .nav-item .nav-link {
+    color: var(--Neutral-500, #868E96);
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 150%;
   }
-  .detail-info .category label {
-    text-align: center;
-    width: 100%;
-    font-size: 23px;
-    color: #9fa6ac;
-    font-weight: bold;
-  }
-  .detail-info .category label.active {
-    text-align: center;
-    padding-bottom: 8px;
-    border-bottom: 3px solid #005ca9;
-    width: 100%;
-    font-weight: bold;
-    font-size: 23px;
-    color: #005ca9;
-  }
-  /* ---------------------Product-info------------------------- */
-  .detail-info .product-info {
-    margin-bottom: 70px;
-  }
-  .detail-info .product-info .title h2 {
-    font-family: Arial, Helvetica, sans-serif;
-    font-weight: bolder;
-    color: #005ca9;
-  }
+  .tab-content .product-info .title h2 {
+    color: #0C0D0E;
+    font-family: Inter;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 150%;
+}
+.tab-content .product-info .content p {
+  margin: 0;
+  margin-bottom: 32px;
+  overflow: hidden;
+  color:  #0C0D0E;
+  text-overflow: ellipsis;
+  font-family: Inter;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 150%; 
+}
+.tab-content .product-info .content .content-title {
+  color:  #0C0D0E;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 150%; /* 27px */
+  margin-bottom: 32px;
+}
+  .tab-category .nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active {
+     border-bottom: 2px solid #005ca9 !important;
+     color:  #005ca9 !important;
+} 
+
   /* ---------------------Product-vote------------------------- */
   .product-vote .title h2 {
-    font-family: Arial, Helvetica, sans-serif;
-    font-weight: bolder;
+    color: #0C0D0E;
+    font-family: Inter;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 150%; 
   }
   .product-vote .comment {
     border: 2px solid #333333;
     border-radius: 15px;
-    padding: 10px;
+    padding: 16px 16px 16px 24px;
+    justify-content: space-between;
+    height: 60px;
   }
   .product-vote .comment input {
     border: none;
@@ -317,14 +332,20 @@ hr,ul,ol,li {
     border: none;
     width: 15%;
   }
+  .product-vote .content .title-filter .title {
+    margin-bottom: 40px;
+  }
   .product-vote .content select.filter:focus {
     border: none;
     outline: none;
   }
+  .product-vote .content  {
+      margin: 40px 47px 0px 0px;
+  }
   .product-vote .content .item {
     display: grid;
     grid-template-columns: 0.3fr 5fr;
-    gap: 20px;
+    gap: 40px;
   }
   .product-vote .content .feedBack {
     display: flex;
@@ -348,6 +369,12 @@ hr,ul,ol,li {
     border: 2px solid #6c757d;
   }
   /* ---------------------Product-others------------------------- */
+  .product-others {
+    margin: 80px 0px;
+  }
+  .product-others .title {
+    margin-bottom: 40px;
+  }
    .product-others .title h1 {
     color: #005ca9;
     font-size: 55px;
@@ -373,11 +400,10 @@ hr,ul,ol,li {
     font-weight: bold;
   }
   .product-others .carousel-item .card{
-    border: 0;
+    max-width: 424px;
   }
   .product-others .carousel-item .card .card-img img{
-      width: 435px;
-      height: 435px;
+   width: 100%;
   }
    .product-others .carousel-item .note2 {
     position: absolute;
@@ -393,14 +419,34 @@ hr,ul,ol,li {
    .product-others .carousel-item .element {
     text-align: left;
   }
+  .product-others .carousel-item .element .element-title{
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 2;
+    overflow: hidden;
+      color:  #0C0D0E;
+      text-overflow: ellipsis;
+      font-family: Inter;
+      font-size: 24px;
+      font-style: normal;
+      font-weight: 600;
+      line-height: 150%; /* 36px */
+  }
    .product-others .element .price {
     color: #21a612;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 150%; /* 36px */
   }
    .product-others .element .price > span {
     border-bottom: 4px solid #21a612;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 150%; /* 36px */
   }
    .product-others .element .add-cart {
-    margin-top: 20px;
     padding: 7px;
     font-weight: bold;
     color: #005ca9;
@@ -439,7 +485,7 @@ hr,ul,ol,li {
   .carousel-inner .carousel-item-next,
   .carousel-inner .carousel-item-prev {
     display: flex;
-    gap: 20px;
+    gap: 40px;
   }
   
   @media (min-width: 768px) {

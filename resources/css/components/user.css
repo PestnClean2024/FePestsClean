@@ -3,9 +3,9 @@
     font-family: "Noto Serif";
   }
   .wrapper {
-    max-width: 1512px;
       margin: auto;
       padding: 0px 80px;
+      box-sizing: border-box;
   }
   .form-check-input:checked {
     background-color: #005ca9;

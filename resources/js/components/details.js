@@ -1,9 +1,5 @@
 
-
-
-
 let items = document.querySelectorAll('.carousel .carousel-item')
-
 items.forEach((el) => {
     const minPerSlide = 3
     let next = el.nextElementSibling
@@ -53,3 +49,4 @@ $(document).ready(function () {
       html: true
     });
   });
+
