@@ -29,6 +29,7 @@
     <link rel="stylesheet" href="/FePestsClean/resources/css/components/service.css">
     <link rel="stylesheet" href="/FePestsClean/resources/css/components/user.css">
     <link rel="stylesheet" href="/FePestsClean/resources/css/components/blog.css">
+    <link rel="stylesheet" href="/FePestsClean/resources/css/components/landscapeDesign.css">
 </head>
 
 <body>
