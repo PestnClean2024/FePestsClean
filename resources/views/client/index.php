@@ -28,7 +28,7 @@
                 <img src="../../../../FePestsClean/resources/images/Home/phone-icon.svg">
             </button>
             <button class="home-icon-contact-container">
-                <img src="../../../../FePestsClean/resources/images/Home/phone-icon.svg">
+                <img src="../../../../FePestsClean/resources/images/Home/zalo-icon.svg">
             </button>
         </div>
         <button class="carousel-control-prev" type="button" data-bs-target="#homeCarouselBanner" data-bs-slide="prev">

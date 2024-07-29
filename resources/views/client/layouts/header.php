@@ -30,6 +30,7 @@
     <link rel="stylesheet" href="/FePestsClean/resources/css/components/service.css">
     <link rel="stylesheet" href="/FePestsClean/resources/css/components/user.css">
     <link rel="stylesheet" href="/FePestsClean/resources/css/components/blog.css">
+    <link rel="stylesheet" href="/FePestsClean/resources/css/components/blogDetail.css">
 </head>
 
 <body>
