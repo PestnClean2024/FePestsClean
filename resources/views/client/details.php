@@ -13,14 +13,16 @@
                 <div class="new">MỚI</div>
             </div>
             <div class="sub-img">
-                <div class="group-img">
-                    <img src="../../images/Details/sp1.png" alt="" width="25%">
-                    <img src="../../images/Details/sp1.png" alt="" width="25%">
-                    <img src="../../images/Details/sp1.png" alt="" width="25%">
-                    <img src="../../images/Details/sp1.png" alt="" width="25%">
-                    <img src="../../images/Details/sp1.png" alt="" width="25%">
+                <div class="slice-carousel">
+                    <div><img class="w-100" src="../../images/Details/sp1.png" alt="Image 1"></div>
+                    <div><img  class="w-100"src="../../images/Details/sp1.png" alt="Image 2"></div>
+                    <div><img class="w-100" src="../../images/Details/sp1.png" alt="Image 3"></div>
+                    <div><img class="w-100" src="../../images/Details/sp1.png" alt="Image 4"></div>
+                    <div><img class="w-100" src="../../images/Details/sp1.png" alt="Image 3"></div>
+                    <div><img class="w-100" src="../../images/Details/sp1.png" alt="Image 4"></div>
                 </div>
             </div>
+
         </div>
         <div class="product-content">
             <div class="name mb-2">
@@ -174,7 +176,7 @@
                         </div>
                     </div>
                     <div class="content">
-                        <div class="title-filter my-5 d-flex justify-content-between">
+                        <div class="title-filter d-flex justify-content-between">
                             <h3 class="title">Đánh giá ( 11 )</h3>
                             <select class="filter form-select" aria-label="Default select example">
                                 <option selected>Mới nhất</option>

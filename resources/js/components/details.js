@@ -49,4 +49,15 @@ $(document).ready(function () {
       html: true
     });
   });
-
+  $(document).ready(function(){
+    $('.slice-carousel').slick({
+        slidesToShow: 4,
+        slidesToScroll: 1,
+        dots: false,
+        infinite: true,
+        draggable: true,
+        swipeToSlide: true,
+        arrows: false, 
+        rows: 1,
+    });
+});
