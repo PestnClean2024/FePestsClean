@@ -321,7 +321,8 @@ hr,ul,ol,li {
   }
   .product-vote .content .filter {
     border: none;
-    width: 15%;
+    width: 256px;
+    font: size 18px; ;
   }
   .product-vote .content .title-filter {
     margin-bottom: 40px;
@@ -331,7 +332,7 @@ hr,ul,ol,li {
     outline: none;
   }
   .product-vote .content  {
-      margin: 40px 47px 0px 0px;
+      margin: 40px 0px 0px 0px;
   }
   .product-vote .content .item {
     display: grid;
@@ -494,7 +495,7 @@ hr,ul,ol,li {
   
   .carousel-inner .carousel-item-end,
   .carousel-inner .carousel-item-start {
-    transform: translateX(0px);
+    transform: translateX(100px);
   }
   
   .carousel-control-next,

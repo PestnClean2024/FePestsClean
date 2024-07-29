@@ -13,13 +13,12 @@
                 <div class="new">MỚI</div>
             </div>
             <div class="sub-img">
-                <div class="slice-carousel">
+                <div class="slice-carousel sub-img-list">
                     <div><img class="w-100" src="../../images/Details/sp1.png" alt="Image 1"></div>
                     <div><img  class="w-100"src="../../images/Details/sp1.png" alt="Image 2"></div>
                     <div><img class="w-100" src="../../images/Details/sp1.png" alt="Image 3"></div>
-                    <div><img class="w-100" src="../../images/Details/sp1.png" alt="Image 4"></div>
                     <div><img class="w-100" src="../../images/Details/sp1.png" alt="Image 3"></div>
-                    <div><img class="w-100" src="../../images/Details/sp1.png" alt="Image 4"></div>
+                    <div><img class="w-100" src="../../images/Details/sp1.png" alt="Image 3"></div>
                 </div>
             </div>
 

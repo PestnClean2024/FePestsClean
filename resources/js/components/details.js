@@ -49,12 +49,12 @@ $(document).ready(function () {
       html: true
     });
   });
-  $(document).ready(function(){
-    $('.slice-carousel').slick({
+
+$(document).ready(function(){
+    $('.sub-img-list').slick({
         slidesToShow: 4,
         slidesToScroll: 1,
         dots: false,
-        infinite: true,
         draggable: true,
         swipeToSlide: true,
         arrows: false, 
