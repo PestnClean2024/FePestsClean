@@ -80,4 +80,52 @@
     </div>
 </section>
 
+<section class="abouts-page-mission">
+    <div class="row">
+        <div class="col-md-6 content">
+            <h1 class="title">SỨ MỆNH</h1>
+            <p class="description"><span class="hightlight">“ Nâng cao chất lượng môi trường làm việc, đảm bảo giá trị kinh doanh hiệu quả bền vững ”.</span> PestnClean tin rằng việc cung cấp mô hình dịch vụ giải pháp toàn diện về vệ sinh và kiểm soát côn trùng sẽ mang lại những giá trị tốt đẹp cho công việc kinh doanh của khách hàng, đối tác và xã hội. Giúp khách hàng và đối tác nâng cao chất lượng môi trường sống và làm việc, đáp ứng đầy đủ các tiêu chuẩn ngành và đủ điều kiện pháp lý để đảm bảo quá trình kinh doanh hiệu quả, nâng cao danh tiếng thương hiệu.</p>
+        </div>
+        <div class="col-md-6 images">
+            <img src="../../images/About/example-img3.png" alt="" class="img-fluid">
+        </div>
+    </div>
+</section>
+
+<section class="abouts-core-values">
+    <div class="headline">
+        <h1 class="title">GIÁ TRỊ CỐT LÕI</h1>
+    </div>
+    <div class="content">
+        <div class="row justify-content-between">
+            <div class="card col-md-3">
+                <img src="../../images/About/example-card.png" alt="" class="card-img-top">
+                <div class="card-body">
+                    <h3 class="title">Giải quyết tất cả vấn đề vệ sinh, côn trùng khách hàng gặp phải</h3>
+                </div>
+            </div>
+            <div class="card col-md-3">
+                <img src="../../images/About/example-card.png" alt="" class="card-img-top">
+                <div class="card-body">
+                    <h3 class="title">Dịch vụ với trang thiết bị hiện đại, chuyên giàu kinh nghiệm</h3>
+                </div>
+            </div>
+            <div class="card col-md-3">
+                <img src="../../images/About/example-card.png" alt="" class="card-img-top">
+                <div class="card-body">
+                    <h3 class="title">Chăm sóc, hỗ trợ tư vấn khách hàng tận tâm 24/7</h3>
+                </div>
+            </div>
+            <div class="card col-md-3">
+                <img src="../../images/About/example-card.png" alt="" class="card-img-top">
+                <div class="card-body">
+                    <h3 class="title">Xây dựng hệ sinh thái toàn diện, bền vững và đảm bảo sức khoẻ</h3>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<?php include 'banner-carousel.php' ?>
+<?php include 'layouts/notify-service.php' ?>
 <?php include 'layouts/footer.php' ?>

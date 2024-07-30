@@ -169,7 +169,7 @@
     padding: 40px 0px;
     align-items: flex-start;
     width: 100%;
-    height: 320px;
+    height: 100%;
 }
 
 .abouts-page-vision .images .img-items:nth-child(2) {
@@ -178,7 +178,7 @@
     align-items: flex-end;
     margin: 0px -56px;
     width: 100%;
-    height: 320px;
+    height: 70%;
 }
 
 .abouts-page-vision .images .img-items:nth-child(3) {
@@ -186,5 +186,89 @@
     padding: 40px 0px;
     align-items: flex-start;
     width: 100%;
-    height: 320px;
+    height: 100%;
+}
+
+/* Mission */
+.abouts-page-mission {
+    padding: 0px 80px;
+    margin-bottom: 80px;
+}
+
+.abouts-page-mission .row {
+    display: flex;
+    align-items: center;
+}
+
+.abouts-page-mission .content .title {
+    color: var(--Blue-500, #005CA9);
+    font-family: "Noto Serif";
+    font-size: 56px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 150%;
+    text-transform: uppercase;
+}
+
+.abouts-page-mission .content .description {
+    color: var(--Neutral-500, #868E96);
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 150%;
+    text-align: justify;
+}
+
+.abouts-page-mission .content .description .hightlight {
+    color: var(--Blue-500, #005CA9);
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 150%;
+}
+
+/* Core values */
+.abouts-core-values {
+    padding: 0px 80px;
+    margin-bottom: 80px;
+}
+
+.abouts-core-values .headline {
+    margin-bottom: 80px;
+}
+
+.abouts-core-values .headline .title {
+    color: var(--Blue-500, #005CA9);
+    text-align: center;
+    font-family: "Noto Serif";
+    font-size: 56px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 150%;
+    text-transform: uppercase;
+}
+
+.abouts-core-values .content .card {
+    border-radius: var(--Corner-Large, 16px);
+    border: 1px solid var(--Neutral-200, #C8CCD0);
+    background: var(--White, #FFF);
+    padding: 0px;
+    width: 320px;
+}
+
+.abouts-core-values .content .card-body {
+    padding: 32px;
+}
+
+.abouts-core-values .content .card-body .title {
+    color: var(--Neutral-950, #0C0D0E);
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 150%;
+}
+
+.abouts-core-values .content .card .card-img-top {
+    border-top-left-radius: 16px;
+    border-top-right-radius: 16px;
 }
