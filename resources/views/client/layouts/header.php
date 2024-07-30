@@ -63,10 +63,10 @@
                         Dịch vụ
                     </a>
                     <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-                        <li><a class="dropdown-item" href="#">Kiểm soát côn trùng</a></li>
+                        <li><a class="dropdown-item" href="serviceBugControl.php">Kiểm soát côn trùng</a></li>
                         <li><a class="dropdown-item" href="serviceCleaning.php">Dịch vụ vệ sinh</a></li>
                         <li><a class="dropdown-item" href="cleaningSolution.php">Giải pháp vệ sinh</a></li>
-                        <li><a class="dropdown-item" href="#">Thi công cảnh quan</a></li>
+                        <li><a class="dropdown-item" href="landscapeDesign.php">Thi công cảnh quan</a></li>
                     </ul>
                 </li>
                 <li class="nav-item">

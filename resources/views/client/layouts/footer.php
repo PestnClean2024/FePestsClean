@@ -113,7 +113,7 @@
 
       </div>
     
-      <div class="footer-5">
+      <div class="footer-5 col-md-4">
 
         <a href="#">
           <p class="footer-text font">Khác</p>

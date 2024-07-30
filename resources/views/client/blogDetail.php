@@ -199,6 +199,6 @@
     </div>
 </section>
 
-<?php include '../FePestsClean/resources/views/client/banner-carousel.php' ?>
-
+<?php include 'banner-carousel.php' ?>
+<?php include 'layouts/notify-news.php' ?>
 <?php include 'layouts/footer.php' ?>
