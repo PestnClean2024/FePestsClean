@@ -1,7 +1,7 @@
 <?php include 'layouts/header.php' ?>
 
+ <!-- Carousel -->
 <section class="container-fluid p-0">
-    <!-- Carousel -->
     <div id="homeCarouselBanner" class="carousel slide">
         <div class="carousel-indicators">
             <button type="button" data-bs-target="#homeCarouselBanner" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
