@@ -1,0 +1,48 @@
+/* Header */
+.contact-page-header {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 1512px;
+    height: 399.982px;
+    flex-direction: column;
+    background-color: var(--Blue-500);
+}
+
+.contact-page-header .headline {
+    position: absolute;
+    text-align: center;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.contact-page-header .headline .title {
+    font-family: "Noto Serif";
+    width: max-content;
+    font-size: 56px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 150%;
+    text-transform: uppercase;
+    background: linear-gradient(180deg, rgba(255, 255, 255, 0.00) 0%, #FFF 16.06%, #FFF 86.9%, rgba(255, 255, 255, 0.00) 106.25%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    color: #FFF;;
+}
+
+.contact-page-header .headline .btn-header {
+    padding: 8px 16px;
+    gap: 8px;
+    border-radius: 16px;
+    background: var(--Blue-500);
+    color: #FFF;
+    font-size: 32px;
+}
+
+.contact-page-header .headline .btn-header:hover {
+    padding: 8px 16px;
+    border: 1px solid #fff;
+}
