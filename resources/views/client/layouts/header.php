@@ -34,6 +34,8 @@
     <link rel="stylesheet" href="/FePestsClean/resources/css/components/contact.css">
     <link rel="stylesheet" href="/FePestsClean/resources/css/components/blogDetail.css">
     <link rel="stylesheet" href="/FePestsClean/resources/css/components/serviceBugControl.css">
+    <link rel="stylesheet" href="/FePestsClean/resources/css/components/details.css">
+    <link rel="stylesheet" href="/FePestsClean/resources/css/components/detail.css">
 </head>
 
 <body>
