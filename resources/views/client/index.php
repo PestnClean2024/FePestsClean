@@ -1,7 +1,7 @@
 <?php include 'layouts/header.php' ?>
 
+ <!-- Carousel -->
 <section class="container-fluid p-0">
-    <!-- Carousel -->
     <div id="homeCarouselBanner" class="carousel slide">
         <div class="carousel-indicators">
             <button type="button" data-bs-target="#homeCarouselBanner" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
@@ -22,6 +22,14 @@
             <div class="carousel-item">
                 <img src="../../../../FePestsClean/resources/images/Home/home-slider-banner4.png" class="d-block w-100 img-home" alt="">
             </div>
+        </div>
+        <div class="home-icons-contact-container">
+            <button class="home-icon-contact-container">
+                <img src="../../../../FePestsClean/resources/images/Home/phone-icon.svg">
+            </button>
+            <button class="home-icon-contact-container">
+                <img src="../../../../FePestsClean/resources/images/Home/zalo-icon.svg">
+            </button>
         </div>
         <button class="carousel-control-prev" type="button" data-bs-target="#homeCarouselBanner" data-bs-slide="prev">
             <div class="home-carousel-button-container">
@@ -207,14 +215,14 @@
                 <h4>ĐỘI NGŨ GIÀU
                     KINH NGHIỆM</h4>
                 <p>
-                Đội ngũ của chúng tôi bao gồm các chuyên gia với nhiều năm kinh nghiệm trong lĩnh vực của mình, đảm bảo sự chuyên nghiệp và tinh thần trách nhiệm cao, cung cấp các giải pháp tối ưu nhất trong mỗi dự án.
+                    Đội ngũ của chúng tôi bao gồm các chuyên gia với nhiều năm kinh nghiệm trong lĩnh vực của mình, đảm bảo sự chuyên nghiệp và tinh thần trách nhiệm cao, cung cấp các giải pháp tối ưu nhất trong mỗi dự án.
                 </p>
             </div>
             <div class="image-and-text-group">
                 <img src="../../../../FePestsClean/resources/images/Home/reason-image3.png" width="250" height="250">
                 <h4>BÁO CÁO PHÂN TÍCH CHUẨN BRC, HACCP</h4>
                 <p>
-                Chúng tôi luôn tuân thủ các tiêu chuẩn chất lượng quốc tế như HRC, HACCP và ISO, đảm bảo rằng mọi quy trình và hoạt động đều đáp ứng yêu cầu nghiêm ngặt về an toàn và chất lượng dịch vụ, sản phẩm.
+                    Chúng tôi luôn tuân thủ các tiêu chuẩn chất lượng quốc tế như HRC, HACCP và ISO, đảm bảo rằng mọi quy trình và hoạt động đều đáp ứng yêu cầu nghiêm ngặt về an toàn và chất lượng dịch vụ, sản phẩm.
                 </p>
             </div>
         </div>
@@ -228,34 +236,102 @@
         <div class="tab-container">
             <ul class="nav nav-tabs nav-fill" style="border-bottom: none">
                 <li class="nav-item">
-                    <a class="nav-link active" aria-current="page" href="#">Tất cả</a>
+                    <button class="nav-link active" id="all-tab" data-bs-toggle="tab" data-bs-target="#all-tab-pane" type="button" role="tab" aria-controls="all-tab-pane" aria-selected="true">Tất cả</button>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Kiểm soát côn trùng</a>
+                    <button class="nav-link" id="ksct-tab" data-bs-toggle="tab" data-bs-target="#ksct-tab-pane" type="button" role="tab" aria-controls="ksct-tab-pane" aria-selected="false">Kiểm soát côn trùng</button>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Vệ sinh công nghiệp</a>
+                    <button class="nav-link" id="vscn-tab" data-bs-toggle="tab" data-bs-target="#vscn-tab-pane" type="button" role="tab" aria-controls="vscn-tab-pane" aria-selected="false">Vệ sinh công nghiệp</button>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Giải pháp mùi hương</a>
+                    <button class="nav-link" id="gpmh-tab" data-bs-toggle="tab" data-bs-target="#gpmh-tab-pane" type="button" role="tab" aria-controls="gpmh-tab-pane" aria-selected="false">Giải pháp mùi hương</button>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Thi công cảnh quan</a>
+                    <button class="nav-link" id="tccq-tab" data-bs-toggle="tab" data-bs-target="#tccq-tab-pane" type="button" role="tab" aria-controls="tccq-tab-pane" aria-selected="false">Thi công cảnh quan</button>
                 </li>
             </ul>
         </div>
-        <div class="images-container">
-            <div class="home-images-row-container">
-                <img class="img-thumbnail" src="../../../../FePestsClean/resources/images/Home/working-image.png">
-                <img class="img-thumbnail" src="../../../../FePestsClean/resources/images/Home/working-image2.png">
-                <img class="img-thumbnail" src="../../../../FePestsClean/resources/images/Home/working-image3.png">
-                <img class="img-thumbnail" src="../../../../FePestsClean/resources/images/Home/working-image4.png">
+        <div class="tab-content mt-0" id="myTabContent">
+            <div class="tab-pane fade show active" id="all-tab-pane" role="tabpanel" aria-labelledby="all-tab">
+                <div class="images-container">
+                    <div class="home-images-row-container">
+                        <img class="img-thumbnail" src="../../../../FePestsClean/resources/images/Home/working-image.png">
+                        <img class="img-thumbnail" src="../../../../FePestsClean/resources/images/Home/working-image2.png">
+                        <img class="img-thumbnail" src="../../../../FePestsClean/resources/images/Home/working-image3.png">
+                        <img class="img-thumbnail" src="../../../../FePestsClean/resources/images/Home/working-image4.png">
+                    </div>
+                    <div class="home-images-row-container">
+                        <img class="img-thumbnail" src="../../../../FePestsClean/resources/images/Home/working-image5.png">
+                        <img class="img-thumbnail" src="../../../../FePestsClean/resources/images/Home/working-image6.png">
+                        <img class="img-thumbnail" src="../../../../FePestsClean/resources/images/Home/working-image7.png">
+                        <img class="img-thumbnail" src="../../../../FePestsClean/resources/images/Home/working-image8.png">
+                    </div>
+                </div>
             </div>
-            <div class="home-images-row-container">
-                <img class="img-thumbnail" src="../../../../FePestsClean/resources/images/Home/working-image5.png">
-                <img class="img-thumbnail" src="../../../../FePestsClean/resources/images/Home/working-image6.png">
-                <img class="img-thumbnail" src="../../../../FePestsClean/resources/images/Home/working-image7.png">
-                <img class="img-thumbnail" src="../../../../FePestsClean/resources/images/Home/working-image8.png">
+            <div class="tab-pane fade" id="ksct-tab-pane" role="tabpanel" aria-labelledby="ksct-tab">
+                <div class="images-container">
+                    <div class="home-images-row-container">
+                        <img class="img-thumbnail" src="../../../../FePestsClean/resources/images/Home/working-image.png">
+                        <img class="img-thumbnail" src="../../../../FePestsClean/resources/images/Home/working-image2.png">
+                        <img class="img-thumbnail" src="../../../../FePestsClean/resources/images/Home/working-image3.png">
+                        <img class="img-thumbnail" src="../../../../FePestsClean/resources/images/Home/working-image4.png">
+                    </div>
+                    <div class="home-images-row-container">
+                        <img class="img-thumbnail" src="../../../../FePestsClean/resources/images/Home/working-image5.png">
+                        <img class="img-thumbnail" src="../../../../FePestsClean/resources/images/Home/working-image6.png">
+                        <img class="img-thumbnail" src="../../../../FePestsClean/resources/images/Home/working-image7.png">
+                        <img class="img-thumbnail" src="../../../../FePestsClean/resources/images/Home/working-image8.png">
+                    </div>
+                </div>
+            </div>
+            <div class="tab-pane fade" id="vscn-tab-pane" role="tabpanel" aria-labelledby="vscn-tab">
+                <div class="images-container">
+                    <div class="home-images-row-container">
+                        <img class="img-thumbnail" src="../../../../FePestsClean/resources/images/Home/working-image.png">
+                        <img class="img-thumbnail" src="../../../../FePestsClean/resources/images/Home/working-image2.png">
+                        <img class="img-thumbnail" src="../../../../FePestsClean/resources/images/Home/working-image3.png">
+                        <img class="img-thumbnail" src="../../../../FePestsClean/resources/images/Home/working-image4.png">
+                    </div>
+                    <div class="home-images-row-container">
+                        <img class="img-thumbnail" src="../../../../FePestsClean/resources/images/Home/working-image5.png">
+                        <img class="img-thumbnail" src="../../../../FePestsClean/resources/images/Home/working-image6.png">
+                        <img class="img-thumbnail" src="../../../../FePestsClean/resources/images/Home/working-image7.png">
+                        <img class="img-thumbnail" src="../../../../FePestsClean/resources/images/Home/working-image8.png">
+                    </div>
+                </div>
+            </div>
+            <div class="tab-pane fade" id="gpmh-tab-pane" role="tabpanel" aria-labelledby="gpmh-tab">
+                <div class="images-container">
+                    <div class="home-images-row-container">
+                        <img class="img-thumbnail" src="../../../../FePestsClean/resources/images/Home/working-image.png">
+                        <img class="img-thumbnail" src="../../../../FePestsClean/resources/images/Home/working-image2.png">
+                        <img class="img-thumbnail" src="../../../../FePestsClean/resources/images/Home/working-image3.png">
+                        <img class="img-thumbnail" src="../../../../FePestsClean/resources/images/Home/working-image4.png">
+                    </div>
+                    <div class="home-images-row-container">
+                        <img class="img-thumbnail" src="../../../../FePestsClean/resources/images/Home/working-image5.png">
+                        <img class="img-thumbnail" src="../../../../FePestsClean/resources/images/Home/working-image6.png">
+                        <img class="img-thumbnail" src="../../../../FePestsClean/resources/images/Home/working-image7.png">
+                        <img class="img-thumbnail" src="../../../../FePestsClean/resources/images/Home/working-image8.png">
+                    </div>
+                </div>
+            </div>
+            <div class="tab-pane fade" id="tccq-tab-pane" role="tabpanel" aria-labelledby="tccq-tab">
+                <div class="images-container">
+                    <div class="home-images-row-container">
+                        <img class="img-thumbnail" src="../../../../FePestsClean/resources/images/Home/working-image.png">
+                        <img class="img-thumbnail" src="../../../../FePestsClean/resources/images/Home/working-image2.png">
+                        <img class="img-thumbnail" src="../../../../FePestsClean/resources/images/Home/working-image3.png">
+                        <img class="img-thumbnail" src="../../../../FePestsClean/resources/images/Home/working-image4.png">
+                    </div>
+                    <div class="home-images-row-container">
+                        <img class="img-thumbnail" src="../../../../FePestsClean/resources/images/Home/working-image5.png">
+                        <img class="img-thumbnail" src="../../../../FePestsClean/resources/images/Home/working-image6.png">
+                        <img class="img-thumbnail" src="../../../../FePestsClean/resources/images/Home/working-image7.png">
+                        <img class="img-thumbnail" src="../../../../FePestsClean/resources/images/Home/working-image8.png">
+                    </div>
+                </div>
             </div>
         </div>
     </div>
@@ -292,9 +368,64 @@
             <h1>Bài viết tham khảo</h1>
             <a href="#">Xem thêm</a>
         </div>
-        <div id="carouselListCard" class="carousel slide" data-bs-ride="carousel">
+        <div id="carouselListCard" class="carousel carousel-dark slide" style="height: 350px" data-bs-ride="carousel">
+            <div class="carousel-indicators">
+                <button type="button" data-bs-target="#carouselListCard" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+                <button type="button" data-bs-target="#carouselListCard" data-bs-slide-to="1" aria-label="Slide 2"></button>
+                <button type="button" data-bs-target="#carouselListCard" data-bs-slide-to="2" aria-label="Slide 3"></button>
+            </div>
             <div class="carousel-inner home-other-blogs">
                 <div class="carousel-item padding-left-right-200 active">
+                    <div class="card-list-container">
+                        <div class="blog-card-item">
+                            <img src="../../../../FePestsClean/resources/images/Home/blog-image.png" alt="...">
+                            <div class="card-item-content">
+                                <h5>Bảng giá vệ sinh công nghiệp PestnClean</h5>
+                                <a href="#">Xem thêm</a>
+                            </div>
+                        </div>
+                        <div class="blog-card-item">
+                            <img src="../../../../FePestsClean/resources/images/Home/blog-image2.png" alt="...">
+                            <div class="card-item-content">
+                                <h5>6 Cách khử mùi hôi nhà vệ sinh mới nhất 2024</h5>
+                                <a href="#">Xem thêm</a>
+                            </div>
+                        </div>
+                        <div class="blog-card-item">
+                            <img src="../../../../FePestsClean/resources/images/Home/blog-image3.png" alt="...">
+                            <div class="card-item-content">
+                                <h5>3 cách tạo mùi thơm cho xe ô tô bạn nên biết</h5>
+                                <a href="#">Xem thêm</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="carousel-item padding-left-right-200">
+                    <div class="card-list-container">
+                        <div class="blog-card-item">
+                            <img src="../../../../FePestsClean/resources/images/Home/blog-image.png" alt="...">
+                            <div class="card-item-content">
+                                <h5>Bảng giá vệ sinh công nghiệp PestnClean</h5>
+                                <a href="#">Xem thêm</a>
+                            </div>
+                        </div>
+                        <div class="blog-card-item">
+                            <img src="../../../../FePestsClean/resources/images/Home/blog-image2.png" alt="...">
+                            <div class="card-item-content">
+                                <h5>6 Cách khử mùi hôi nhà vệ sinh mới nhất 2024</h5>
+                                <a href="#">Xem thêm</a>
+                            </div>
+                        </div>
+                        <div class="blog-card-item">
+                            <img src="../../../../FePestsClean/resources/images/Home/blog-image3.png" alt="...">
+                            <div class="card-item-content">
+                                <h5>3 cách tạo mùi thơm cho xe ô tô bạn nên biết</h5>
+                                <a href="#">Xem thêm</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="carousel-item padding-left-right-200">
                     <div class="card-list-container">
                         <div class="blog-card-item">
                             <img src="../../../../FePestsClean/resources/images/Home/blog-image.png" alt="...">
