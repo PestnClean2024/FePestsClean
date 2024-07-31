@@ -42,7 +42,7 @@
         </p>
       </div>
 
-      <div class="footer-5">
+      <div class="footer-5" style="width: 11rem;">
 
         <a href="#">        
           <p class="footer-text font">Dịch vụ</p>
@@ -89,7 +89,7 @@
       
       </div>
 
-      <div class="footer-5">
+      <div class="footer-5" style="width: 17rem;">
         
         <a href="#">
           <p class="footer-text font">Hỗ trợ khách hàng</p>
@@ -113,7 +113,7 @@
 
       </div>
     
-      <div class="footer-5">
+      <div class="footer-5 ">
 
         <a href="#">
           <p class="footer-text font">Khác</p>
@@ -147,6 +147,7 @@
   <script src="../../../js/jquery.min.js"></script>
   <script src="../../../../assets/bootstrap/js/bootstrap.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.2/dist/umd/popper.min.js"></script>
   <script src="../../js/components/details.js"></script>
 </body>
 </html>

@@ -14,7 +14,9 @@
 
     <script src="/FePestsClean/assets/bootstrap/js/bootstrap.bundle.min.js"></script>
     <script src="../../../../../FePestsClean/resources/js/jquery.min.js"></script>
-
+    <script src="/FePestsClean/resources/js/components/product-information-cart.js"></script>
+    <script src="/FePestsClean/resources/js/components/pop-up.js"></script>
+    
     <link rel="stylesheet" href="/FePestsClean/assets/bootstrap/css/bootstrap.min.css">
     <link rel="stylesheet" href="/FePestsClean/resources/css/reset.css">
     <link rel="stylesheet" href="/FePestsClean/resources/css/styles.css">
@@ -22,6 +24,9 @@
     <link rel="stylesheet" href="/FePestsClean/resources/css/components/footer.css">
     <link rel="stylesheet" href="/FePestsClean/resources/css/components/product.css">
     <link rel="stylesheet" href="/FePestsClean/resources/css/components/product-fillter.css">
+    <link rel="stylesheet" href="/FePestsClean/resources/css/components/product-cart.css">
+    <link rel="stylesheet" href="/FePestsClean/resources/css/components/pop-up.css">
+    <link rel="stylesheet" href="/FePestsClean/resources/css/components/product-information-cart.css">
     <link rel="stylesheet" href="/FePestsClean/resources/css/components/serviceCleaning.css">
     <link rel="stylesheet" href="/FePestsClean/resources/css/components/cleaningSolution.css">
     <link rel="stylesheet" href="/FePestsClean/resources/css/components/authentication.css">
@@ -29,6 +34,13 @@
     <link rel="stylesheet" href="/FePestsClean/resources/css/components/service.css">
     <link rel="stylesheet" href="/FePestsClean/resources/css/components/user.css">
     <link rel="stylesheet" href="/FePestsClean/resources/css/components/blog.css">
+    <link rel="stylesheet" href="/FePestsClean/resources/css/components/landscapeDesign.css">
+    <link rel="stylesheet" href="/FePestsClean/resources/css/components/abouts.css">
+    <link rel="stylesheet" href="/FePestsClean/resources/css/components/contact.css">
+    <link rel="stylesheet" href="/FePestsClean/resources/css/components/blogDetail.css">
+    <link rel="stylesheet" href="/FePestsClean/resources/css/components/serviceBugControl.css">
+    <link rel="stylesheet" href="/FePestsClean/resources/css/components/details.css">
+    <link rel="stylesheet" href="/FePestsClean/resources/css/components/detail.css">
 </head>
 
 <body>
@@ -58,10 +70,10 @@
                         Dịch vụ
                     </a>
                     <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-                        <li><a class="dropdown-item" href="#">Kiểm soát côn trùng</a></li>
+                        <li><a class="dropdown-item" href="serviceBugControl.php">Kiểm soát côn trùng</a></li>
                         <li><a class="dropdown-item" href="serviceCleaning.php">Dịch vụ vệ sinh</a></li>
                         <li><a class="dropdown-item" href="cleaningSolution.php">Giải pháp vệ sinh</a></li>
-                        <li><a class="dropdown-item" href="#">Thi công cảnh quan</a></li>
+                        <li><a class="dropdown-item" href="landscapeDesign.php">Thi công cảnh quan</a></li>
                     </ul>
                 </li>
                 <li class="nav-item">

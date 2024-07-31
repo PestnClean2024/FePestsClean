@@ -5,7 +5,7 @@
         <div class="aside col-xl-3">
             <div class="aside-main">
                 <div>
-                    <h5 style="color:#005ca9 ;" class="fw-bold py-3"><i class="fa-solid fa-user pe-2"></i> Tài
+                    <h5 style="color:#005ca9; font-size : 24px" class="fw-bold py-4 m-0"><i class="fa-solid fa-user pe-2"></i> Tài
                         khoản của tôi</h5>
                 </div>
                 <div>
@@ -17,7 +17,7 @@
                 </div>
             </div>
             <hr>
-            <div class="aside-sub">
+            <div class="aside-sub mt-4">
                 <div>
                     <div class="icon"><i class="fa-solid fa-clipboard-list"></i></div>
                     <h7><a href="">Đơn mua</a></h7>

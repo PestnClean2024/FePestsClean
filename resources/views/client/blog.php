@@ -182,4 +182,5 @@
 </section>
 
 <?php include 'banner-carousel.php' ?>
+<?php include 'layouts/notify-news.php' ?>
 <?php include 'layouts/footer.php' ?>

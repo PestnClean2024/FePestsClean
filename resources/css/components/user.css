@@ -4,6 +4,7 @@
   .wrapper {
       margin: auto;
       padding: 0px 80px;
+      box-sizing: border-box;
   }
   .form-check-input:checked {
     background-color: #005ca9;
@@ -30,7 +31,7 @@
     color: #6c757d;
   }
   .user label {
-    font-size: 16px;
+    font-size: 18px;
   }
   .form-switch .form-check-input {
     height: 1.3rem !important;
@@ -65,6 +66,7 @@
     color: #9fa6ac;
     display: grid;
     grid-template-columns: 35px auto;
+    gap: 10px
   }
   .user .aside > .aside-sub > div > .icon {
     font-size: 20px;
@@ -78,7 +80,9 @@
   }
   /* -----------------------------------------------User_Article------------------------------------ */
   /* ----------------------Article-info--------------------------- */
-  
+  .user .article-info .article-info-title {
+    margin-bottom: 18px;
+  }
   .user .article-info .form {
     display: grid;
     grid-auto-rows: minmax(50px, auto);
@@ -86,13 +90,25 @@
   .user .article-info .form > div {
     display: grid;
     grid-template-columns: 1fr 4fr 1fr;
-    margin-bottom: 20px;
+    margin-bottom: 8px;
     font-size: 13px;
     align-items: center;
     font-weight: bold;
   }
+  .user .article-info .form > div > div {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 737px;
+  }
+  .user .article-info .form .gender {
+    justify-content: unset;
+    gap:16px
+  }
   .user .article-info .form > div > label {
     display: flex;
+    width: 200px;
+    height: 25px;
   }
   .user .article-info .form > div > input.form-control {
     grid-column: 2/4;
@@ -101,6 +117,9 @@
     font-style: normal;
     font-weight: 400;
     line-height: 155%;
+    padding: 0px 12px;
+    height: 37px;
+    width: 737px;
   }
   .user .article-info .form > div > a {
     color: #005ca9;
@@ -115,6 +134,12 @@
     display: grid;
     grid-template-columns: 2fr 1fr;
   } */
+   .user .article {
+    padding-left: 40px;
+   }
+   .user .article-address {
+    margin-top: 40px;
+   }
   .user .article-address .content > .item > div {
     display: flex;
     justify-content: space-between;
@@ -143,6 +168,7 @@
     border: 1px solid #005ca9;
     color: #005ca9;
     border-radius: 18px;
+    margin-bottom: 16px;
   }
   /* ----------------------Article-notify--------------------------- */
   .user .article-notify .content > div {
