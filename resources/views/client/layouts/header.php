@@ -9,11 +9,12 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick-theme.css">
+    <link rel="stylesheet" href="/FePestsClean/assets/fontawesome/css/all.min.css">
     
-    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.7/dist/umd/popper.min.js"></script>
-
     <script src="/FePestsClean/assets/bootstrap/js/bootstrap.bundle.min.js"></script>
-    <script src="../../../../../FePestsClean/resources/js/jquery.min.js"></script>
+    <script src="/FePestsClean/resources/js/jquery.min.js"></script>
+    <script src="/FePestsClean/assets/bootstrap/js/bootstrap.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.2/dist/umd/popper.min.js"></script>
 
     <link rel="stylesheet" href="/FePestsClean/assets/bootstrap/css/bootstrap.min.css">
     <link rel="stylesheet" href="/FePestsClean/resources/css/reset.css">
@@ -36,6 +37,7 @@
     <link rel="stylesheet" href="/FePestsClean/resources/css/components/serviceBugControl.css">
     <link rel="stylesheet" href="/FePestsClean/resources/css/components/details.css">
     <link rel="stylesheet" href="/FePestsClean/resources/css/components/detail.css">
+    <link rel="stylesheet" href="/FePestsClean/resources/css/components/faq.css">
 </head>
 
 <body>

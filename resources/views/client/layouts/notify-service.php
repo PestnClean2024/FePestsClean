@@ -38,7 +38,7 @@
             <div class="div-top">
               <label for="" class="label-input">Dịch Vụ</label>
               <div  class="div-top">
-                <select id="cars" name="cars" class="text-select ">
+                <select id="cars" name="cars" class="text-select">
                         <option value="volvo">Please Select</option>
                         <option value="saab">Saab</option>
                         <option value="mercedes">Mercedes</option>

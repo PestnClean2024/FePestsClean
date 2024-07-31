@@ -4,7 +4,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    width: 1512px;
+    width: 100%;
     height: 399.982px;
     flex-direction: column;
     background-color: var(--Green-500);
