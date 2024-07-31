@@ -32,6 +32,7 @@
     <link rel="stylesheet" href="/FePestsClean/resources/css/components/blog.css">
     <link rel="stylesheet" href="/FePestsClean/resources/css/components/blogDetail.css">
     <link rel="stylesheet" href="/FePestsClean/resources/css/components/serviceBugControl.css">
+    <link rel="stylesheet" href="/FePestsClean/resources/css/components/policy.css">
 </head>
 
 <body>
@@ -48,13 +49,13 @@
             </button>
             <div class="collapse navbar-collapse justify-content-center" id="navbarNavDropdown">
                 <ul class="navbar-nav">
-                    <li class="nav-item">
+                    <li class="nav-item nav-item-header">
                         <a class="nav-link active" aria-current="page" href="#">Trang chủ</a>
                     </li>
-                    <li class="nav-item">
+                    <li class="nav-item nav-item-header">
                         <a class="nav-link" href="#">Về chúng tôi</a>
                     </li>
-                    <li class="nav-item dropdown">
+                    <li class="nav-item dropdown nav-item-header">
                         <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button"
                             data-bs-toggle="dropdown" aria-expanded="false">
                             Dịch vụ
@@ -65,13 +66,13 @@
                             <li><a class="dropdown-item" href="#">Something else here</a></li>
                         </ul>
                     </li>
-                    <li class="nav-item">
+                    <li class="nav-item nav-item-header">
                         <a class="nav-link" href="#">Sản phẩm</a>
                     </li>
-                    <li class="nav-item">
+                    <li class="nav-item nav-item-header">
                         <a class="nav-link" href="#">Blog</a>
                     </li>
-                    <li class="nav-item">
+                    <li class="nav-item nav-item-header">
                         <a class="nav-link" href="#">Liên hệ</a>
                     </li>
                 </ul>
