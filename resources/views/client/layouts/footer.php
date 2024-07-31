@@ -61,7 +61,8 @@
       <a href="#">Terms & Conditions</a>
     </div>
   </footer>
-  <?php include 'layouts/modal.php' ?>
+  <!-- <?php include 'layouts/modal.php' ?> -->
+  <?php include '/xampp/htdocs/FePestsClean/resources/views/client/layouts/modal.php' ?>
   <script src="../../../../../FePestsClean/resources/js/jquery.min.js"></script>
   <script src="../../../../../FePestsClean/assets/bootstrap/js/bootstrap.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>

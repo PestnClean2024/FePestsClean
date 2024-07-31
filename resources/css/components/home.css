@@ -379,6 +379,7 @@
     font-weight: 600;
     line-height: 150%;
     /* 48px */
+    text-transform: uppercase;
 }
 
 .reasons-container .reasons-image-and-text-container .image-and-text-group p {
