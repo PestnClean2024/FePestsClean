@@ -61,7 +61,6 @@
 .service-bug-control-text-and-video-container .row .col .video-container .video-player {
     width: 100%;
     height: 340px;
-    background-color: red;
 }
 
 .service-bug-control-charts-container {
@@ -234,4 +233,95 @@
     font-style: normal;
     font-weight: 600;
     line-height: 150%;
+}
+
+.service-bug-control-species-card-list-container {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+.service-bug-control-species-card-item {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    border-radius: var(--Number, 16px);
+    border: 1px solid var(--Color-6, rgba(36, 36, 36, 0.85));
+    padding: 0;
+    margin-right: 20px;
+    position: relative;
+}
+
+.service-bug-control-species-card-item .card-item-top-content {
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
+.service-bug-control-species-card-item .card-item-top-content .card-item-img {
+    width: 58px;
+    height: 58px;
+}
+
+.service-bug-control-species-card-item .card-item-top-content .card-item-title {
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 1;
+    line-clamp: 1;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    align-self: stretch;
+    color: var(--Neutral-950, #0C0D0E);
+    text-align: center;
+
+    /* Title/Title Medium */
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 150%;
+    /* 36px */
+}
+
+.service-bug-control-species-card-item .card-item-more-button {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    align-self: stretch;
+    padding: 20px;
+    border-radius: 0px 0px var(--Number, 16px) var(--Number, 16px);
+    border: var(--Number-3, 1px) solid var(--Color-8, rgba(36, 36, 36, 0.25));
+    background-color: #FFF;
+}
+
+.service-bug-control-species-card-item .card-item-more-button:hover {
+    border-radius: 0px 0px var(--Number, 16px) var(--Number, 16px);
+    border: var(--Number-3, 1px) solid var(--Color-6, rgba(36, 36, 36, 0.85));
+    background: var(--Color-8, rgba(36, 36, 36, 0.25));
+}
+
+.service-bug-control-species-card-item .card-item-more-button .button-text {
+    margin: 0;
+    color: var(--Blue-950, #020D17);
+
+    /* Title/Title Medium */
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 150%;
+    /* 36px */
+}
+
+.service-bug-control-species-card-item .card-item-more-button .button-img {
+    width: 15px;
+    height: 15px;
 }

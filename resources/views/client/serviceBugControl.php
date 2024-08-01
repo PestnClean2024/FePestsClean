@@ -140,7 +140,107 @@
         <p class="service-bug-control-species-supporting-text">
             Nhằm đảm bảo phục vụ được tất cả các nhu cầu đa dạng của khách hàng thì <span class="service-bug-control-species-supporting-text-hightlight">các dịch vụ kiểm soát côn trùng của PestnClean</span> cũng được phân chia rất cụ thể, tương ứng với từng trường hợp, từng ngành hàng để tăng hiệu suất cũng như hiệu quả khi tiến hành cung cấp dịch vụ đến khách hàng.
         </p>
+        <div class="service-bug-control-species-card-list-container">
+            <div class="row mt-5">
+                <div class="col service-bug-control-species-card-item">
+                    <div class="card-item-top-content">
+                        <img class="card-item-img" src="../../../../FePestsClean/resources/images/serviceBugControl/card-icon.svg">
+                        <p class="card-item-title">KIỂM SOÁT CÔN TRÙNG TÍCH HỢP</p>
+                    </div>
+                    <button class="card-item-more-button">
+                        <p class="button-text">Xem thêm</p>
+                        <img class="button-img" src="../../../../FePestsClean/resources/images/serviceBugControl/arrow-right.svg">
+                    </button>
+                </div>
+                <div class="col service-bug-control-species-card-item">
+                    <div class="card-item-top-content">
+                        <img class="card-item-img" src="../../../../FePestsClean/resources/images/serviceBugControl/card-icon2.svg">
+                        <p class="card-item-title">KIỂM SOÁT MỐI</p>
+                    </div>
+                    <button class="card-item-more-button">
+                        <p class="button-text">Xem thêm</p>
+                        <img class="button-img" src="../../../../FePestsClean/resources/images/serviceBugControl/arrow-right.svg">
+                    </button>
+                </div>
+                <div class="col service-bug-control-species-card-item">
+                    <div class="card-item-top-content">
+                        <img class="card-item-img" src="../../../../FePestsClean/resources/images/serviceBugControl/card-icon3.svg">
+                        <p class="card-item-title">KIỂM SOÁT CHUỘT</p>
+                    </div>
+                    <button class="card-item-more-button">
+                        <p class="button-text">Xem thêm</p>
+                        <img class="button-img" src="../../../../FePestsClean/resources/images/serviceBugControl/arrow-right.svg">
+                    </button>
+                </div>
+            </div>
+            <div class="row mt-4">
+                <div class="col service-bug-control-species-card-item">
+                    <div class="card-item-top-content">
+                        <img class="card-item-img" src="../../../../FePestsClean/resources/images/serviceBugControl/card-icon4.svg">
+                        <p class="card-item-title">KIỂM SOÁT RUỒI</p>
+                    </div>
+                    <button class="card-item-more-button">
+                        <p class="button-text">Xem thêm</p>
+                        <img class="button-img" src="../../../../FePestsClean/resources/images/serviceBugControl/arrow-right.svg">
+                    </button>
+                </div>
+                <div class="col service-bug-control-species-card-item">
+                    <div class="card-item-top-content">
+                        <img class="card-item-img" src="../../../../FePestsClean/resources/images/serviceBugControl/card-icon5.svg">
+                        <p class="card-item-title">KIỂM SOÁT MUỖI</p>
+                    </div>
+                    <button class="card-item-more-button">
+                        <p class="button-text">Xem thêm</p>
+                        <img class="button-img" src="../../../../FePestsClean/resources/images/serviceBugControl/arrow-right.svg">
+                    </button>
+                </div>
+                <div class="col service-bug-control-species-card-item">
+                    <div class="card-item-top-content">
+                        <img class="card-item-img" src="../../../../FePestsClean/resources/images/serviceBugControl/card-icon6.svg">
+                        <p class="card-item-title">KIỂM SOÁT KIẾN</p>
+                    </div>
+                    <button class="card-item-more-button">
+                        <p class="button-text">Xem thêm</p>
+                        <img class="button-img" src="../../../../FePestsClean/resources/images/serviceBugControl/arrow-right.svg">
+                    </button>
+                </div>
+            </div>
+            <div class="row mt-4">
+                <div class="col service-bug-control-species-card-item">
+                    <div class="card-item-top-content">
+                        <img class="card-item-img" src="../../../../FePestsClean/resources/images/serviceBugControl/card-icon7.svg">
+                        <p class="card-item-title">KIỂM SOÁT GIÁN</p>
+                    </div>
+                    <button class="card-item-more-button">
+                        <p class="button-text">Xem thêm</p>
+                        <img class="button-img" src="../../../../FePestsClean/resources/images/serviceBugControl/arrow-right.svg">
+                    </button>
+                </div>
+                <div class="col service-bug-control-species-card-item">
+                    <div class="card-item-top-content">
+                        <img class="card-item-img" src="../../../../FePestsClean/resources/images/serviceBugControl/card-icon8.svg">
+                        <p class="card-item-title">DỊCH VỤ KHỬ KHUẨN</p>
+                    </div>
+                    <button class="card-item-more-button">
+                        <p class="button-text">Xem thêm</p>
+                        <img class="button-img" src="../../../../FePestsClean/resources/images/serviceBugControl/arrow-right.svg">
+                    </button>
+                </div>
+                <div class="col service-bug-control-species-card-item">
+                    <div class="card-item-top-content">
+                        <img class="card-item-img" src="../../../../FePestsClean/resources/images/serviceBugControl/card-icon9.svg">
+                        <p class="card-item-title">DỊCH VỤ ĐÀO TẠO NHẬN THỨC</p>
+                    </div>
+                    <button class="card-item-more-button">
+                        <p class="button-text">Xem thêm</p>
+                        <img class="button-img" src="../../../../FePestsClean/resources/images/serviceBugControl/arrow-right.svg">
+                    </button>
+                </div>
+            </div>
+        </div>
     </div>
 </section>
+
+<?php include '/xampp/htdocs/FePestsClean/resources/views/client/banner-carousel.php' ?>
 
 <?php include 'layouts/footer.php' ?>

@@ -17,6 +17,11 @@
     gap: 5px;
 }
 
+/* Fix NavBar Header bị trùng CSS */
+.nav-item-header {
+    width: auto !important;
+}
+
 .navbar-nav .nav-item a {
     color: var(--Neutral-500, #868E96);
 
