@@ -12,11 +12,13 @@
     width: 306px;
     height: 36px;
     justify-content: space-between;
+    margin-top: 0.5rem;
 }
 .div-flex-no{
     display: flex;
     width: 282px;
     height: 27px;
+    margin-top: 0.5rem;
 }
 .div-flex-filter{
     display: flex;
@@ -41,6 +43,7 @@
 .hr-filter{
     width: 306px;
     border: 1px solid black;
+    margin-top: 1rem;
 }
 .div-filter-all{
     width: 306px;
@@ -112,7 +115,7 @@
     gap: 8px;
 }
 .filter-top-3{
-    margin-top: 3.5rem;
+    margin-top: 4rem;
 }
 .hr-filter-top{
     margin-top: 0rem;
@@ -170,6 +173,7 @@
 .div-flex-fiter{
     display: flex;
     gap: 8px;
+    margin-top: 0.5rem;
 }
 .filter-color-p{
     color: #C8CCD0;

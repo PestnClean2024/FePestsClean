@@ -61,6 +61,7 @@
 .service-bug-control-text-and-video-container .row .col .video-container .video-player {
     width: 100%;
     height: 340px;
+    background-color: var(--Blue-500);
 }
 
 .service-bug-control-charts-container {

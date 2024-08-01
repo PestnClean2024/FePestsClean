@@ -15,7 +15,9 @@
     <script src="/FePestsClean/resources/js/jquery.min.js"></script>
     <script src="/FePestsClean/assets/bootstrap/js/bootstrap.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.2/dist/umd/popper.min.js"></script>
-
+    <script src="/FePestsClean/resources/js/components/product-information-cart.js"></script>
+    <script src="/FePestsClean/resources/js/components/pop-up.js"></script>
+    
     <link rel="stylesheet" href="/FePestsClean/assets/bootstrap/css/bootstrap.min.css">
     <link rel="stylesheet" href="/FePestsClean/resources/css/reset.css">
     <link rel="stylesheet" href="/FePestsClean/resources/css/styles.css">
@@ -23,6 +25,9 @@
     <link rel="stylesheet" href="/FePestsClean/resources/css/components/footer.css">
     <link rel="stylesheet" href="/FePestsClean/resources/css/components/product.css">
     <link rel="stylesheet" href="/FePestsClean/resources/css/components/product-fillter.css">
+    <link rel="stylesheet" href="/FePestsClean/resources/css/components/product-cart.css">
+    <link rel="stylesheet" href="/FePestsClean/resources/css/components/pop-up.css">
+    <link rel="stylesheet" href="/FePestsClean/resources/css/components/product-information-cart.css">
     <link rel="stylesheet" href="/FePestsClean/resources/css/components/serviceCleaning.css">
     <link rel="stylesheet" href="/FePestsClean/resources/css/components/cleaningSolution.css">
     <link rel="stylesheet" href="/FePestsClean/resources/css/components/authentication.css">
@@ -75,7 +80,7 @@
                     </ul>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="product.php">Sản phẩm</a>
+                    <a class="nav-link" href="/FePestsClean/resources/views/client/product.php">Sản phẩm</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="blog.php">Blog</a>

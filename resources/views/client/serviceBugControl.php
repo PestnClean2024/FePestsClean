@@ -241,6 +241,5 @@
     </div>
 </section>
 
-<?php include '/xampp/htdocs/FePestsClean/resources/views/client/banner-carousel.php' ?>
-
+<?php include 'banner-carousel.php' ?>
 <?php include 'layouts/footer.php' ?>
