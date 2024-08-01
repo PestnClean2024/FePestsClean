@@ -1,5 +1,4 @@
-<?php include 'layouts/header.php' ?>
-<?php include 'FePestsClean/resources/views/client/product-information-cart.php' ?>
+<?php include 'product-information-cart.php' ?>
 <section>
     <div id="overlay" class="-pupop-overlay">
         <div class="-pupop-content">

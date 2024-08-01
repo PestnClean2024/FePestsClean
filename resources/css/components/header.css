@@ -31,7 +31,7 @@
     font-weight: 600;
     line-height: 150%;
     margin: 0px 10px;
-    /* 27px */
+    width: max-content;
 }
 
 .navbar-nav .nav-link.active {
