@@ -44,23 +44,23 @@
 
       <div class="footer-5">
 
-        <a href="#">        
+        <a href="service.php">        
           <p class="footer-text font">Dịch vụ</p>
         </a>
 
-        <a href="#">
+        <a href="serviceBugControl.php">
           <p class="footer-p">Kiểm soát côn trùng</p>
         </a>
         
-        <a href="#">
+        <a href="serviceCleaning.php">
           <p class="footer-p">Dịch vụ vệ sinh</p>
         </a>
 
-        <a href="#">
+        <a href="cleaningSolution.php">
           <p class="footer-p">Giải pháp vệ sinh</p>
         </a>
 
-        <a href="#">
+        <a href="landscapeDesign.php">
           <p class="footer-p">Thi công cảnh quan</p>
         </a>
       </div>
@@ -71,15 +71,15 @@
           <p class="footer-text font">Danh mục</p>
         </a>
 
-        <a href="#">
+        <a href="product.php">
           <p class="footer-p">Sản phẩm</p>
         </a>
 
-        <a href="#">
+        <a href="index.php">
           <p class="footer-p">Trang chủ</p>
         </a>
 
-        <a href="#">
+        <a href="abouts.php">
           <p class="footer-p">Về chúng tôi</p>
         </a>
 
@@ -95,19 +95,19 @@
           <p class="footer-text font">Hỗ trợ khách hàng</p>
         </a>
 
-        <a href="#">
+        <a href="policy.php">
           <p class="footer-p">Chính Sách Bảo Mật Thông Tin</p>
         </a>
 
-        <a href="#">
+        <a href="policy.php">
           <p class="footer-p">Chính Sách Bảo Hành - Đổi trả</p>
         </a>
 
-        <a href="#">
+        <a href="policy.php">
         <p class="footer-p">Chính sách giao nhận hàng hoá</p>
         </a>
 
-        <a href="#">
+        <a href="policy.php">
           <p class="footer-p">Chính sách thanh toán</p>
         </a>
 
@@ -119,11 +119,11 @@
           <p class="footer-text font">Khác</p>
         </a>
         
-        <a href="#">
+        <a href="faq.php">
           <p class="footer-p">Hỏi đáp</p>
         </a>
 
-        <a href="#">
+        <a href="contact.php">
           <p class="footer-p">Liên hệ</p>
         </a>
 

@@ -36,7 +36,7 @@
         </button>
         <div class="d-flex justify-content-center mb-0">
           <p class="already">Bạn đã có tài khoản?</p>
-          <a href="#" class="ms-2">Đăng nhập ngay</a>
+          <a href="#" class="ms-2 text-primary">Đăng nhập ngay</a>
         </div>
       </div>
     </div>
@@ -73,7 +73,7 @@
         </button>
         <div class="d-flex justify-content-center mb-0">
           <p class="already">Bạn chưa có tài khoản?</p>
-          <a href="#" class="ms-2">Tạo tài khoản</a>
+          <a href="#" class="ms-2 text-primary">Tạo tài khoản</a>
         </div>
       </div>
     </div>

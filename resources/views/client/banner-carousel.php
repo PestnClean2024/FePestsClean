@@ -9,7 +9,7 @@
             </div>
         </div>
         <button class="carousel-control-prev" type="button" data-bs-target="#bannerCarousel" data-bs-slide="prev">
-            <img src="../../../../FePestsClean/resources/images/serviceCleaning/arrow-left.svg" class="img-fluid">
+            <img src="../../images/serviceCleaning/carousel-arrow-left.svg" class="img-fluid">
             <span class="visually-hidden">Previous</span>
         </button>
         <button class="carousel-control-next" type="button" data-bs-target="#bannerCarousel" data-bs-slide="next">
