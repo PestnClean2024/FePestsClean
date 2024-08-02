@@ -1,9 +1,11 @@
 <?php include 'layouts/header.php' ?>
 
-<section class="container-fluid p-0">
-    <div class="blog-header-content">
-        <h1>dịch vụ kiểm soát côn trùng</h1>
-        <p>Khám phá ngay</p>
+<section class="service-bug-control-header">
+    <div class="headline">
+        <h1>Dịch vụ kiểm soát côn trùng</h1>
+        <a href="#">
+            <h4>Khám phá ngay</h4>
+        </a>
     </div>
 </section>
 

@@ -1,9 +1,11 @@
 <?php include 'layouts/header.php' ?>
 
-<section class="container-fluid p-0">
-    <div class="service-title-container">
+<section class="our-service-header">
+    <div class="headline">
         <h1>Dịch vụ của chúng tôi</h1>
-        <h4>Khám phá ngay</h4>
+        <a href="#">
+            <h4>Khám phá ngay</h4>
+        </a>
     </div>
 </section>
 

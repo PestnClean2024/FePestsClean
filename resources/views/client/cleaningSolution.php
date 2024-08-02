@@ -2,8 +2,10 @@
 
 <section class="cleaning-solution-header">
     <div class="headline">
-        <h1 class="title">GIẢI PHÁP VỆ SINH</h1>
-        <a href="#" class="btn-header">Khám phá ngay</a>
+        <h1>Giải pháp vệ sinh</h1>
+        <a href="#">
+            <h4>Khám phá ngay</h4>
+        </a>
     </div>
 </section>
 

@@ -21,12 +21,6 @@
   --radius: 0.5rem;
 }
 
-body {
-  background-color: var(--background);
-  color: var(--foreground);
-  font-family: Arial, sans-serif;
-}
-
 .-pupop-overlay {
   position: fixed;
   top: 0;
