@@ -176,12 +176,24 @@
     padding: 20px;
     background-size: cover;
     opacity: 2;
+    transition: transform 0.3s ease;
 }
+
+.service-bug-control-category-container .category-card-list-container .row .col .category-card:hover {
+    transform: scale(1.05);
+    cursor: pointer;
+}
+
+.service-bug-control-category-container .category-card-list-container .row .col .category-card .green-line {
+    position: absolute;
+    bottom: 47%;
+}
+
 
 .service-bug-control-category-container .category-card-list-container .row .col .category-card h4 {
     padding: 20px;
     position: absolute;
-    top: 100px;
+    top: 90px;
     left: 0;
     display: -webkit-box;
     -webkit-box-orient: vertical;
@@ -201,16 +213,16 @@
     z-index: 5;
 }
 
-.service-bug-control-category-container .category-card-list-container .row .col .category-card .p-container-with-green-top-border {
+.service-bug-control-category-container .category-card-list-container .row .col .category-card .p-container {
     position: absolute;
     bottom: 0;
-    border-top: 2px solid #21A612;
     align-self: center;
-    padding-left: 20px;
-    padding-right: 20px;
+    padding-top: 16px;
+    border-top: 4px solid var(--Green-500);
+    width: calc(100% - 40px);
 }
 
-.service-bug-control-category-container .category-card-list-container .row .col .category-card .p-container-with-green-top-border p {
+.service-bug-control-category-container .category-card-list-container .row .col .category-card .p-container p {
     display: -webkit-box;
     -webkit-box-orient: vertical;
     -webkit-line-clamp: 2;

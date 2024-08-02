@@ -251,6 +251,7 @@
 
 .cleaning-solution-special .content .row .card-item:hover {
     transform: scale(1.05);
+    cursor: pointer;
 }
 
 .cleaning-solution-special .content .row:nth-child(1) .card-item:nth-child(1) {
