@@ -63,45 +63,6 @@
                 PestnClean - Nâng tầm không gian sống của bạn! Chúng tôi cung cấp đa dạng dịch vụ chuyên nghiệp để tạo ra môi trường sạch sẽ và thoải mái. Hãy đặt niềm tin vào chúng tôi để tận hưởng chất lượng sống và làm việc tốt nhất mỗi ngày!
             </p>
         </div>
-        <!-- <div class="row-container">
-            <div class=" +lector">
-                 <ul class="list-group w-100">
-                    <li class="list-group-item d-flex align-items-center p-3 active" aria-current="true">
-                        <img class="solution-tab-icon" src="../../../../FePestsClean/resources/images/Home/spider-icon.svg">
-                        KIỂM SOÁT CÔN TRÙNG
-                    </li>
-                </ul>
-            </div>
-            <div class="section-images">
-                <div class="text-container-with-bg-image">
-                    <div class="text-container">
-                        <h5>
-                            KIỂM SOÁT CÔN TRÙNG
-                        </h5>
-                        <p>
-                            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-                            incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
-                            exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure
-                            dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-                            Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt
-                            mollit anim id est laborum.
-                        </p>
-                        <a href="#">Xem thêm</a>
-                    </div>
-                </div>
-                <div class="text-container-with-bg-image-blur">
-                    <div class="text-container">
-                        <h5>
-                            KIỂM SOÁT MỐI
-                        </h5>
-                        <p>
-                            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-                        </p>
-                        <a href="#">Xem thêm</a>
-                    </div>
-                </div>
-            </div>
-        </div> -->
         <div class="d-flex align-items-start w-100">
             <div class="nav flex-column nav-pills me-3 w-25 gap-3" id="v-pills-tab" role="tablist" aria-orientation="vertical">
                 <button class="nav-link home-solution-nav-link active" id="v-pills-ksct-tab" data-bs-toggle="pill" data-bs-target="#v-pills-ksct" type="button" role="tab" aria-controls="v-pills-ksct" aria-selected="true">
@@ -170,7 +131,7 @@
                     </div>
                 </div>
                 <div class="tab-pane fade-custom" id="v-pills-vscn" role="tabpanel" aria-labelledby="v-pills-vscn-tab">
-                    <div class="text-container-with-bg-image" style="background-image: url('../../../../FePestsClean/resources/images/Home/section-image2.png');">
+                    <div class="text-container-with-bg-image" style="background-image: url('../../../../FePestsClean/resources/images/Home/section-image3.png');">
                         <div class="text-container">
                             <h5>
                                 VỆ SINH CÔNG NGHIỆP
@@ -182,11 +143,71 @@
                         </div>
                     </div>
                 </div>
-                <div class="tab-pane fade-custom" id="v-pills-vsno" role="tabpanel" aria-labelledby="v-pills-vsno-tab">VSNO</div>
-                <div class="tab-pane fade-custom" id="v-pills-gpvs" role="tabpanel" aria-labelledby="v-pills-vsno-tab">gpvs</div>
-                <div class="tab-pane fade-custom" id="v-pills-gpmh" role="tabpanel" aria-labelledby="v-pills-gpmh-tab">gpmh</div>
-                <div class="tab-pane fade-custom" id="v-pills-tccq" role="tabpanel" aria-labelledby="v-pills-vsno-tab">tccq</div>
-                <div class="tab-pane fade-custom" id="v-pills-tccc" role="tabpanel" aria-labelledby="v-pills-tccc-tab">tccc</div>
+                <div class="tab-pane fade-custom" id="v-pills-vsno" role="tabpanel" aria-labelledby="v-pills-vsno-tab">
+                    <div class="text-container-with-bg-image" style="background-image: url('../../../../FePestsClean/resources/images/Home/section-image4.png');">
+                        <div class="text-container">
+                            <h5>
+                                VỆ SINH NHÀ Ở
+                            </h5>
+                            <p>
+                                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+                            </p>
+                            <a href="#">Xem thêm</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="tab-pane fade-custom" id="v-pills-gpvs" role="tabpanel" aria-labelledby="v-pills-vsno-tab">
+                    <div class="text-container-with-bg-image" style="background-image: url('../../../../FePestsClean/resources/images/Home/section-image5.png');">
+                        <div class="text-container">
+                            <h5>
+                                VỆ SINH NHÀ Ở
+                            </h5>
+                            <p>
+                                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+                            </p>
+                            <a href="#">Xem thêm</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="tab-pane fade-custom" id="v-pills-gpmh" role="tabpanel" aria-labelledby="v-pills-gpmh-tab">
+                    <div class="text-container-with-bg-image" style="background-image: url('../../../../FePestsClean/resources/images/Home/section-image6.png');">
+                        <div class="text-container">
+                            <h5>
+                                VỆ SINH NHÀ Ở
+                            </h5>
+                            <p>
+                                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+                            </p>
+                            <a href="#">Xem thêm</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="tab-pane fade-custom" id="v-pills-tccq" role="tabpanel" aria-labelledby="v-pills-vsno-tab">
+                    <div class="text-container-with-bg-image" style="background-image: url('../../../../FePestsClean/resources/images/Home/section-image7.png');">
+                        <div class="text-container">
+                            <h5>
+                                VỆ SINH NHÀ Ở
+                            </h5>
+                            <p>
+                                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+                            </p>
+                            <a href="#">Xem thêm</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="tab-pane fade-custom" id="v-pills-tccc" role="tabpanel" aria-labelledby="v-pills-tccc-tab">
+                    <div class="text-container-with-bg-image" style="background-image: url('../../../../FePestsClean/resources/images/Home/section-image8.png');">
+                        <div class="text-container">
+                            <h5>
+                                VỆ SINH NHÀ Ở
+                            </h5>
+                            <p>
+                                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+                            </p>
+                            <a href="#">Xem thêm</a>
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
     </div>

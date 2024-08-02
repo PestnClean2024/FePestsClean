@@ -148,20 +148,27 @@
 }
 
 .text-container-with-bg-image {
-    width: 70%;
-    height: 550px;
+    width: 100%;
+    height: 700px;
     background-size: cover;
     position: relative;
     border-radius: 20px;
 }
 
 .fade-custom {
-    animation: moving .5s ease;
+    animation: moving 2s ease;
 }
 
 @keyframes moving {
-    from { transform: translateX(50px); opacity: 0;}
-    to { transform: translateX(0px); opacity: 1;}
+    from {
+        transform: translateX(1000px);
+        opacity: 0;
+    }
+
+    to {
+        transform: translateX(0px);
+        opacity: 1;
+    }
 }
 
 .text-container-with-bg-image-blur {
