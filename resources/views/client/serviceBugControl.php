@@ -1,9 +1,11 @@
 <?php include 'layouts/header.php' ?>
 
-<section class="container-fluid p-0">
-    <div class="blog-header-content">
-        <h1>dịch vụ kiểm soát côn trùng</h1>
-        <p>Khám phá ngay</p>
+<section class="service-bug-control-header">
+    <div class="headline">
+        <h1>Dịch vụ kiểm soát côn trùng</h1>
+        <a href="#">
+            <h4>Khám phá ngay</h4>
+        </a>
     </div>
 </section>
 
@@ -63,7 +65,7 @@
                     rgba(0, 0, 0, 0.5)),
                     url(`../../../../../../FePestsClean/resources/images/serviceBugControl/category-image.png);">
                         <h4>01</h4>
-                        <div class="p-container-with-green-top-border">
+                        <div class="p-container">
                             <p>NHÀ HÀNG CHUỖI BÁN LẺ</p>
                         </div>
                     </div>
@@ -74,9 +76,9 @@
                     rgba(0, 0, 0, 0.5)),
                     url(`../../../../../../FePestsClean/resources/images/serviceBugControl/category-image2.png);">
                         <h4>02</h4>
-                        <div class="p-container-with-green-top-border">
+                        <div class="p-container">
                             <p>
-                                VĂN PHÒNG, TOÀ NHÀ
+                                VĂN PHÒNG, <br>TOÀ NHÀ
                             </p>
                         </div>
                     </div>
@@ -87,7 +89,7 @@
                     rgba(0, 0, 0, 0.5)),
                     url(`../../../../../../FePestsClean/resources/images/serviceBugControl/category-image3.png);">
                         <h4>03</h4>
-                        <div class="p-container-with-green-top-border">
+                        <div class="p-container">
                             <p>KHÁCH SẠN & RESORTS</p>
                         </div>
                     </div>
@@ -100,7 +102,7 @@
                     rgba(0, 0, 0, 0.5)),
                     url(`../../../../../../FePestsClean/resources/images/serviceBugControl/category-image4.png);">
                         <h4>04</h4>
-                        <div class="p-container-with-green-top-border">
+                        <div class="p-container">
                             <p>CƠ SỞ CHẾ BIẾN THỰC PHẨM</p>
                         </div>
                     </div>
@@ -111,7 +113,7 @@
                     rgba(0, 0, 0, 0.5)),
                     url(`../../../../../../FePestsClean/resources/images/serviceBugControl/category-image5.png);">
                         <h4>05</h4>
-                        <div class="p-container-with-green-top-border">
+                        <div class="p-container">
                             <p>NHÀ HÁT, RẠP CHIẾU PHIM</p>
                         </div>
                     </div>
@@ -122,7 +124,7 @@
                     rgba(0, 0, 0, 0.5)),
                     url(`../../../../../../FePestsClean/resources/images/serviceBugControl/category-image6.png);">
                         <h4>06</h4>
-                        <div class="p-container-with-green-top-border">
+                        <div class="p-container">
                             <p>KHO BÃI & CHUỖI CUNG ỨNG</p>
                         </div>
                     </div>

@@ -2,8 +2,10 @@
 
 <section class="landscape-design-header">
     <div class="headline">
-        <h1 class="title">THIẾT KẾ & THI CÔNG CẢNH QUAN</h1>
-        <a href="#" class="btn-header">Khám phá ngay</a>
+        <h1>Thiết kế & thi công cảnh quan</h1>
+        <a href="#">
+            <h4>Khám phá ngay</h4>
+        </a>
     </div>
 </section>
 

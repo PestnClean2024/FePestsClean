@@ -1,26 +1,19 @@
 /* Header */
-.service-cleaning-header {
-    position: relative;
+.service-cleaning-header .headline {
     display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 400px;
     justify-content: center;
     align-items: center;
-    width: 100%;
-    height: 399.982px;
-    flex-direction: column;
-    background-color: var(--Blue-500, #005CA9);
+    gap: 30px;
+    background: var(--Blue-500, #005CA9);
 }
 
-.service-cleaning-header .headline {
-    position: absolute;
+.service-cleaning-header .headline h1{
     text-align: center;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-}
-
-.service-cleaning-header .headline .title {
     font-family: "Noto Serif";
-    font-size: 64px;
+    font-size: 56px;
     font-style: normal;
     font-weight: 500;
     line-height: 150%;
@@ -29,18 +22,16 @@
     background-clip: text;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
-    color: #FFF;;
 }
 
-.service-cleaning-header .headline .btn-header {
+.service-cleaning-header .headline h4 {
     padding: 8px 16px;
-    gap: 8px;
     border-radius: 16px;
     background: var(--Blue-500, #005CA9);
     color: #FFF;
 }
 
-.service-cleaning-header .headline .btn-header:hover {
+.service-cleaning-header .headline h4:hover {
     padding: 8px 16px;
     border: 1px solid #fff;
 }
@@ -268,6 +259,7 @@
 
 .service-cleaning-special .content .row .card-item:hover {
     transform: scale(1.05);
+    cursor: pointer;
 }
 
 .service-cleaning-special .content .row:nth-child(1) .card-item:nth-child(1) {

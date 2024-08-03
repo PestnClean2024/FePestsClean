@@ -137,6 +137,9 @@
                                 <button type="submit">Thiết lập mặc định</button>
                             </p>
                         </div>
+                        <div class="item-note">
+                            <br>
+                        </div>
                     </div>
                     <hr>
                     <div class="item">
@@ -153,64 +156,68 @@
                                 <button type="submit">Thiết lập mặc định</button>
                             </p>
                         </div>
+                        <div class="item-note">
+                            <br>
+                        </div>
                     </div>
                     <hr>
                 </div>
             </div>
-            <div class="article-notify mb-5">
-                <div class="article-address-title mb-5 d-flex align-items-center">
+            <div class="article-notify mb-3">
+                <div class="article-address-title mb-3 d-flex align-items-center">
                     <h1>Cài đặt thông báo</h1>
                 </div>
                 <div class="content">
                     <div class="item mb-3">
-                        <div>
-                            <h3 class="fw-bold">Email thông báo</h3>
-                            <p>Thông báo và nhắc nhở quan trọng về tài khoản sẽ không thể bị tắt</p>
+                        <div class="d-flex align-items-center">
+                            <h3 class="fw-bold">Email thông báo </h3>
+                            <p class="ms-3 mt-2">(Thông báo và nhắc nhở quan trọng về tài khoản sẽ không thể bị tắt)</p>
                         </div>
                         <div class="form-check form-switch">
                             <input class="form-check-input" type="checkbox" id="name" checked>
                         </div>
                     </div>
                     <div class="item mb-3">
-                        <div>
+                        <div class="d-flex align-items-center">
                             <h6 class="fw-bold">Cập nhật đơn hàng</h6>
-                            <p>Cập nhật về tình trạng vận chuyển của tất cả các đơn hàng</p>
+                            <p class="ms-3 mt-2">(Cập nhật về tình trạng vận chuyển của tất cả các đơn hàng)</p>
                         </div>
                         <div class="form-check form-switch">
                             <input class="form-check-input" type="checkbox" id="name" checked>
                         </div>
                     </div>
                     <div class="item mb-3">
-                        <div>
+                        <div class="d-flex align-items-center">
                             <h6 class="fw-bold">Khuyến mãi</h6>
-                            <p>Cập nhật về các ưu đãi và khuyến mãi sắp tới</p>
+                            <p class="ms-3 mt-2">(Cập nhật về các ưu đãi và khuyến mãi sắp tới)</p>
                         </div>
                         <div class="form-check form-switch">
                             <input class="form-check-input" type="checkbox" id="name" checked>
                         </div>
                     </div>
                     <div class="item mb-3">
-                        <div>
+                        <div class="d-flex align-items-center">
                             <h6 class="fw-bold">Khảo sát</h6>
-                            <p>Đồng ý nhận khảo sát để cho chúng tôi được lắng nghe bạn</p>
+                            <p class="ms-3 mt-2">(Đồng ý nhận khảo sát để cho chúng tôi được lắng nghe bạn)</p>
                         </div>
                         <div class="form-check form-switch">
                             <input class="form-check-input" type="checkbox" id="name" checked>
                         </div>
                     </div>
-                    <div class="item mb-3">
-                        <div>
+                    <hr>
+                    <div class="item mb-3 mt-4">
+                        <div class="d-flex align-items-center">
                             <h3 class="fw-bold">Thông báo SMS</h3>
-                            <p>Thông báo và nhắc nhở quan trọng về tài khoản sẽ không thể bị tắt</p>
+                            <p class="ms-3 mt-2">(Thông báo và nhắc nhở quan trọng về tài khoản sẽ không thể bị tắt)</p>
                         </div>
                         <div class="form-check form-switch">
                             <input class="form-check-input" type="checkbox" id="name" checked>
                         </div>
                     </div>
                     <div class="item mb-3">
-                        <div>
+                        <div class="d-flex align-items-center">
                             <h6 class="fw-bold">Khuyến mãi</h6>
-                            <p>Cập nhật về các ưu đãi và khuyến mãi sắp tới</p>
+                            <p class="ms-3 mt-2">(Cập nhật về các ưu đãi và khuyến mãi sắp tới)</p>
                         </div>
                         <div class="form-check form-switch">
                             <input class="form-check-input" type="checkbox" id="name" checked>
@@ -218,8 +225,9 @@
                     </div>
                 </div>
             </div>
-            <div class="article-private pt-3">
-                <div class="article-address-title mb-5 d-flex align-items-center">
+            <hr>
+            <div class="article-private mt-4">
+                <div class="article-address-title mb-3 d-flex align-items-center">
                     <h1>NHỮNG THIẾP LẬP RIÊNG TƯ</h1>
                 </div>
                 <div class="content">

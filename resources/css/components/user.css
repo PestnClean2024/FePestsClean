@@ -146,6 +146,7 @@
   }
   .user .article-address .content > .item > .item-info {
     font-weight: bold;
+    margin-top: 16px;
   }
   .user .article-address .content > .item > .item-info a {
     color: #005ca9;
@@ -467,4 +468,25 @@
     display: flex;
     justify-content: center;
     font-weight: 100;
+  }
+
+  /* Mục đơn hàng */
+  .article-order table th {
+    background: var(--Blue-500);
+    color: #fff;
+    font-weight: bold;
+    padding: 10px 20px;
+  }
+
+  .article-order .table .border-radius-left {
+    border-top-left-radius: 15px;
+  }
+
+  .article-order .table .border-radius-right {
+    border-top-right-radius: 15px;
+  }
+
+  .article-order .table .product {
+    font-weight: bold;
+    text-align: left;
   }

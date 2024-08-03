@@ -1,4 +1,5 @@
-.service-title-container {
+/* Header */
+.our-service-header .headline {
     display: flex;
     flex-direction: column;
     width: 100%;
@@ -9,16 +10,13 @@
     background: var(--Blue-500, #005CA9);
 }
 
-.service-title-container h1 {
+.our-service-header .headline h1{
     text-align: center;
-
-    /* Display/Display Large */
     font-family: "Noto Serif";
     font-size: 56px;
     font-style: normal;
     font-weight: 500;
     line-height: 150%;
-    /* 84px */
     text-transform: uppercase;
     background: linear-gradient(180deg, rgba(255, 255, 255, 0.00) 0%, #FFF 16.06%, #FFF 86.9%, rgba(255, 255, 255, 0.00) 106.25%);
     background-clip: text;
@@ -26,18 +24,19 @@
     -webkit-text-fill-color: transparent;
 }
 
-.service-title-container h4 {
+.our-service-header .headline h4 {
     padding: 8px 16px;
-    gap: 8px;
     border-radius: 16px;
     background: var(--Blue-500, #005CA9);
     color: #FFF;
 }
 
-.service-title-container h4:hover {
+.our-service-header .headline h4:hover {
     padding: 8px 16px;
     border: 1px solid #fff;
 }
+
+/* Other content */
 
 .service-card-list {
     display: flex;

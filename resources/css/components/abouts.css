@@ -67,6 +67,25 @@
 /* Journey */
 .abouts-page-journey {
     padding: 80px;
+    position: relative;
+}
+
+.abouts-page-journey .arrow-1 {
+    position: absolute;
+    z-index: -1;
+    top: 15%;
+    left: 5%;
+}
+
+.abouts-page-journey .arrow-2 {
+    position: absolute;
+    z-index: -1;
+    right: 5%;
+    top: 50%;
+}
+
+.abouts-page-journey .row {
+    align-items: center;
 }
 
 .abouts-page-journey .title {
@@ -98,7 +117,6 @@
 .abouts-page-journey .first .images {
     display: flex;
     justify-content: right;
-    margin-right: 80px;
 }
 
 .abouts-page-journey .second {
@@ -108,7 +126,6 @@
 .abouts-page-journey .second .images {
     display: flex;
     justify-content: left;
-    margin-left: 80px;
 }
 
 .abouts-page-journey .third .images {
