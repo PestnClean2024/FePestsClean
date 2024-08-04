@@ -10,6 +10,8 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick-theme.css">
     <link rel="stylesheet" href="/FePestsClean/assets/fontawesome/css/all.min.css">
+    <link rel="stylesheet" href="/FePestsClean/assets/wow/css/animate.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"/>
     
     <script src="/FePestsClean/assets/bootstrap/js/bootstrap.bundle.min.js"></script>
     <script src="/FePestsClean/resources/js/jquery.min.js"></script>
@@ -17,6 +19,7 @@
     <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.2/dist/umd/popper.min.js"></script>
     <script src="/FePestsClean/resources/js/components/product-information-cart.js"></script>
     <script src="/FePestsClean/resources/js/components/pop-up.js"></script>
+    <script src="/FePestsClean/assets/wow/js/wow.min.js"></script>
     
     <link rel="stylesheet" href="/FePestsClean/assets/bootstrap/css/bootstrap.min.css">
     <link rel="stylesheet" href="/FePestsClean/resources/css/reset.css">
@@ -44,6 +47,7 @@
     <link rel="stylesheet" href="/FePestsClean/resources/css/components/detail.css">
     <link rel="stylesheet" href="/FePestsClean/resources/css/components/faq.css">
     <link rel="stylesheet" href="/FePestsClean/resources/css/components/policy.css">
+    <link rel="stylesheet" href="/FePestsClean/resources/css/components/appearAnimation.css">
 </head>
 
 <body>

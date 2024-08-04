@@ -9,7 +9,7 @@
     </div>
 </section>
 
-<section class="cleaning-solution-services">
+<section class="cleaning-solution-services wow slideInLeft">
     <div class="row">
         <div class="col-md-4 service-items">
             <img src="../../images/cleaningSolution/service-layer-1.svg" alt="" class="img-fluid">
@@ -46,7 +46,7 @@
     </div>
 </section>
 
-<section class="service-cleaning-our-services">
+<section class="service-cleaning-our-services wow animate__backInUp">
     <div class="headline">
         <h1 class="title" style="font-size: 56px;">Các giải pháp vệ sinh tại PestnClean</h1>
     </div>
@@ -72,14 +72,62 @@
     </div>
 </section>
 
-<section class="service-cleaning-process">
+<section class="cleaning-solution-process">
     <div class="headline">
         <h1 class="title">QUY TRÌNH GIẢI PHÁP VỆ SINH</h1>
     </div>
-    <img src="../../images/cleaningSolution/service-cleaning-process.png" class="img-fluid" alt="">
+    <div class="content">
+        <div class="step-1 wow animate__fadeInDown">
+            <img src="../../images/cleaningSolution/step-1.png" alt="" class="img-fluid">
+            <svg xmlns="http://www.w3.org/2000/svg" width="121" height="304" viewBox="0 0 121 304" fill="none">
+                <path d="M2.5 288.981H0V291.481H2.5V288.981ZM120.5 288.981L95.5 274.548V303.415L120.5 288.981ZM0 0.981445V11.2672H5V0.981445H0ZM0 31.8386V52.41H5V31.8386H0ZM0 72.9814V93.5529H5V72.9814H0ZM0 114.124V134.696H5V114.124H0ZM0 155.267V175.839H5V155.267H0ZM0 196.41V216.981H5V196.41H0ZM0 237.553V258.124H5V237.553H0ZM0 278.696V288.981H5V278.696H0ZM2.5 291.481H12.3333V286.481H2.5V291.481ZM32 291.481H51.6667V286.481H32V291.481ZM71.3333 291.481H91V286.481H71.3333V291.481Z" fill="#868E96"/>
+            </svg>
+            <div class="headline">
+                <h6 class="title">LẬP KẾ HOẠCH CUNG ỨNG</h6>
+                <p class="description">Lên kế hoạch đề xuất các sản phẩm đồ vệ sinh phù hợp với yêu cầu, đảm bảo giải pháp tối ưu cho khách hàng.</p>
+            </div>
+        </div>
+        <div class="step-2 wow animate__fadeInUp">
+            <div class="headline">
+                <h6 class="title">Khảo sát nhu cầu và đánh giá tình trạng</h6>
+                <p class="description">Chuyên gia của chúng tôi đến tận nơi để khảo sát và xác định nhu cầu sử dụng đồ vệ sinh cụ thể của khách hàng.</p>
+            </div>
+            <svg xmlns="http://www.w3.org/2000/svg" width="123" height="303" viewBox="0 0 123 303" fill="none">
+                <path d="M2.75 14.9814H0.25V12.4814H2.75V14.9814ZM122.75 14.9814L97.75 29.4152V0.547699L122.75 14.9814ZM0.25 302.981V292.696H5.25V302.981H0.25ZM0.25 272.124V251.553H5.25V272.124H0.25ZM0.25 230.981V210.41H5.25V230.981H0.25ZM0.25 189.839V169.267H5.25V189.839H0.25ZM0.25 148.696V128.124H5.25V148.696H0.25ZM0.25 107.553V86.9815H5.25V107.553H0.25ZM0.25 66.41V45.8386H5.25V66.41H0.25ZM0.25 25.2672V14.9814H5.25V25.2672H0.25ZM2.75 12.4814H12.75V17.4814H2.75V12.4814ZM32.75 12.4814H52.75V17.4814H32.75V12.4814ZM72.75 12.4814H92.75V17.4814H72.75V12.4814Z" fill="#868E96"/>
+            </svg>
+            <img src="../../images/cleaningSolution/step-2.png" alt="" class="img-fluid">
+        </div>
+        <div class="step-3 wow animate__fadeInUp">
+            <img src="../../images/cleaningSolution/step-3.png" alt="" class="img-fluid">
+            <svg xmlns="http://www.w3.org/2000/svg" width="121" height="304" viewBox="0 0 121 304" fill="none">
+                <path d="M3 288.981H0.5V291.481H3V288.981ZM121 288.981L96 274.548V303.415L121 288.981ZM0.5 0.981445V11.2672H5.5V0.981445H0.5ZM0.5 31.8386V52.41H5.5V31.8386H0.5ZM0.5 72.9814V93.5529H5.5V72.9814H0.5ZM0.5 114.124V134.696H5.5V114.124H0.5ZM0.5 155.267V175.839H5.5V155.267H0.5ZM0.5 196.41V216.981H5.5V196.41H0.5ZM0.5 237.553V258.124H5.5V237.553H0.5ZM0.5 278.696V288.981H5.5V278.696H0.5ZM3 291.481H12.8333V286.481H3V291.481ZM32.5 291.481H52.1667V286.481H32.5V291.481ZM71.8333 291.481H91.5V286.481H71.8333V291.481Z" fill="#868E96"/>
+            </svg>
+            <div class="headline">
+                <h6 class="title">Hướng dẫn sử dụng và lắp đặt</h6>
+                <p class="description">Đội ngũ của chúng tôi sẽ hướng dẫn chi tiết cách sử dụng và lắp đặt các sản phẩm đảm bảo hoạt động hiệu quả.</p>
+            </div>
+        </div>
+        <div class="step-4 wow animate__fadeInDown">
+            <div class="headline">
+                <h6 class="title">Chuẩn bị và xác nhận sản phẩm</h6>
+                <p class="description">Chuẩn bị các sản phẩm đồ vệ sinh theo kế hoạch và xác nhận với khách hàng, đảm bảo đúng số lượng và chất lượng.</p>
+            </div>
+            <svg xmlns="http://www.w3.org/2000/svg" width="124" height="303" viewBox="0 0 124 303" fill="none">
+                <path d="M3.25 14.9814H0.75V12.4814H3.25V14.9814ZM123.25 14.9814L98.25 29.4152V0.547699L123.25 14.9814ZM0.75 302.981V292.696H5.75V302.981H0.75ZM0.75 272.124V251.553H5.75V272.124H0.75ZM0.75 230.981V210.41H5.75V230.981H0.75ZM0.75 189.839V169.267H5.75V189.839H0.75ZM0.75 148.696V128.124H5.75V148.696H0.75ZM0.75 107.553V86.9815H5.75V107.553H0.75ZM0.75 66.41V45.8386H5.75V66.41H0.75ZM0.75 25.2672V14.9814H5.75V25.2672H0.75ZM3.25 12.4814H13.25V17.4814H3.25V12.4814ZM33.25 12.4814H53.25V17.4814H33.25V12.4814ZM73.25 12.4814H93.25V17.4814H73.25V12.4814Z" fill="#868E96"/>
+            </svg>
+            <img src="../../images/cleaningSolution/step-4.png" alt="" class="img-fluid">
+        </div>
+        <div class="step-5 wow animate__fadeInUp">
+            <img src="../../images/cleaningSolution/step-5.png" alt="" class="img-fluid">
+            <div class="headline">
+                <h6 class="title">Kiểm tra và hỗ trợ sau bán hàng</h6>
+                <p class="description">Theo dõi và kiểm tra lại sự hài lòng của khách hàng sau khi sử dụng sản phẩm, cung cấp dịch vụ hỗ trợ và bảo hành.</p>
+            </div>
+        </div>
+    </div>
 </section>
 
-<section class="cleaning-solution-special">
+<section class="cleaning-solution-special wow animate__lightSpeedInLeft">
     <div class="headline">
         <h1 class="title">GIẢI PHÁP CHO CÁC NGÀNH HÀNG</h1>
     </div>
@@ -147,7 +195,7 @@
     </div>
 </section>
 
-<section class="cleaning-solution-benefits">
+<section class="cleaning-solution-benefits wow animate__fadeInUp">
     <div class="content">
         <div class="row">
             <div class="col-md-5">

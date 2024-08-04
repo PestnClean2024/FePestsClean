@@ -2,8 +2,10 @@
 
 <section class="contact-page-header">
     <div class="headline">
-        <h1 class="title">LIÊN HỆ</h1>
-        <a href="#" class="btn-header">Khám phá ngay</a>
+        <h1>Liên hệ</h1>
+        <a href="#">
+            <h4>Khám phá ngay</h4>
+        </a>
     </div>
 </section>
 

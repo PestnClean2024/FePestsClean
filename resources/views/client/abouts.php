@@ -2,8 +2,10 @@
 
 <section class="abouts-page-header">
     <div class="headline">
-        <h1 class="title">VỀ CHÚNG TÔI</h1>
-        <a href="#" class="btn-header">Khám phá ngay</a>
+        <h1>Về chúng tôi</h1>
+        <a href="#">
+            <h4>Khám phá ngay</h4>
+        </a>
     </div>
 </section>
 

@@ -146,6 +146,9 @@
   <script src="../../../../../FePestsClean/assets/bootstrap/js/bootstrap.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.2/dist/umd/popper.min.js"></script>
-  <script src="../../js/components/details.js"></script>
+  <script src="../../../js/components/details.js"></script>
+  <script>
+    new WOW().init();
+  </script>
 </body>
 </html>
