@@ -27,7 +27,7 @@
                     <span class="color-top"><img src="/FePestsClean/resources/images/product/product-chevron-right.png" alt=""></span>
                 </div>
             </a>
-
+ 
             <a href="#" class="div-product-a">
                 <div class="product-text display div-size-desi">
                     <span class="text a-size">THIẾT KẾ & THI CÔNG CÂY CẢNH</span> 
@@ -80,23 +80,23 @@
             </div>
             <div class="product-cell-add">
                 <p class="span-cell">ĐANG GIẢM GIÁ</p> 
-                <p ><a href="#" class="p-add">Xem thêm</a></p>
+                <p class="p-add"><a href="#" class="p-add">Xem thêm</a></p>
             </div>
         </div>
     </div>
 
     <div class="div-img-3">
-        <div class="img-3">
-            <a href="#"><img src="/FePestsClean/resources/images/product/product-1.png" alt="" class="img-1"></a>
-            <a href="#"><img src="/FePestsClean/resources/images/product/product-1.png" alt="" class="img-1 img-2"></a>
-            <a href="#"><img src="/FePestsClean/resources/images/product/product-1.png" alt="" class="img-1 img-2"></a>
+        <div class="img-3"> 
+            <div class="img-container"><a href="#"><img src="/FePestsClean/resources/images/product/product-1.png" alt="" class="img-1"></a></div>
+            <div class="img-container"><a href="#"><img src="/FePestsClean/resources/images/product/product-1.png" alt="" class="img-1 img-2"></a></div>
+            <div class="img-container"><a href="#"><img src="/FePestsClean/resources/images/product/product-1.png" alt="" class="img-1 img-2"></a></div>
         </div>
 
         <div class="grid-cols-1  gap-4 ">
 
-            <div class="grid">
+            <div class="grid"> 
 
-                <div class="border-div rounded-lg  bg-card">
+                <div class="rounded-lg">
                     <a href="/FePestsClean/resources/views/client/product-fillter.php">
                         <img aria-hidden="true" alt="" src="/FePestsClean/resources/images/product/product-img-horz.png" />
                         <div class="mt-2">
@@ -107,7 +107,7 @@
                             <span class="bg-primary-sp text-sm"><img src="/FePestsClean/resources/images/product/product-fire.png" alt="">-15%</span>
                         </div>
                     </a>
-                    <button class="bg-secondary rounded">Giỏ hàng</button>
+                    <button class="bg-secondary rounded add-to-cart-button">Giỏ hàng</button>
                 </div>
 
                 <div class="border-div rounded-lg  bg-card">
@@ -121,7 +121,7 @@
                             <span class="bg-primary-sp  text-sm"><img src="/FePestsClean/resources/images/product/product-fire.png" alt="">-15%</span>
                         </div>
                     </a>
-                    <button class="bg-secondary rounded">Giỏ hàng</button>
+                    <button class="bg-secondary rounded add-to-cart-button">Giỏ hàng</button>
                 </div>
 
                 <div class="border-div rounded-lg  bg-card">
@@ -135,7 +135,7 @@
                             <span class="bg-primary-sp  text-sm"><img src="/FePestsClean/resources/images/product/product-fire.png" alt="">-15%</span>
                         </div>
                     </a>
-                    <button class="bg-secondary rounded">Giỏ hàng</button>
+                    <button class="bg-secondary rounded add-to-cart-button">Giỏ hàng</button>
                 </div>
 
                 <div class="border-div rounded-lg  bg-card">
@@ -149,13 +149,13 @@
                             <span class="bg-primary-sp text-sm"><img src="/FePestsClean/resources/images/product/product-fire.png" alt="">-15%</span>
                         </div>
                     </a>
-                    <button class="bg-secondary rounded">Giỏ hàng</button>
+                    <button class="bg-secondary rounded add-to-cart-button">Giỏ hàng</button>
                 </div>
             </div>
 
             <div class="div-hot-text">
                 <p class="span-cell">ĐANG BÁN CHẠY</p>
-                <p ><a href="#" class="p-add">Xem thêm</a></p>
+                <p class="p-add"><a href="#" class="p-add">Xem thêm</a></p>
             </div>
 
             <div class="grid div-gird">
@@ -170,7 +170,7 @@
                             <span class="text-smt">ĐANG BÁN CHẠY</span>
                         </div>
                     </a>
-                    <button class="bg-secondary rounded">Giỏ hàng</button>
+                    <button class="bg-secondary rounded add-to-cart-button">Giỏ hàng</button>
                 </div>
 
                 <div class="border-div rounded-lg  bg-card">
@@ -184,7 +184,7 @@
                             <span class="text-smt">ĐANG BÁN CHẠY</span>
                         </div>
                     </a>
-                    <button class="bg-secondary rounded">Giỏ hàng</button>
+                    <button class="bg-secondary rounded add-to-cart-button">Giỏ hàng</button>
                 </div>
 
                 <div class="border-div rounded-lg  bg-card">
@@ -198,7 +198,7 @@
                             <span class="text-smt">ĐANG BÁN CHẠY</span>
                         </div>
                     </a>
-                    <button class="bg-secondary rounded">Giỏ hàng</button>
+                    <button class="bg-secondary rounded add-to-cart-button">Giỏ hàng</button>
                 </div>
 
                 <div class="border-div rounded-lg  bg-card">
@@ -212,13 +212,13 @@
                             <span class="text-smt">ĐANG BÁN CHẠY</span>
                         </div>
                     </a>
-                    <button class="bg-secondary rounded">Giỏ hàng</button>
+                    <button class="bg-secondary rounded add-to-cart-button">Giỏ hàng</button>
                 </div>
             </div>
 
             <div class="div-hot-text">
                 <p class="span-cell">TẤT CẢ SẢN PHẨM</p>
-                <p class=""><a href="#" class="p-add">Xem thêm</a></p>
+                <p class="p-add"><a href="#" class="p-add">Xem thêm</a></p>
             </div>
 
             <div class="grid div-gird">
@@ -236,7 +236,7 @@
                             </div>
                         </div>
                     </a>
-                    <button class="bg-secondary rounded">Giỏ hàng</button>
+                    <button class="bg-secondary rounded add-to-cart-button">Giỏ hàng</button>
                 </div>
 
                 <div class="border-div rounded-lg  bg-card">
@@ -253,7 +253,7 @@
                             </div>
                         </div>
                     </a>
-                    <button class="bg-secondary rounded">Giỏ hàng</button>
+                    <button class="bg-secondary rounded add-to-cart-button">Giỏ hàng</button>
                 </div>
 
                 <div class="border-div rounded-lg  bg-card">
@@ -270,7 +270,7 @@
                             </div>
                         </div>
                     </a>
-                    <button class="bg-secondary rounded">Giỏ hàng</button>
+                    <button class="bg-secondary rounded add-to-cart-button">Giỏ hàng</button>
                 </div>
 
                 <div class="border-div rounded-lg  bg-card">
@@ -287,7 +287,7 @@
                             </div>
                         </div>
                     </a>
-                    <button class="bg-secondary rounded">Giỏ hàng</button>
+                    <button class="bg-secondary rounded add-to-cart-button">Giỏ hàng</button>
                 </div>
             </div>
 
@@ -306,7 +306,7 @@
                             </div>
                         </div>
                     </a>
-                    <button class="bg-secondary rounded">Giỏ hàng</button>
+                    <button class="bg-secondary rounded add-to-cart-button">Giỏ hàng</button>
                 </div>
 
                 <div class="border-div rounded-lg  bg-card">
@@ -323,7 +323,7 @@
                             </div>
                         </div>
                     </a>
-                    <button class="bg-secondary rounded">Giỏ hàng</button>
+                    <button class="bg-secondary rounded add-to-cart-button">Giỏ hàng</button>
                 </div>
 
                 <div class="border-div rounded-lg  bg-card">
@@ -340,7 +340,7 @@
                             </div>
                         </div>
                     </a>
-                    <button class="bg-secondary rounded">Giỏ hàng</button>
+                    <button class="bg-secondary rounded add-to-cart-button">Giỏ hàng</button>
                 </div>
 
                 <div class="border-div rounded-lg  bg-card">
@@ -357,7 +357,7 @@
                             </div>
                         </div>
                     </a>
-                    <button class="bg-secondary rounded">Giỏ hàng</button>
+                    <button class="bg-secondary rounded add-to-cart-button">Giỏ hàng</button>
                 </div>
             </div>
 
@@ -376,7 +376,7 @@
                             </div>
                         </div>
                     </a>
-                    <button class="bg-secondary rounded">Giỏ hàng</button>
+                    <button class="bg-secondary rounded add-to-cart-button">Giỏ hàng</button>
                 </div>
 
                 <div class="border-div rounded-lg  bg-card">
@@ -393,7 +393,7 @@
                             </div>
                         </div>
                     </a>
-                    <button class="bg-secondary rounded">Giỏ hàng</button>
+                    <button class="bg-secondary rounded add-to-cart-button">Giỏ hàng</button>
                 </div>
 
                 <div class="border-div rounded-lg  bg-card">
@@ -410,7 +410,7 @@
                             </div>
                         </div>
                     </a>
-                    <button class="bg-secondary rounded">Giỏ hàng</button>
+                    <button class="bg-secondary rounded add-to-cart-button">Giỏ hàng</button>
                 </div>
 
                 <div class="border-div rounded-lg  bg-card">
@@ -427,7 +427,7 @@
                             </div>
                         </div>
                     </a>
-                    <button class="bg-secondary rounded">Giỏ hàng</button>
+                    <button class="bg-secondary rounded add-to-cart-button">Giỏ hàng</button>
                 </div>
             </div>
 
@@ -445,6 +445,16 @@
     </div>
 </div>
 </section>
+<script>
+    document.querySelector('.add-to-cart-button').addEventListener('click', function() {
+        this.classList.add('clicked');
+        // Xóa lớp `.clicked` sau khi animation hoàn thành
+        setTimeout(() => {
+            this.classList.remove('clicked');
+        }, 1000); // Thời gian khớp với thời lượng animation
+    });
+</script>
+
 <?php include 'banner-carousel.php' ?>
 <?php include 'layouts/notify-product.php'; ?>
 <?php include 'layouts/footer.php' ?>
