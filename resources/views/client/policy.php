@@ -58,13 +58,15 @@
                             <div class="text-and-ul-container">
                                 <p class="csbmtt-detail-text-normal">
                                     Khi bạn tạo tài khoản hoặc mua hàng trên trang web của chúng tôi, chúng tôi có thể thu thập các thông tin cá nhân sau đây:
+                                </p>
                                 <ul>
                                     <li>Tên của bạn</li>
                                     <li>Địa chỉ email</li>
                                     <li>Địa chỉ giao hàng</li>
                                     <li>Thông tin thanh toán</li>
                                 </ul>
-                                Chúng tôi cũng có thể tự động thu thập một số thông tin không cá nhân về việc bạn sử dụng trang web của chúng tôi, bao gồm địa chỉ IP, loại trình duyệt, thời gian truy cập và trang web bạn đã truy cập trước khi đến với chúng tôi.
+                                <p class="csbmtt-detail-text-normal mt-4">
+                                    Chúng tôi cũng có thể tự động thu thập một số thông tin không cá nhân về việc bạn sử dụng trang web của chúng tôi, bao gồm địa chỉ IP, loại trình duyệt, thời gian truy cập và trang web bạn đã truy cập trước khi đến với chúng tôi.
                                 </p>
                             </div>
                         </div>
@@ -75,12 +77,14 @@
                             <div class="text-and-ul-container">
                                 <p class="csbmtt-detail-text-normal">
                                     Chúng tôi sử dụng thông tin mà bạn cung cấp để:
+                                </p>
                                 <ul>
                                     <li>Cung cấp dịch vụ cho bạn và xử lý đơn hàng của bạn</li>
                                     <li>Gửi thông tin về sản phẩm, khuyến mãi và sự kiện</li>
                                     <li>Cải thiện và nâng cấp website của chúng tôi</li>
                                 </ul>
-                                Chúng tôi cam kết không bán, chia sẻ hoặc trao đổi thông tin cá nhân của bạn với bên thứ ba mà không có sự đồng ý của bạn, trừ khi cần thiết để cung cấp dịch vụ cho bạn hoặc tuân thủ theo yêu cầu pháp luật.
+                                <p class="csbmtt-detail-text-normal mt-4">
+                                    Chúng tôi cam kết không bán, chia sẻ hoặc trao đổi thông tin cá nhân của bạn với bên thứ ba mà không có sự đồng ý của bạn, trừ khi cần thiết để cung cấp dịch vụ cho bạn hoặc tuân thủ theo yêu cầu pháp luật.
                                 </p>
                             </div>
                         </div>
@@ -118,7 +122,7 @@
                                     <li>Hotline: 0868 36 36 00.</li>
                                     <li>Cảm ơn bạn đã tin tưởng và sử dụng dịch vụ của PestnClean!</li>
                                 </ul>
-                                <p class="csbmtt-detail-text-normal">
+                                <p class="csbmtt-detail-text-normal mt-4">
                                     Cảm ơn bạn đã tin tưởng và sử dụng dịch vụ của PestnClean!
                                 </p>
                             </div>
@@ -258,8 +262,8 @@
                                     <li>Nếu bạn phát hiện bất kỳ lỗi hoặc hỏng hóc nào trong sản phẩm, vui lòng liên hệ với chúng tôi qua phương tiện liên lạc được cung cấp trên trang web của chúng tôi.</li>
                                     <li>Để thực hiện quy trình đổi trả, bạn có thể cần cung cấp chứng minh mua hàng như hóa đơn hoặc biên nhận.</li>
                                     <li>Sau khi kiểm tra và xác nhận lỗi của sản phẩm, chúng tôi sẽ tiến hành đổi trả hoặc sửa chữa theo quyết định của chúng tôi và trong phạm vi của chính sách bảo hành của chúng tôi.</li>
-                                    <p>Cảm ơn Quý khách đã tin tưởng sử dụng dịch vụ của PestnClean!</p>
                                 </ul>
+                                <p class="csbmtt-detail-text-normal mt-4">Cảm ơn Quý khách đã tin tưởng sử dụng dịch vụ của PestnClean!</p>
                             </div>
                         </div>
                         <div class="csbmtt-detail-text-container">
@@ -288,119 +292,122 @@
                 <div class="csbmtt-tab-content-container">
                     <h1>Chính sách giao nhận hàng</h1>
                     <img class="csbmtt-tab-content-header-img" src="../../../../FePestsClean/resources/images/policy/policy-tab-banner3.png">
-                    <div class="csbmtt-tab-policy-content">
+                    <!-- <div class="csbmtt-tab-policy-content">
                         <div class="csbmtt-text-container">
                             <p class="csbmtt-tab-policy-content-headline">
-                                CHÍNH SÁCH BẢO MẬT THÔNG TIN KHÁCH HÀNG:
+                                Chính sách giao nhận hàng
                             </p>
                             <p class="csbmtt-tab-policy-content-support">
                                 Chào mừng bạn đến với Công Ty TNHH TM DV XNK NGUYỄN DUY (PestnClean)! Chúng tôi rất trân trọng sự tin tưởng của bạn và cam kết bảo vệ thông tin cá nhân của bạn. Chính sách bảo mật này mô tả cách chúng tôi thu thập, sử dụng và bảo vệ thông tin cá nhân của bạn khi bạn sử dụng trang web của chúng tôi và các quy định của pháp luật Việt Nam. Cụ thể:
                             </p>
                         </div>
-                    </div>
+                    </div> -->
                     <div class="csbmtt-tab-policy-detail-content">
                         <div class="csbmtt-detail-text-container">
                             <p class="csbmtt-detail-text-title">
-                                1. Thông Tin Thu Thập
+                                1. Kiểm tra trạng thái đơn hàng
                             </p>
                             <div class="text-and-ul-container">
-                                <p class="csbmtt-detail-text-normal">
-                                    Khi bạn tạo tài khoản hoặc mua hàng trên trang web của chúng tôi, chúng tôi có thể thu thập các thông tin cá nhân sau đây:
+                                <p class="highlight-bold-text">
+                                    Cách Thức Kiểm Tra:
+                                </p>
                                 <ul>
-                                    <li>Tên của bạn</li>
-                                    <li>Địa chỉ email</li>
-                                    <li>Địa chỉ giao hàng</li>
-                                    <li>Thông tin thanh toán</li>
+                                    <li>Truy cập Website: Khách hàng có thể truy cập trực tiếp vào trang website của PestnClean và sử dụng tính năng "Kiểm Tra Đơn Hàng”.</li>
+                                    <li>Liên Hệ Trực Tiếp: Nếu cần hỗ trợ thêm, khách hàng có thể liên hệ với bộ phận chăm sóc khách hàng qua hotline hoặc email để được cập nhật trạng thái đơn hàng một cách nhanh chóng.</li>
                                 </ul>
-                                Chúng tôi cũng có thể tự động thu thập một số thông tin không cá nhân về việc bạn sử dụng trang web của chúng tôi, bao gồm địa chỉ IP, loại trình duyệt, thời gian truy cập và trang web bạn đã truy cập trước khi đến với chúng tôi.
+                                <p class="highlight-bold-text mt-4">
+                                    Thông Tin Cung Cấp:
+                                </p>
+                                <p class="csbmtt-detail-text-normal">
+                                    Thông tin về trạng thái đơn hàng sẽ bao gồm: Trạng thái hiện tại (đang xử lý, đã gửi, đang vận chuyển, đã giao), ước tính thời gian giao hàng, và bất kỳ thông tin hữu ích nào khác liên quan đến quá trình giao nhận.
                                 </p>
                             </div>
                         </div>
                         <div class="csbmtt-detail-text-container">
                             <p class="csbmtt-detail-text-title">
-                                2. Sử Dụng Thông Tin
+                                2. Phí vận chuyển
                             </p>
                             <div class="text-and-ul-container">
-                                <p class="csbmtt-detail-text-normal">
-                                    Chúng tôi sử dụng thông tin mà bạn cung cấp để:
+                                <p class="highlight-bold-text">
+                                    Cách Tính Phí Vận Chuyển:
+                                </p>
                                 <ul>
-                                    <li>Cung cấp dịch vụ cho bạn và xử lý đơn hàng của bạn</li>
-                                    <li>Gửi thông tin về sản phẩm, khuyến mãi và sự kiện</li>
-                                    <li>Cải thiện và nâng cấp website của chúng tôi</li>
+                                    <li>Phí vận chuyển được tính dựa trên trọng lượng của đơn hàng và khoảng cách từ kho của chúng tôi đến địa chỉ giao hàng.</li>
+                                    <li>Đối với các đơn hàng đủ điều kiện nhất định, chúng tôi cung cấp dịch vụ giao hàng miễn phí hoặc với mức phí ưu đãi.</li>
                                 </ul>
-                                Chúng tôi cam kết không bán, chia sẻ hoặc trao đổi thông tin cá nhân của bạn với bên thứ ba mà không có sự đồng ý của bạn, trừ khi cần thiết để cung cấp dịch vụ cho bạn hoặc tuân thủ theo yêu cầu pháp luật.
-                                </p>
-                            </div>
-                        </div>
-                        <div class="csbmtt-detail-text-container">
-                            <p class="csbmtt-detail-text-title">
-                                3. Bảo Mật Thông Tin
-                            </p>
-                            <div class="text-and-ul-container">
-                                <p class="csbmtt-detail-text-normal">
-                                    Chúng tôi cam kết bảo vệ thông tin cá nhân của bạn và đã triển khai các biện pháp an ninh phù hợp để bảo vệ thông tin đó khỏi lạm dụng, mất mát hoặc truy cập trái phép. Tuy nhiên, không có phương pháp truyền tải thông tin trên Internet hoặc lưu trữ điện tử nào là 100% an toàn.
-                                </p>
-                            </div>
-                        </div>
-                        <div class="csbmtt-detail-text-container">
-                            <p class="csbmtt-detail-text-title">
-                                4. Quyền Lợi của Bạn
-                            </p>
-                            <div class="text-and-ul-container">
-                                <p class="csbmtt-detail-text-normal">
-                                    Bạn có quyền truy cập, sửa đổi hoặc xóa bất kỳ thông tin cá nhân nào chúng tôi đã thu thập về bạn. Bạn cũng có quyền phản đối việc sử dụng thông tin của bạn cho mục đích tiếp thị hoặc liên hệ trực tiếp với chúng tôi để biết thêm thông tin.
-                                </p>
-                            </div>
-                        </div>
-                        <div class="csbmtt-detail-text-container">
-                            <p class="csbmtt-detail-text-title">
-                                5. Liên Hệ Chúng Tôi
-                            </p>
-                            <div class="text-and-ul-container">
-                                <p class="csbmtt-detail-text-normal">
-                                    Nếu bạn có bất kỳ câu hỏi hoặc ý kiến nào về Chính Sách Bảo Mật của chúng tôi, vui lòng liên hệ với chúng tôi
+                                <p class="highlight-bold-text mt-4">
+                                    Chế Độ Giao Hàng Miễn Phí:
                                 </p>
                                 <ul>
-                                    <li>Trụ sở chính: Lầu 8, 123 Lý Chính Thắng, P. Võ Thị Sáu, Quận 3, Tp. HCM, Viet Nam.</li>
-                                    <li>Email: info@pestnclean.vn</li>
-                                    <li>Hotline: 0868 36 36 00.</li>
-                                    <li>Cảm ơn bạn đã tin tưởng và sử dụng dịch vụ của PestnClean!</li>
+                                    <li>Đơn hàng với giá trị từ một ngưỡng nhất định sẽ được hưởng chính sách giao hàng miễn phí. Ngưỡng giá trị này sẽ được thông báo cụ thể trên website của chúng tôi.</li>
+                                    <li>Chính sách giao hàng miễn phí chỉ áp dụng cho các khu vực nằm trong phạm vi phục vụ của chúng tôi.</li>
                                 </ul>
+                            </div>
+                        </div>
+                        <div class="csbmtt-detail-text-container">
+                            <p class="csbmtt-detail-text-title">
+                                3. Quy Trình Bảo Hành
+                            </p>
+                            <div class="text-and-ul-container">
                                 <p class="csbmtt-detail-text-normal">
-                                    Cảm ơn bạn đã tin tưởng và sử dụng dịch vụ của PestnClean!
+                                    Vui lòng liên hệ với PestnClean qua các phương tiện được cung cấp trên trang web của chúng tôi nếu bạn đang gặp bất kỳ lỗi hỏng hóc nào nằm trong Trường Hợp Được Bảo Hành sản phẩm.
+                                </p>
+                                <ul>
+                                    <li>Để thực hiện quy trình bảo hành, bạn cần cung cấp hóa đơn hoặc biên nhận để chứng minh nguồn hàng từ PestnClean, giấy bảo hành liên quan đến sản phẩm.</li>
+                                    <li>Sau khi kiểm tra và xác nhận rằng sản phẩm thuộc Trường Hợp Bảo Hành, chúng tôi sẽ tiến hành theo chính sách chúng tôi đã cung cấp.</li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="csbmtt-detail-text-container">
+                            <p class="csbmtt-detail-text-title">
+                                4. Trường Hợp Được Đổi Trả
+                            </p>
+                            <div class="text-and-ul-container">
+                                <ul>
+                                    <li>Sản phẩm cần phải ở trong tình trạng ban đầu và không bị hỏng hoặc sử dụng.</li>
+                                    <li>Một số sản phẩm có thể không được đổi trả hoặc có các điều kiện đặc biệt, vui lòng kiểm tra chi tiết trên trang web của chúng tôi hoặc liên hệ với PestnClean để biết thêm thông tin chi tiết.</li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="csbmtt-detail-text-container">
+                            <p class="csbmtt-detail-text-title">
+                                5. Quy Trình Đổi Trả
+                            </p>
+                            <div class="text-and-ul-container">
+                                <ul>
+                                    <li>Nếu bạn phát hiện bất kỳ lỗi hoặc hỏng hóc nào trong sản phẩm, vui lòng liên hệ với chúng tôi qua phương tiện liên lạc được cung cấp trên trang web của chúng tôi.</li>
+                                    <li>Để thực hiện quy trình đổi trả, bạn có thể cần cung cấp chứng minh mua hàng như hóa đơn hoặc biên nhận.</li>
+                                    <li>Sau khi kiểm tra và xác nhận lỗi của sản phẩm, chúng tôi sẽ tiến hành đổi trả hoặc sửa chữa theo quyết định của chúng tôi và trong phạm vi của chính sách bảo hành của chúng tôi.</li>
+                                </ul>
+                                <p class="csbmtt-detail-text-normal mt-4">
+                                    Cảm ơn Quý khách đã tin tưởng sử dụng dịch vụ của PestnClean!
                                 </p>
                             </div>
                         </div>
                         <div class="csbmtt-detail-text-container">
                             <p class="csbmtt-detail-text-title">
-                                6. Những người hoặc tổ chức có thể được tiếp cận với thông tin đó
+                                6. Hoàn trả và hoàn tiền
                             </p>
                             <div class="text-and-ul-container">
+                                <p class="highlight-bold-text">Điều Kiện Hoàn Trả:</p>
                                 <ul>
                                     <li>
-                                        <p class="csbmtt-detail-text-normal">
-                                            Các đối tác là bên cung cấp dịch vụ cho chúng tôi liên quan đến thực hiện đơn hàng và chỉ giới hạn trong phạm vi thông tin cần thiết cũng như áp dụng các quy định đảm bảo an ninh, bảo mật các thông tin cá nhân.
-                                        </p>
+                                        Sản phẩm phải còn trong tình trạng ban đầu và không có dấu hiệu đã được sử dụng hoặc cải tạo.
                                     </li>
                                     <li>
-                                        <p class="csbmtt-detail-text-normal">
-                                            Chúng tôi sử dụng dịch vụ từ một nhà cung cấp dịch vụ là bên thứ ba để thực hiện một số hoạt động liên quan đến website amall.vn. Khi đó, bên thứ ba có thể truy cập hoặc xử lý các thông tin cá nhân trong quá trình cung cấp các dịch vụ đó. Chúng tôi yêu cầu các bên thứ ba này tuân thủ mọi luật lệ về bảo vệ thông tin cá nhân liên quan và các yêu cầu về an ninh liên quan đến thông tin cá nhân.
-                                        </p>
+                                        Yêu cầu hoàn trả phải được thực hiện trong vòng 14 ngày kể từ ngày mua hàng.
                                     </li>
                                     <li>
-                                        <p class="csbmtt-detail-text-normal">
-                                            Các chương trình có tính liên kết, đồng thực hiện, thuê ngoài cho các mục đích được nêu tại Mục 1 và luôn áp dụng các yêu cầu bảo mật thông tin cá nhân.
-                                        </p>
+                                        Khách hàng cần cung cấp hóa đơn mua hàng, và mô tả rõ lý do hoàn trả.
+                                    </li>
+                                </ul>
+                                <p class="highlight-bold-text mt-4">Quy Trình Hoàn Tiền:</p>
+                                <ul>
+                                    <li>
+                                        Sau khi nhận được yêu cầu và xác minh thông tin, PestnClean sẽ tiến hành kiểm tra và đánh giá điều kiện hoàn trả của sản phẩm.
                                     </li>
                                     <li>
-                                        <p class="csbmtt-detail-text-normal">
-                                            Yêu cầu pháp lý: Chúng tôi có thể tiết lộ các thông tin cá nhân nếu điều đó do luật pháp yêu cầu và việc tiết lộ như vậy là cần thiết một cách hợp lý để tuân thủ các quy trình pháp lý.
-                                        </p>
-                                    </li>
-                                    <li>
-                                        <p class="csbmtt-detail-text-normal">
-                                            Chuyển giao kinh doanh (nếu có): trong trường hợp sáp nhập, hợp nhất toàn bộ hoặc một phần với công ty khác, người mua sẽ có quyền truy cập thông tin được chúng tôi lưu trữ, duy trì trong đó bao gồm cả thông tin cá nhân.
-                                        </p>
+                                        Nếu đủ điều kiện, chúng tôi sẽ thực hiện hoàn tiền qua phương thức thanh toán ban đầu của khách hàng trong vòng 7 ngày làm việc.
                                     </li>
                                 </ul>
                             </div>
@@ -413,7 +420,7 @@
                 <div class="csbmtt-tab-content-container">
                     <h1>Chính sách thanh toán</h1>
                     <img class="csbmtt-tab-content-header-img" src="../../../../FePestsClean/resources/images/policy/policy-tab-banner4.png">
-                    <div class="csbmtt-tab-policy-content">
+                    <!-- <div class="csbmtt-tab-policy-content">
                         <div class="csbmtt-text-container">
                             <p class="csbmtt-tab-policy-content-headline">
                                 CHÍNH SÁCH BẢO MẬT THÔNG TIN KHÁCH HÀNG:
@@ -422,110 +429,36 @@
                                 Chào mừng bạn đến với Công Ty TNHH TM DV XNK NGUYỄN DUY (PestnClean)! Chúng tôi rất trân trọng sự tin tưởng của bạn và cam kết bảo vệ thông tin cá nhân của bạn. Chính sách bảo mật này mô tả cách chúng tôi thu thập, sử dụng và bảo vệ thông tin cá nhân của bạn khi bạn sử dụng trang web của chúng tôi và các quy định của pháp luật Việt Nam. Cụ thể:
                             </p>
                         </div>
-                    </div>
+                    </div> -->
                     <div class="csbmtt-tab-policy-detail-content">
                         <div class="csbmtt-detail-text-container">
                             <p class="csbmtt-detail-text-title">
-                                1. Thông Tin Thu Thập
+                                1. Hướng dẫn mua hàng và thanh toán
                             </p>
                             <div class="text-and-ul-container">
-                                <p class="csbmtt-detail-text-normal">
-                                    Khi bạn tạo tài khoản hoặc mua hàng trên trang web của chúng tôi, chúng tôi có thể thu thập các thông tin cá nhân sau đây:
-                                <ul>
-                                    <li>Tên của bạn</li>
-                                    <li>Địa chỉ email</li>
-                                    <li>Địa chỉ giao hàng</li>
-                                    <li>Thông tin thanh toán</li>
-                                </ul>
-                                Chúng tôi cũng có thể tự động thu thập một số thông tin không cá nhân về việc bạn sử dụng trang web của chúng tôi, bao gồm địa chỉ IP, loại trình duyệt, thời gian truy cập và trang web bạn đã truy cập trước khi đến với chúng tôi.
-                                </p>
+                                <p class="csbmtt-detail-text-normal"><span class="highlight-bold-text">Bước 1:</span> Tìm Kiếm Sản Phẩm: Sử dụng thanh tìm kiếm hoặc duyệt danh mục sản phẩm để tìm kiếm sản phẩm bạn muốn mua.</p>
+                                <p class="csbmtt-detail-text-normal"><span class="highlight-bold-text">Bước 2:</span> Thêm Vào Giỏ Hàng: Nhấn nút "Thêm vào giỏ hàng" trên trang sản phẩm để đưa sản phẩm vào giỏ hàng của bạn.</p>
+                                <p class="csbmtt-detail-text-normal"><span class="highlight-bold-text">Bước 3:</span> Đặt Hàng: Chọn "Thanh toán" và nhập thông tin giao hàng và thanh toán.</p>
+                                <p class="csbmtt-detail-text-normal"><span class="highlight-bold-text">Bước 4:</span> Xác Nhận Đơn Hàng: Xem lại đơn hàng của bạn, chọn phương thức thanh toán và xác nhận đơn hàng để hoàn tất quy trình mua hàng.</p>
+                                <p class="csbmtt-detail-text-normal"><span class="highlight-bold-text">Hỗ Trợ và Tư Vấn:</span> Liên hệ qua email sales@pestnclean.vn hoặc gọi đến số hotline 0868 36 36 00 nếu bạn cần hỗ trợ hoặc có câu hỏi.</p>
                             </div>
                         </div>
                         <div class="csbmtt-detail-text-container">
                             <p class="csbmtt-detail-text-title">
-                                2. Sử Dụng Thông Tin
+                                2. Các hình thức thanh toán
                             </p>
                             <div class="text-and-ul-container">
-                                <p class="csbmtt-detail-text-normal">
-                                    Chúng tôi sử dụng thông tin mà bạn cung cấp để:
-                                <ul>
-                                    <li>Cung cấp dịch vụ cho bạn và xử lý đơn hàng của bạn</li>
-                                    <li>Gửi thông tin về sản phẩm, khuyến mãi và sự kiện</li>
-                                    <li>Cải thiện và nâng cấp website của chúng tôi</li>
-                                </ul>
-                                Chúng tôi cam kết không bán, chia sẻ hoặc trao đổi thông tin cá nhân của bạn với bên thứ ba mà không có sự đồng ý của bạn, trừ khi cần thiết để cung cấp dịch vụ cho bạn hoặc tuân thủ theo yêu cầu pháp luật.
-                                </p>
-                            </div>
-                        </div>
-                        <div class="csbmtt-detail-text-container">
-                            <p class="csbmtt-detail-text-title">
-                                3. Bảo Mật Thông Tin
-                            </p>
-                            <div class="text-and-ul-container">
-                                <p class="csbmtt-detail-text-normal">
-                                    Chúng tôi cam kết bảo vệ thông tin cá nhân của bạn và đã triển khai các biện pháp an ninh phù hợp để bảo vệ thông tin đó khỏi lạm dụng, mất mát hoặc truy cập trái phép. Tuy nhiên, không có phương pháp truyền tải thông tin trên Internet hoặc lưu trữ điện tử nào là 100% an toàn.
-                                </p>
-                            </div>
-                        </div>
-                        <div class="csbmtt-detail-text-container">
-                            <p class="csbmtt-detail-text-title">
-                                4. Quyền Lợi của Bạn
-                            </p>
-                            <div class="text-and-ul-container">
-                                <p class="csbmtt-detail-text-normal">
-                                    Bạn có quyền truy cập, sửa đổi hoặc xóa bất kỳ thông tin cá nhân nào chúng tôi đã thu thập về bạn. Bạn cũng có quyền phản đối việc sử dụng thông tin của bạn cho mục đích tiếp thị hoặc liên hệ trực tiếp với chúng tôi để biết thêm thông tin.
-                                </p>
-                            </div>
-                        </div>
-                        <div class="csbmtt-detail-text-container">
-                            <p class="csbmtt-detail-text-title">
-                                5. Liên Hệ Chúng Tôi
-                            </p>
-                            <div class="text-and-ul-container">
-                                <p class="csbmtt-detail-text-normal">
-                                    Nếu bạn có bất kỳ câu hỏi hoặc ý kiến nào về Chính Sách Bảo Mật của chúng tôi, vui lòng liên hệ với chúng tôi
-                                </p>
-                                <ul>
-                                    <li>Trụ sở chính: Lầu 8, 123 Lý Chính Thắng, P. Võ Thị Sáu, Quận 3, Tp. HCM, Viet Nam.</li>
-                                    <li>Email: info@pestnclean.vn</li>
-                                    <li>Hotline: 0868 36 36 00.</li>
-                                    <li>Cảm ơn bạn đã tin tưởng và sử dụng dịch vụ của PestnClean!</li>
-                                </ul>
-                                <p class="csbmtt-detail-text-normal">
-                                    Cảm ơn bạn đã tin tưởng và sử dụng dịch vụ của PestnClean!
-                                </p>
-                            </div>
-                        </div>
-                        <div class="csbmtt-detail-text-container">
-                            <p class="csbmtt-detail-text-title">
-                                6. Những người hoặc tổ chức có thể được tiếp cận với thông tin đó
-                            </p>
-                            <div class="text-and-ul-container">
+                                <p class="csbmtt-detail-text-normal"><span class="highlight-bold-text">Các Phương Thức Thanh Toán:</span> Chấp nhận thanh toán bằng thẻ tín dụng (Visa, MasterCard, American Express), chuyển khoản ngân hàng, thanh toán khi nhận hàng (COD), ví điện tử Momo, PayPal.</p>
+                                <p class="highlight-bold-text">Hướng Dẫn Thanh Toán:</p>
                                 <ul>
                                     <li>
-                                        <p class="csbmtt-detail-text-normal">
-                                            Các đối tác là bên cung cấp dịch vụ cho chúng tôi liên quan đến thực hiện đơn hàng và chỉ giới hạn trong phạm vi thông tin cần thiết cũng như áp dụng các quy định đảm bảo an ninh, bảo mật các thông tin cá nhân.
-                                        </p>
+                                        <p class="csbmtt-detail-text-normal"><span class="highlight-bold-text">Thanh Toán Trực Tuyến:</span> Chọn phương thức thanh toán trên trang thanh toán, nhập thông tin thẻ và xác nhận giao dịch.</p>
                                     </li>
                                     <li>
-                                        <p class="csbmtt-detail-text-normal">
-                                            Chúng tôi sử dụng dịch vụ từ một nhà cung cấp dịch vụ là bên thứ ba để thực hiện một số hoạt động liên quan đến website amall.vn. Khi đó, bên thứ ba có thể truy cập hoặc xử lý các thông tin cá nhân trong quá trình cung cấp các dịch vụ đó. Chúng tôi yêu cầu các bên thứ ba này tuân thủ mọi luật lệ về bảo vệ thông tin cá nhân liên quan và các yêu cầu về an ninh liên quan đến thông tin cá nhân.
-                                        </p>
+                                        <p class="csbmtt-detail-text-normal"><span class="highlight-bold-text">Thanh Toán Khi Nhận Hàng (COD):</span> Thanh toán cho nhân viên giao hàng khi nhận được hàng.</p>
                                     </li>
                                     <li>
-                                        <p class="csbmtt-detail-text-normal">
-                                            Các chương trình có tính liên kết, đồng thực hiện, thuê ngoài cho các mục đích được nêu tại Mục 1 và luôn áp dụng các yêu cầu bảo mật thông tin cá nhân.
-                                        </p>
-                                    </li>
-                                    <li>
-                                        <p class="csbmtt-detail-text-normal">
-                                            Yêu cầu pháp lý: Chúng tôi có thể tiết lộ các thông tin cá nhân nếu điều đó do luật pháp yêu cầu và việc tiết lộ như vậy là cần thiết một cách hợp lý để tuân thủ các quy trình pháp lý.
-                                        </p>
-                                    </li>
-                                    <li>
-                                        <p class="csbmtt-detail-text-normal">
-                                            Chuyển giao kinh doanh (nếu có): trong trường hợp sáp nhập, hợp nhất toàn bộ hoặc một phần với công ty khác, người mua sẽ có quyền truy cập thông tin được chúng tôi lưu trữ, duy trì trong đó bao gồm cả thông tin cá nhân.
-                                        </p>
+                                        <p class="csbmtt-detail-text-normal"><span class="highlight-bold-text">Chuyển Khoản Ngân Hàng:</span> Cung cấp thông tin tài khoản ngân hàng để chuyển khoản sau khi đặt hàng.</p>
                                     </li>
                                 </ul>
                             </div>
@@ -536,5 +469,7 @@
         </div>
     </div>
 </section>
+
+<?php include '../client/banner-carousel.php' ?>
 
 <?php include 'layouts/footer.php' ?>
