@@ -9,7 +9,7 @@
     </div>
 </section>
 
-<section class="landscape-design-abouts">
+<section class="landscape-design-abouts wow animate__fadeInDown" data-wow-delay="0.25s">
     <div class="content">
         <div class="row">
             <div class="col-md-5">
@@ -25,7 +25,7 @@
     </div>
 </section>
 
-<section class="landscape-design-process">
+<section class="landscape-design-process wow animate__fadeInLeft" data-wow-delay="0.25s">
     <div class="headline">
         <h1 class="title">QUY TRÌNH THI CÔNG CẢNH QUAN</h1>
     </div>
@@ -38,7 +38,7 @@
     </div>
     <div class="content">
         <div class="row">
-            <div class="card-item col-md-4">
+            <div class="card-item col-md-4 wow animate__fadeInUp" data-wow-delay="0.25s">
                 <img src="../../images/landscapeDesign/landscape-design-services-img1.png" class="img-fluid" alt="">
                 <div class="wrapper">
                     <h6 class="title">Thiết kế và Thi công Khuôn viên Xanh</h6>
@@ -50,7 +50,7 @@
                     </a>
                 </div>
             </div>
-            <div class="card-item col-md-4">
+            <div class="card-item col-md-4 wow animate__fadeInDown" data-wow-delay="0.25s">
                 <img src="../../images/landscapeDesign/landscape-design-services-img2.png" class="img-fluid" alt="">
                 <div class="wrapper">
                     <h6 class="title">Thiết kế và Thi công Vườn Hoa</h6>
@@ -62,7 +62,7 @@
                     </a>
                 </div>
             </div>
-            <div class="card-item col-md-4">
+            <div class="card-item col-md-4 wow animate__fadeInUp" data-wow-delay="0.25s">
                 <img src="../../images/landscapeDesign/landscape-design-services-img3.png" class="img-fluid" alt="">
                 <div class="wrapper">
                     <h6 class="title">Thiết kế và Thi công Hệ thống Tưới Tiêu Tự Động</h6>
@@ -83,12 +83,12 @@
         <h1 class="title">THI CÔNG CÂY CẢNH</h1>
         <p class="description">Thi công cây cảnh không chỉ mang lại không gian xanh mát mà còn góp phần tạo nên điểm nhấn thẩm mỹ cho khuôn viên. PestnClean cung cấp dịch vụ thi công cây cảnh với nhiều loại cây đa dạng, phù hợp với từng không gian và nhu cầu của khách hàng. Chúng tôi đảm bảo mỗi công trình thi công đều đạt tiêu chuẩn cao về chất lượng và thẩm mỹ.</p>
     </div>
-    <div class="construction-list">
+    <div class="construction-list wow animate__bounceInLeft" data-wow-delay="0.25s">
         <img src="../../images/landscapeDesign/landscape-design-construction-list.png" alt="" class="img-fluid">
     </div>
     <div class="construction-steps">
-        <div class="row">
-            <div class="col-md-3">
+        <div class="row wow animate__bounceInLeft" data-wow-delay="0.25s">
+            <div class="col-md-3 wow">
                 <img src="../../images/landscapeDesign/construction-step1.png" alt="" class="img-fluid">
             </div>
             <div class="col-md-3">
@@ -101,7 +101,7 @@
                 <img src="../../images/landscapeDesign/construction-step4.png" alt="" class="img-fluid">
             </div>
         </div>
-        <div class="row">
+        <div class="row wow animate__bounceInRight" data-wow-delay="0.25s">
             <div class="col-md-3">
                 <img src="../../images/landscapeDesign/construction-step5.png" alt="" class="img-fluid">
             </div>
@@ -113,7 +113,7 @@
             </div>
         </div>
     </div>
-    <div class="construction-list">
+    <div class="construction-list wow animate__slideInUp" data-wow-delay="0.25s">
         <img src="../../images/landscapeDesign/landscape-design-construction-list2.png" alt="" class="img-fluid">
     </div>
 </section>

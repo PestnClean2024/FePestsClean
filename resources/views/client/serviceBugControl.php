@@ -9,7 +9,7 @@
     </div>
 </section>
 
-<section class="container-fluid p-0 mt-5">
+<section class="container-fluid p-0 mt-5 wow animate__fadeInUp" data-wow-delay="0.25s">
     <div class="service-bug-control-text-and-video-container">
         <div class="row">
             <div class="col">
@@ -33,7 +33,7 @@
     </div>
 </section>
 
-<section class="container-fluid p-0 mt-5">
+<section class="container-fluid p-0 mt-5 wow animate__fadeInLeft" data-wow-delay="0.25s">
     <div class="service-bug-control-charts-container">
         <div class="row">
             <div class="col">
@@ -52,7 +52,7 @@
     </div>
 </section>
 
-<section class="container-fluid p-0 mt-5">
+<section class="container-fluid p-0 mt-5 wow animate__fadeInUp" data-wow-delay="0.25s">
     <div class="service-bug-control-category-container">
         <p class="service-title">
             DỊCH VỤ KIỂM SOÁT CÔN TRÙNG THEO NGÀNH HÀNG
@@ -134,7 +134,7 @@
     </div>
 </section>
 
-<section class="container-fluid p-0 mt-5">
+<section class="container-fluid p-0 mt-5 wow animate__zoomIn" data-wow-delay="0.25s">
     <div class="service-bug-control-species-container">
         <p class="service-bug-control-species-title">
             DỊCH VỤ KIỂM SOÁT CÔN TRÙNG chuyên biệt
