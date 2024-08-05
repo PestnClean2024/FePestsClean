@@ -686,3 +686,12 @@
     height: 24px !important;
     width: 24px !important;
 }
+
+.tab-content .image-container .img-thumbnail {
+    transition: transform 0.3s ease;
+}
+
+.tab-content .images-container .img-thumbnail:hover {
+    transform: scale(1.05);
+    cursor: pointer;
+}

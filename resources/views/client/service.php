@@ -11,7 +11,7 @@
 
 <section class="container-fluid p-0" style="margin-top: 80px">
     <div class="service-card-list">
-        <div class="service-card-item">
+        <div class="service-card-item wow animate__fadeInLeft">
             <div class="content-container">
                 <h4>DỊCH VỤ Kiểm soát côn trùng</h4>
                 <p>Dịch vụ kiểm soát côn trùng là một giải pháp chuyên nghiệp nhằm loại bỏ và ngăn chặn sự xuất hiện của các loại côn trùng gây hại như mối, kiến, gián, chuột, ruồi và muỗi… trong không gian sống và làm việc. Dịch vụ này bao gồm việc kiểm tra, đánh giá tình hình côn trùng, áp dụng các biện pháp xử lý để duy trì môi trường sạch sẽ và an toàn, tránh những phiền toái mà côn trùng gây hại đem lại.</p>
@@ -21,7 +21,7 @@
                 <img src="../../../../FePestsClean/resources/images/Service/card-item-img.png">
             </div>
         </div>
-        <div class="service-card-item-reverse">
+        <div class="service-card-item-reverse wow animate__fadeInRight">
             <div class="content-container">
                 <h4>DỊCH VỤ VỆ SINH
                     CÔNG NGHIỆ</h4>
@@ -32,7 +32,7 @@
                 <img src="../../../../FePestsClean/resources/images/Service/card-item-img2.png">
             </div>
         </div>
-        <div class="service-card-item">
+        <div class="service-card-item wow animate__fadeInLeft">
             <div class="content-container">
                 <h4>DỊCH VỤ GIẢI PHÁP
                     VỆ SINH</h4>
@@ -43,7 +43,7 @@
                 <img src="../../../../FePestsClean/resources/images/Service/card-item-img3.png">
             </div>
         </div>
-        <div class="service-card-item-reverse">
+        <div class="service-card-item-reverse wow animate__fadeInRight">
             <div class="content-container">
                 <h4>DỊCH VỤ THIẾT KẾ & THI CÔNG CẢNH QUAN</h4>
                 <p>Dịch vụ thiết kế & thi công cảnh quan là quá trình tạo ra và xây dựng các không gian ngoài trời như sân vườn, công viên, khuôn viên nhà ở, và khu vực thương mại… Quá trình này bao gồm việc lên ý tưởng, thiết kế chi tiết và thực hiện thi công để tạo nên một môi trường xanh, đẹp mắt và nhiều công năng thú vị.</p>
