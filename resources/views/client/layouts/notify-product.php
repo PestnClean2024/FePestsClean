@@ -1,9 +1,10 @@
+<section>
 <div class="footer">
     <div class="footer-log-re">
         <p class="footer-p-register text-uppercase">ĐĂNG KÝ NHẬN THÔNG TIN MUA HÀNG</p>
         <form id="collect-info">
           <hr class="hr-footer">
-          <div class="size">
+          <div class="size-ft">
  
             <div class="div-form">
               <div class="label-textbox">
@@ -63,9 +64,9 @@
               <span>Tôi đã đọc và đồng ý với <a href="#" class="none">điều khoản</a> và <a href="#" class="none">điều kiện</a> của Pestnclean</span>
             </div>
 
-            <hr class="hr-footer-btn">
+            <hr class="hr-footer-btn" >
 
-            <div class="div-ref-con">
+            <div class="div-ref-con" >
               <button class="button-ref label-input">Làm lại</button>
               <button class="button-con label-input">Tiếp tục</button>
             </div>
@@ -73,3 +74,4 @@
         </form>
     </div>
 </div>
+</section>

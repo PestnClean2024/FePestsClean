@@ -64,13 +64,18 @@ a{
 }
 .hr-footer{
     border: 1px solid black;
-    width: 1268px;
+    width: 94.07%;
     margin-top: -1rem;
+    margin-left: 2rem;
+}
+.ft-ctn{
+    width: 100%;
 }
 .hr-footer-btn{
     border: 1px solid black;
-    width: 1268px;
-
+    width: 94.07%;
+    margin-top: 1rem;
+    margin-left: 2rem;
 }
 .footer-p-register{
     font-size: 56px;
@@ -91,14 +96,14 @@ a{
     position: absolute;
     background-color: white;
     border-radius: 5px;
-    width: 1348px;
-    height: 798px;
+    width: 89.14%;
+    height:auto;
     border: 1px solid #dee2e6;
 }
 
 .footer-log-re #collect-info {
     padding: 10px;
-    width: max-content;
+    width: 100%;
     margin: 0 auto;
 }
 .footer-a{
@@ -126,9 +131,11 @@ input{
 .label-textbox{
     display: flex;
     gap: 10px;
+    margin-top: 1rem;
+    width: 100%;
 }
 .label-text{
-    width: 629px;
+    width: 49.45%;
     height: 78px;
 }
 .label-input{
@@ -136,7 +143,7 @@ input{
     font-size:16px;
     line-height:24px;
     color: black;
-    width: 629px;
+    width: 100%;
 }
 .label-name-email{
     font-weight:600;
@@ -146,7 +153,7 @@ input{
     width: 629px;
 }
 .text-input{
-    width: 629px;
+    width: 100%;
     height: 48px;
     border: 1px solid #dee2e6;
     border-radius: 5px;
@@ -164,11 +171,11 @@ input{
     height: 48px;
     border-radius: 10px;
 }
-.size{
+.size-ft{
     font-size: 16px;
 }
 .text-select{
-    width: 1268px;
+    width: 100%;
     height: 48px;
     border: 1px solid #dee2e6;
     border-radius: 5px;
@@ -179,7 +186,7 @@ input{
     color: black;
 }
 .button-ref{
-    width: 160px;
+    width: 12.46%;
     height: 64px;
     border: 1px solid #005CA9;
     color: #005CA9;
@@ -187,7 +194,7 @@ input{
     padding: 6px 14px 6px 14px;
 }
 .button-con{
-    width: 160px;
+    width: 12.46%;
     height: 64px;
     border: 1px solid #005CA9;
     background-color: #005CA9;
@@ -197,15 +204,19 @@ input{
     margin-left: 0.5rem;
 }
 .div-ref-con{
-    width: 21rem;
-    margin-left: 58.5rem;
+    width: 100%;
+    /* margin-left: 73.8%; */
+    margin-top: 2rem;
+    margin-bottom: 2%;
 }
 .div-top{
     margin-top: 0.6rem;
     color: black;
+    width: 100%;
 }
 .div-top-2{
     margin-top: 0.8rem;
+    width: 100%;
 }
 .icon-ytb-z{
     margin-left: 1rem;
@@ -264,4 +275,36 @@ input{
     font-style: normal;
     font-weight: 600;
     line-height: 150%;
+}
+.ft-11{
+    width: 11rem;
+
+}
+.ft-9{
+    width: 9rem;
+}
+.ft-17{
+    width: 17rem;
+}
+.ft-flex{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    Gap:49px;
+}
+.footer-hr{
+    width: 89.42%;
+    margin-left: 6.5%;
+}
+@media (min-width: 764px) and (max-width: 1440px){
+    .footer-div{
+        grid-template-columns: repeat(1, 1fr);
+    }
+    .ft-flex{
+        grid-template-columns: repeat(2, 1fr);
+
+    }
+    .footer-hr{
+        width: 89.42%;
+        margin-left: 6.5%;
+    }
 }
