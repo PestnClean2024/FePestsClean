@@ -134,7 +134,7 @@
     <hr>
 
     <div class="footer-a">
-      <a href="#" class="blue">Copyright © 2024 Petsnclean</a> |
+      <a href="#" class="blue">Copyright © 2024 PestnClean</a> |
       <a href="#" class="blue">Công ty TNHH Thương Mại Dịch Vụ Xuất Khẩu Nguyễn Duy </a>
       <span class="mx-2">|</span>
       <a href="#" class="me-2 blue">Privacy Policy</a>
