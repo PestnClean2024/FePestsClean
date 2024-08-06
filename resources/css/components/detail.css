@@ -215,6 +215,16 @@ hr,ul,ol,li {
   display: flex;
   gap: 24px;
 }
+.done{
+  margin-top: 6rem;
+}
+.dt-i{
+    width: 558px;
+    height: 160px;
+}
+.w-100{
+  height: 100%;
+}
 .detail-info .done div {
   width: 337px;
 }
@@ -453,4 +463,11 @@ hr,ul,ol,li {
   color: #4c4c4c;
   font-size: 40px;
   font-weight: bold;
+}
+.ms-2{
+  padding: 16px;
+  gap: 16px;
+}
+.dt-s{
+  margin-top: 0.2rem;
 }

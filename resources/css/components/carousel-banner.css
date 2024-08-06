@@ -1,0 +1,32 @@
+.service-ads-banner img {
+    display: flex;
+    width: 100%;
+    height: 525px !important;
+    flex-direction: column;
+    align-items: flex-start;
+    position: relative;
+    margin-top: 80px;
+}
+
+.service-ads-banner .carousel-control-prev,
+.service-ads-banner .carousel-control-next {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    background-color: transparent;
+    border: none;
+}
+
+.service-ads-banner .carousel-control-prev {
+    left: -10%;
+}
+
+.service-ads-banner .carousel-control-next {
+    right: -10%;
+}
+
+.service-ads-banner .carousel-control-prev button,
+.service-ads-banner .carousel-control-next button {
+    width: 30px;
+    height: 30px;
+}

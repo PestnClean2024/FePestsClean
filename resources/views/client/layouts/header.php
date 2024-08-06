@@ -47,7 +47,7 @@
     <link rel="stylesheet" href="/FePestsClean/resources/css/components/detail.css">
     <link rel="stylesheet" href="/FePestsClean/resources/css/components/faq.css">
     <link rel="stylesheet" href="/FePestsClean/resources/css/components/policy.css">
-    <link rel="stylesheet" href="/FePestsClean/resources/css/components/appearAnimation.css">
+    <link rel="stylesheet" href="/FePestsClean/resources/css/components/carousel-banner.css">
 </head>
 
 <body>

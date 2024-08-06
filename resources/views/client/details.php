@@ -2,7 +2,7 @@
 <section class=" wrapper detail-info">
     <div class="breadcrumb ms-2 mb-5">
         <span>Sản phẩm</span>
-        <i class="fa-solid fa-angle-right"></i>
+        <i class="fa-solid fa-angle-right dt-s"></i>
         <a href="#">Hoá chất 3M™ Stainless Steel Cleaner & Polish 621ml (21OZ)</a>
     </div>
     <div class="product-main">
@@ -13,12 +13,12 @@
                 <div class="new">MỚI</div>
             </div>
             <div class="sub-img">
-                <div class="slice-carousel sub-img-list">
-                    <div><img class="w-100" src="../../images/Details/sp1.png" alt="Image 1"></div>
-                    <div><img  class="w-100"src="../../images/Details/sp1.png" alt="Image 2"></div>
-                    <div><img class="w-100" src="../../images/Details/sp1.png" alt="Image 3"></div>
-                    <div><img class="w-100" src="../../images/Details/sp1.png" alt="Image 3"></div>
-                    <div><img class="w-100" src="../../images/Details/sp1.png" alt="Image 3"></div>
+                 <div class="slice-carousel sub-img-list">
+                    <div class="dt-i" ><img class="w-100" src="../../images/Details/sp1.png" alt="Image 1"></div>
+                    <div class="dt-i"><img  class="w-100"src="../../images/Details/sp1.png" alt="Image 2"></div>
+                    <div class="dt-i"><img class="w-100" src="../../images/Details/sp1.png" alt="Image 3"></div>
+                    <div class="dt-i"><img class="w-100" src="../../images/Details/sp1.png" alt="Image 3"></div>
+                    <div class="dt-i"><img class="w-100" src="../../images/Details/sp1.png" alt="Image 3"></div>
                 </div>
             </div>
 
