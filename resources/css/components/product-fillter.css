@@ -31,8 +31,8 @@
 }
 .filter-color{
     color: #005CA9;
-    font-size: 24px;
-    font-weight: 600;
+    font-size: 24px!important;
+    font-weight: 600!important;
     line-height: 36px;
 }
 .img-fiter{
@@ -55,8 +55,8 @@
     margin-top: 0.5rem;
 }
 .filter-size{
-    font-size: 18px;
-    font-weight: 400;
+    font-size: 18px!important;
+    font-weight: 400!important;
     line-height: 27px;
 }
 .filter-size-16{
@@ -164,6 +164,7 @@
     margin-top: 0.2rem;
     border: 1px solid #C8CCD0;
     width: 40px;
+    z-index: 1000;
 }
 .filter-i-color {
     color: #C8CCD0;
@@ -212,3 +213,18 @@
     text-decoration: underline;
     color: #21A612;
 }
+
+/* Ẩn .div-fillter trên màn hình nhỏ */
+@media (max-width: 1024px) {
+    .div-fillter {
+        display: none;
+    }
+    
+}
+  
+.div-fillter.active {
+display: block;
+}
+  
+  
+  

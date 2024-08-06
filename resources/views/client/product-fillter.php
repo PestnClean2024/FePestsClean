@@ -2,7 +2,7 @@
 <section>
 
     <div class="div-product">
-        <div class="div-product-text div-fillter">
+        <div class="div-fillter">
             <div class="div-fillter-menu">
                 <div class="div-flex ">
                     <p class="div-fiter filter-color">Bộ lọc</p>
@@ -686,6 +686,36 @@
     </div>
 </div>
 </section>
+<script>
+   document.addEventListener('DOMContentLoaded', function () {
+  var filterBtn = document.querySelector('.filter-btn-img');
+  var imgFilter = document.querySelector('.img-fiter');
+  var divFilter = document.querySelector('.div-fillter');
+  var divBanner = document.querySelector('.div-banner');
+
+  function toggleFilter() {
+    if (window.innerWidth <= 1024) {
+      divFilter.classList.toggle('active');
+      divBanner.style.display = divFilter.classList.contains('active') ? 'none' : 'block';
+    }
+  }
+
+  filterBtn.addEventListener('click', toggleFilter);
+  imgFilter.addEventListener('click', toggleFilter);
+
+  window.addEventListener('resize', function () {
+    if (window.innerWidth > 1024) {
+      divFilter.classList.remove('active');
+      divBanner.style.display = 'block';
+    }
+  });
+});
+
+
+
+
+</script>
+
 <?php include 'banner-carousel.php' ?>
 <?php include 'layouts/notify-product.php'; ?>
 <?php include 'layouts/footer.php' ?>
